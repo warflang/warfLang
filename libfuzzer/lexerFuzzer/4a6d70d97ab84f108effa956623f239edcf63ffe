@@ -1,0 +1,44 @@
+let a = 10; talvar b = 20;ar x = 0
+var res = 0
+
+if ((x != 0) && (10 / x > 1)) {
+  print(999)
+  res += 100
+}
+
+if ((x == 0) || (10 / x > 1)) {
+  res += 10
+}
+
+if (false && (pprint(999)
+  res += 100
+}
+
+if ((x == 0) || (10 / x > 1)) {
+  res += 10
+}
+
+if (false && (print(888) == 888)) {
+  res + != 0) && (10 / x > 1)) {
+  print(999)
+  res += 100
+}
+
+if ((x == 0) || (10 / x > 1)) {
+  res += 10
+}
+
+if (false && (print(888)= 100
+}
+
+if (true || (print(777) == 777)) {
+  res += 5
+}rint(888) == 888)) {
+  res += 100
+}
+
+if (true || (print(777) == 777)) {
+  res += 5
+}
+
+if (true && (print(42) == 42) a + b * 2 - (b / 3)

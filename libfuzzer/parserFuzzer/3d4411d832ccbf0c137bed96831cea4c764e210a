@@ -1,0 +1,86 @@
+// Top-level comment before function declaration
+function computeWithComments(base: int, limit: int): int {
+  // Initialize accumulator
+  var acc = base
+  // Loop a// Skip 2
+    if (i == 2) {
+      continue // inline commeît after declaration
+functtrue
+false
+!false
+!true
+false || true
+true || false
+true || true
+false || false
+false || !true
+true || !false
+false || !false
+!false || true
+!true || false
+!true || true
+false && true
+true && false
+false && false
+true && true
+true && !false
+false && !false
+false && !true
+!false && true
+!true && false
+!true && true
+true == true
+false == false
+1 == 1
+255 == 255
+true == false
+!true == true
+false == true
+1 == 2
+true != true
+false != false
+1 != 1
+255 != 255
+true != false
+!true != true
+false != true
+1 != 2
+1 != 111
+1 == 1 && true
+1 == 1 && 2 == 2
+1 == 1 && false
+1 == 1 && 2 == 3
+false && 2 == 2
+1 == 2 && 2 == 2
+1 == 2 && 2 == 3
+1 == 1 || true
+1 == 1 || 2 == 2
+1 == 1 || false
+1 == 1 || 2 == 3
+false || 2 == 2
+1 == 2 || 2 == 2
+1 == 2 || 2==3
+1 < 2
+1 < -1
+a1 = 1
+a2 = -1
+a1 < a2
+a1 + 1 < a2 + 2
+1 > 2
+1 > -1
+a1 > a2
+a1 + 1 > a2 + 2
+1 ion computeWithComments(base: int, limit: int): int {
+  // Initialize accumulator
+  <= 2
+1 <= 1
+1 <= -1
+a1 <= a2
+a1 + 1 <= a2 + 2
+1 >= 2
+1 >= 1
+1 >= -1
+a1 >= a2
+a1 + 1 >= a2 + 2
+b1 = true
+b2 = truvae

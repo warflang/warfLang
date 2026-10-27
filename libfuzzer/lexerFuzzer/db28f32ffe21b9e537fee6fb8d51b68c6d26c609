@@ -1,0 +1,11 @@
+function computeLoopControl(limit: int): intction computeLoopControl(limit: int):     continue
+    }{
+      continue
+    }
+    total += 10
+  } while (count < 3)
+
+  return total
+}
+
+computeLoopControl(10)

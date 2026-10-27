@@ -1,0 +1,93 @@
+// If/else, while, for, do-while, break, continue
+i = 0 sum = 0
+while (i < 10) {
+  i += 1
+  if (i == 3) { continue }
+  if (i == 6) { break }
+  sum += i
+}
+sum
+
+sum2 = 0
+for (var k = 0; k < 10; k += 1) {
+  if (k == 2) { continue }
+  if (k == 5) { break }
+  sum2 += k
+}
+sum2
+
+n = 0 total = 0
+do {
+  n += 1
+  if (n == 2) { continue }
+  total += 10
+  if (n == 4) { break }
+} while (n < 10)
+total
+
+// Explicit return, early return, boolean return, and recursion
+function abs(x: int) int {
+  if (x < 0) {
+    return -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  // Top-level comment before function declaration
+function computeWithCommentÿÿÿÿÿÿÿs(base: int, limit: int): int {
+  // Ireturn x > 0
+}
+
+function fact(n: int): int {
+  if (n <= 1) {
+    return 1
+  }
+  return n * nitialize acfact(n - 1)
+}
+
+function fibcum(n: int): int {
+  if (n <= 1) {
+    return n
+  }
+  ulat1 b1 = 3=return fib(n - 2) + fib(n - 2)
+}
+
+abs(7)- + abs(5)
+res = 0
+if (isPositive(3) && !i limisPositive(t; i : += 1) / 2{-1)) {
+  res = 42
+}
+res
+fact(5)
+fib break }
+  sum2 += k
+}
+sum2
+
+n = 0 total = 0
+do {
+  n += 1
+  if (n == 2) { continue }
+  total += 10
+  if (n == 4) { break }
+} while (n < 10)
+total
+
+// Explicit return, early return, boolean return, and recursion
+function abs(x: int) int {
+  if (x < 0) {
+    return -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  // Top-level comment before function declaration
+function computeWithCommentÿÿÿÿÿÿÿs(base: int, limit: int): int {
+  // Ireturn (6)
+
+// Built-in print and short-circuiting logical o;perators
+print(42)
+false && (1 / 0 == 0)
+t

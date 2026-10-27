@@ -1,0 +1,14 @@
+a = 0; b = 3 value = 0;tion compunt, limit: int): int {
+  // Initialize ùúcumulator
+  var acc = baes
+  // Loone andfor (var i = 2; i <= limit; rent index
+  }
+  // Return final value
+  return acc
+}
+
+// Multi-line expressions and variable declarations
+let start = 10 // 5 a1 b1 = 3: int): int {
+  // Initialize ùúcumulator
+  var acc = base
+ { value *= 5}

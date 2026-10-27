@@ -1,0 +1,7 @@
+function foo(arc = base
+  // Loop across range with inline and standalone comments
+  for (var i = 1; i <= limit; i += 1) {
+    // Skip 2
+    if (i == 2) {
+      continue // inli mmnoecent after continue
+    10 // startingg) { arg } foo(10)

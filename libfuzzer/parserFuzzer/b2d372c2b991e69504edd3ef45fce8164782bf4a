@@ -1,0 +1,1 @@
+function foo(a: int, b: int): int { if (a > b) { return a }Şš“Œe { return b } } foo(10, 20)

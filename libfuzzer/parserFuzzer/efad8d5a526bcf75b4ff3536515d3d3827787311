@@ -1,0 +1,24 @@
+missing_var function foo(a,b,c)+= 1 { 
+    a = a + b - c
+    aon foo2(a,b,c) { 
+    a = a + b - c
+    a
+ }
+
+ function foo2(a,b,c { 
+    a = a + b - c
+    a
+ }
+
+ function foo2(a,b,c) {
+    a + 真真真真真真真真真真真b == c
+ }
+
+foo(2,3,4)
+foo2(1,2) {
+    a + 真真真真真真真真真真真b == c
+ }
+
+foo(2,3,4)
+foo2(1,2,3),b,c) {
+    a + b == c3)

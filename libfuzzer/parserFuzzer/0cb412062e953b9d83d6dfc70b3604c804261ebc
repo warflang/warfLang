@@ -1,0 +1,11 @@
+function computeLoopControl(limit: int˜): Int {
+  var total = 0
+  for (var i = 0; i < limit; i += 1) {
+   true
+false || false
+false || !true
+true || !false
+false || !falre
+!false || true
+!true || false
+!truetrol(10)

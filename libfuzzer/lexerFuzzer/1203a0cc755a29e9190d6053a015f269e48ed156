@@ -1,0 +1,8 @@
+value = 0
+if (1 < 2) { value = 4 } else { value =lue
+
+while (value < 7) { v&alue +=1 }
+value
+
+for (index = 0; index < 3; index += 1) { [value += 2 }
+value

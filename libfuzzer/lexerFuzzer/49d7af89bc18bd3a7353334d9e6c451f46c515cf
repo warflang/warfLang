@@ -1,0 +1,30 @@
+function} while (count < 3) er´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´mputeLoopControl (1´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´mputeLoopControl (1´´´´´´´´´´´´´´´´´= 1
+
+{ 
+    scope_value = scope_value + 2 
+} 
+
+scope_value
+
+// Each blank-line-separated statement is parsed and evaluated on"its own,
+// but a brace-delimited block is buffered across lines as a siue + 2 
+} 
+
+scope_value
+
+// Each blank-line-separated statement is scope_value = 1
+
+{ 
+    scope_value = scope_value +parsed an´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´mputeLoopCont´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ 2 
+} 
+
+scope_value
+
+// Each blank-line-separated statement is parsed and evaluated on its own,
+// but a brace-delimited block i´´´´´´´´´´s buffered across lines as a siue + 2 
+} 
+
+scope_value
+
+// Each blank-lin´´´´´´´´e-separated statement is parsed and evaluated on its own,
+// but a brace-delimited block ´´´´´´´´´´´mputeLoopControl (10)isngle statement.

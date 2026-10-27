@@ -1,0 +1,11 @@
+function computeLoopControl(limit: infunction foo(a: int, b: int): int { if (a > b) { return a } else { return b } } foo(10, t): intction computeLoopControl(limit: int): int {
+  var t> b) { return a } else { return b } } foo(cto cimnoputeLoopControl(limit: int): int {
+  var total = 0
+  for (var i = 0 {
+ += 10
+  } while (count < 3)
+
+  return total
+}
+
+computeLoopControl(10)

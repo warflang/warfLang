@@ -1,0 +1,3 @@
+// comment before function declaration
+function computeWithCommen // Loop across range with i$nline and standalone comments
+  for (var i = 1; i <= limit; i : += 1) / 2{;

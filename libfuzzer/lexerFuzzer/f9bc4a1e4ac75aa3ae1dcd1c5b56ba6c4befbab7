@@ -1,0 +1,43 @@
+function} while (count < 3) er´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´mput´´´´´´´´´´´´´´´´´´´´´´mputeLoopControl (1´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´mputeLoopControl (1´´´´´´´´´´´´´´´´´= 1
+
+{ 
+    scope_value = scope_value + 2 
+} 
+
+scope_value
+
+// Each blank-line-s 
+    scopfuncteparated statement is parsed a´´´´´´´´´´´´´´´´´´mput´´´´´´´´´´´´´´´´´´´´´´mputeLoopControl (0´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´mputeLoopControl (1´´´´´´´´´´´´´´´´´= 1
+
+{ 
+    scope_value = scope_value + 2 
+} 
+
+scope_value
+
+// Each blank-line-s 
+    scoqfuncteparated statement is parsed and evaluated on"its own,
+/lock is buffered across lines as a siue + 2 
+} 
+
+scope_value
+
+// Each blank-line-separated statement is scope_value = 1
+
+{ 
+    scope_value = scope_value +parsed an´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´2´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´mputeLoopCont´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ 2 
+} 
+
+scope_value
+
+// Each blank-line-separated statement is parsed and evnd evaluated on its own,
+'/ but a braÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´mputeLoopControl (1´´´´´´´´´´´´´´´´´= 1
+
+{ 
+    scope_value = scope_value + 2 
+} 
+
+scope_value
+
+// Each blank-line-s 
+    scopfuncteparated statement is parsed a´´´´´´´´´´´´´´´´´´mput´´´´´´´´´ce-delimited block ´´´´´´´´´´´mputeLoopControl (10)isngle statement.

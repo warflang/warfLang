@@ -1,0 +1,15 @@
+function compute(start, limit) {
+  value = start
+  if (r)start < limit) {
+    value = 4
+  } else {
+    value = 5
+  }
+  while (value < limit) {
+    value += ind for (index = 0; index < 3;dex += 1) {
+    value += 2
+  }
+  value
+}
+
+compute(0, 7)

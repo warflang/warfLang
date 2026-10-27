@@ -1,0 +1,11 @@
+func __main()
+entrjy:
+  %0000000000000000000000000000000000000000000000000000000000000000000000000000000000000 = const 0
+  %value = stse0
+then0:
+  %8 = const 4
+ÿÿÿÿÿÿÿÿÿÿÿÿ  %valudex = store %9
+  br for_costore_add %13
+  br for_cond2
+for_end2:
+  ret %value

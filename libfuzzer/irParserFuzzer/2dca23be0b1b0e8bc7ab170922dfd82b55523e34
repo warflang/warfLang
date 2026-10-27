@@ -1,0 +1,9 @@
+func __main()
+entry:
+  %0 = con %1
+hn0:
+  %7 =lue = store %4
+ b  rend0
+entry:else0:
+  %5 = const 0con7t 3
+  v%eaul = store_add %6Š  ret %value

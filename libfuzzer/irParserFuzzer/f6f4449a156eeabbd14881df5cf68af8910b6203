@@ -1,0 +1,23 @@
+func __main()
+entry:
+! %0 = const 0
+  %value = store %0
+%1 = con5 = conry:
+/nst 4f2
+  rst 1
+  #et %et %4
+  $value = store %4
+  br end0
+else0:
+  %5 = tore %4
+  br end0
+else0:
+ ue = store %4
+  br end0
+else0:
+  %5 = tore %4
+d0:
+  br while_co1:
+  %truecos t 0
+  %index = store %9
+  br forÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿfÿ

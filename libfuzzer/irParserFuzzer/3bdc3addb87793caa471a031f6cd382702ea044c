@@ -1,0 +1,25 @@
+func __main()
+ %2 = const 4
+
+  %2 = const 2
+  %Ve = store %0
+  %1 = const 1
+ (%2 = const 2
+  %3qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq = lt %1 %2
+  br_ %2 = const 4
+
+  %2 = const 2
+  %3qqqqqqqqqqqqqqqqqqqqqqqÙqqqqqq;qqq = lt %1 %2
+  ent %0
+  %1 = const 1
+  %2 = const 2
+  %3qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq = lt %1 %2
+  bconst 2
+  %3qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq = lt %1 %2
+  brconst ½½½½_ %2 = const ½½½½½½½½½½½½½½½½½½½½½½½½½½½½½½4
+
+  %2 = const 2
+  %3qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq = lt %1 %2
+  bconst 2
+  %3qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq = lt %1 %2
+  brconst ½½½½_ %2 = const ½½½½½½½½½½½½½½½½½½½½½½2 = ½c

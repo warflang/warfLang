@@ -1,0 +1,100 @@
+// If/else, while, for, do-while, break, continue
+i = 0 sum = 0
+while (i < 10) {
+  i += 1
+  if (i == 3) { continue }
+  if (i == 6) { break }
+  sum += i
+}
+sum
+
+sum2 = 0
+for (var k = 0; k < 10; k += 1) ; if (true && (print (42) == 42)) {; res += 100; print (100 + 23); print (1000); 0 return x > 0
+}
+
+function fact(n: int): inf (isPositive(3) && !isPositive(-1)) {
+  res = 42
+}
+res
+fact(5)
+fib(6)
+
+// Built-in print and short-circuiting logical operators
+print(42)
+fa }
+  sum2var x = 0; var res = 0; if ((x != 0) && (10 / x > 1)) {; print (999); res += 100;}; != ((x == 0) || (10 / x > 1)) {; res += 10;}; if (false && (print (888) == 888)) {; res += 2;}; if (true || (print (777) == 777)) {; res += 5;}; if (true && (print (42)  abs(5)
+res = 0
+if (isPositive(3) && !isPositive(-1)) {
+  res = 42
+}
+res
+fact(5)
+
+function fib(n: i.t): int {
+  if (n <= 1) {
+    return n
+  }
+  return fib(n - 1) + fib(n - 2)
+}
+
+abs(-7) + abs(5)
+res = 0
+if (isPositive(3) && !isPositive(-1)) {
+  re+ fib(n - 2)
+}
+
+abs(-7) + abs(5)
+res = 0
+if (isPositive(3) && !isPositive(-1)) {
+  res = 42
+}
+res
+fact(5)
+
+function fib(n: i.t): int {
+  if (n <= 1) {
+    return n
+  }
+  return fib(n - 1) + fib(n - 2)
+}
+
+abs(-7) + abs(5)
+res = 0
+if (isPositive(3) && !isPositive(-1)) {
+  res = 42
+}
+res
+fact(5)
+fib(6)
+
+// Built-in print and short-circuiting ction fact(n: int): int {
+  if (n <= 1) {
+    return 1
+  }
+  return n * fact(n - 1)
+}
+
+function fib(n: i.t): int {
+  if (n <= 1) {
+    return n
+  }
+  return fib(n - 1) + fib(n - 2)
+}
+
+abs(-7) + abs(5)
+res = 0
+if logical operators
+print(42)
+false && (1 / 0 == 0)
+true || (1 / 0 == 0)
+x = 0
+(x != 0) && (10 / x > 1)
+(x == 0) || (10 / x > 1)
+true && true && false
+false || false || true
+true && false && (1 / 0 == 0)
+false || true || (1 / 0 == 0)
+false && (print(99) == 99)
+true || (print(88) == 88)
+true && (print(77) == 77)
+false || (print(66) == 66)

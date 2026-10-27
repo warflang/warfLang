@@ -1,0 +1,1 @@
+a = 5; b = 1; value = 0; var y = 0; res = (y + (res + 1)); index = 0; while (index < 2) { y ^= y; inx += 1 }; (a & (a -= -5))

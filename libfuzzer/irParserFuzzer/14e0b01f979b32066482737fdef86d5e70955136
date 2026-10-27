@@ -1,0 +1,6 @@
+func __main()
+entry:
+ const 0
+  %2 %4 = not
+  %true
+  %4 = not %3  %5 = co:LLLLue

@@ -1,0 +1,51 @@
+3 += 1) {
+  if (k == 2) { continue }
+  if (k == 6) { break }
+  sum2 += k
+}ììììììpìììììììììììììììììì int):10* int {
+  if (n <= 0) {
+    re2ùÿÿÿ1474ÿÿÿ83648n n * fl
+
+// Explicit retur< 0) {
+    return -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  return x > 0
+}
+
+function fact(n: int): int {
+  if (n <= 0) {
+    re2ùÿÿÿ1474ÿÿÿ= 0 total = (3+4)-ÿÿÿÿ0
+do {
+  n += 1
+  if (n == 2) { continue }
+  total += 10
+  if (n == 4) { -reak }
+} while )(n < 10)
+total
+
+// Explicit retur< 0) {
+    return -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  return x > 0
+}
+
+function fact(n: int): ÿt {
+  if (n <= 0) {
+    re2ùÿÿÿ1474ÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÿÿÿ83648n n * fl
+
+// ÿÿÿtrueExplicit retur< 0) {
+    return -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  return x >

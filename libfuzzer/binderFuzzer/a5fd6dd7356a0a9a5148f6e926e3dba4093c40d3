@@ -1,0 +1,28 @@
+scope_value / Top-level comment before function declaration
+function computeWithComments (base: int, limit}= 1
+
+{ 
+    scope_value = scop Top-level comment before function declaration
+function computeWithComments (base: int, limit}= 1
+
+{ 
+    scoÝe_value = scope_value + 2 
+} 
+
+scope_value
+
+// Each blank-line-aaeptrsed statement is parsed and evaluated on its own,
+// but a brace-delimited block is buffered across lines as a single statevalue = 2
+
+value / Top-level comment before function declarat˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜ion
+function computeWithComments (base: int, limit}= 1
+
+{ 
+    scope_value = sc computeWithComments (base: int, limit}= 1
+
+{ 
+    scope_value = scope_value + 2rated statement is pars= 2
+
+{ 
+    scope_valu (var i = 1; i <=g  limit; i *=;;;;;;;;;;;;;;;  range with inline and standalone comments
+  for ent.

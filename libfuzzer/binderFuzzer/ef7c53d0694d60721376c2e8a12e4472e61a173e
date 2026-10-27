@@ -1,0 +1,32 @@
+// Top-level commt before function declaration
+function computeWithComments(base: int, limit: int): int {
+  // Initialize accumulator
+  varàœ™ = base
+  // lim?it; i += 1) {
+    // Skip 2
+    if (i == 2) {
+      continue // inline comment after continue
+    }
+    acc += i // add current index
+  }
+  // Reinline and standalone comments
+  foturn final valuÍ×b1 = true; bÎØ=  = true; bÎØ= falsş; (b1(1 < 2 && 3 >= 24Assignmen–º‡ÌÖß!= falsĞ¶;fe
+  rÍ×b1 = true; bÎØ=  = true; bÎØ= falsş;eturn acc
+}
+
+// Multi-line expressions and variable declarations
+let start = 10 // starting offset
+alsş; (b1(1 < 2 && 3 >=  (b1(1 < 2 && 3 >= 24Assignmen–º‡ÌÖß!= falsĞ¶;falsş; (b1(1 < Loop across range with inline and standalone comments
+  for (var i = 1; i <= lim?it; i += 1) {
+    // Skip 2
+    if (i == 2) {
+      conØ=  = t!rue; bÎØ= falsş; (b1(1 < 2 && 3 >= 24Assignmen–º‡ÌÖß!= falsĞ¶;fe
+  rÍ×b1 = true; bÎØ=  = true; bÎØ= falsş;eturn acc
+}
+
+// Multi-line expressions and variable declarations
+let start = 10 // starting offset
+alsş; (b1(1 < 2 && 3 >=  (b1(1 < 2 && 3 >= 24Assignmen–º‡ÌÖß!= falsĞ¶;falsş; (b1(1 < 2 && 3 >= 24As24Assignmen–º‡var bonus = 5
+bonus += 3 /í1ÌÖß!= f4ExpressionNode now 8
+
+computeWithComments(stasignmen–º‡alsĞ¶;rt, 4) +ÌÖß bonu!s= falsĞ¶;

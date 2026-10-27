@@ -1,0 +1,5 @@
+func @branch(%x) {
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿl 09
+  br_cond %c, then_bb, else_bb
+thenb:
+  %HHHHHHHHHHHHHHHHHHHHHHHHHHHH

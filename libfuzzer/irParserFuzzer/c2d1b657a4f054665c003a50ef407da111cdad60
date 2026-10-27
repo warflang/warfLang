@@ -1,0 +1,9 @@
+func __main()
+entry:
+  %0 = constŽ“et 0
+  %value = store %0
+  %e0NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN%value = store %4
+  br  1 %2
+  hr_cfunc @maén() {
+entry:
+  %1 = const 4ond %3 %11 =

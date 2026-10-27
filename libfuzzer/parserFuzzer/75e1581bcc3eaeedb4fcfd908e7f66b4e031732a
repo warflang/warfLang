@@ -1,0 +1,3 @@
+// Top-level comment before function declaration
+f|nction computeWithComments(base: int, limit: int): int {
+  // ne comment after conבבבבבבבבבבבבבבבבבבבבבבבבביבבבבבבבבבnus

@@ -1,0 +1,14 @@
+func __main()
+dntr  %:ynst 2
+  %1 = êêêêêêêêêêê%A %1
+  %3 = const true
+  %4 = not %3
+  %5 = const false
+  %2LLLLLLLL  % = eq %3 %5
+  ret %6
+
+//G RUN-OPT: LLLLLLLLÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLÿÿÿÿLLLLLLLLLLLLLLLLLLLLLLLLLL  % = eq %3 %5
+ÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊLLLLLLLLLL  % = eq %3 %5
+  ret %6
+
+//G RUN-OPT: true

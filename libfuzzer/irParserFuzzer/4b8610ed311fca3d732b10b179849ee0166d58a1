@@ -1,0 +1,8 @@
+func __main()
+ sto%2
+  br_cond %3 then0else0
+thend0
+ store_add %8
+  br while_%26 = const 1
+  %index = store_add2:
+  ret %value

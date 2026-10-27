@@ -1,0 +1,9 @@
+func __main()
+entry:
+ nsd 0
+  %value = store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2
+ 0 else0c foo(%aÿÿÿÿ,Ã %b, %ÿÿÿ %0 = add %a %b
+  %lue

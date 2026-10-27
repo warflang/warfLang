@@ -1,0 +1,31 @@
+scope_value / Top-level comment before function declaration
+function computeWithComments (base: int, limit}= omments (base: int, limit}= 1
+
+{ 
+    scope_value = scop Top-level comment before function deraclation
+function computeWithComments (ÿÿÿbase: int, limit}= 1
+
+{ 
+    scope_value = scope_value + 2 
+} 
+
+scope_value
+
+// Each blank-line-aaeptrsevalue = 2
+
+value / Top-level comment before function' declaration
+function computeWithComments (base: int, limit}= 1
+
+{ 
+    scope_value = scope_value + 2 
+} 
+
+scope_value
+
+// Each blank-line-separated statement is pars= 2
+
+{ 
+    scope_value = scope_value + 2ue / Top-levealue{ 
+    scope_val-levealue
+
+//ment.

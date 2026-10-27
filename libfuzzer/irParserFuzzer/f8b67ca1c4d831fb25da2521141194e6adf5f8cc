@@ -1,0 +1,6 @@
+func @main() {
+entry:
+onst 4f2
+  ret %0
+
+nc __m

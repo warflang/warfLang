@@ -1,0 +1,21 @@
+func __main()
+entry:
+  %0 = const 2
+  %1 = const 3
+  %''''''''''''''''''''''''''''''''''''''''''2 = const 4
+e   br end¼¼store %4
+  br end'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''2 = const 4
+e %8
+  br end¼¼¼¼¼¼W¼¼¼¼¼¼¼¼¼¼¼¼¼¼%0 = const 4ond %3 then0 else0
+then0:
+  %4 = 2
+const 4
+  %value = store %4
+  br end0
+else0:
+  %5¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼Ž%0 = const 4ond %3 then0 else0
+then0:
+  %4 = 2
+constÿÿÿÿÿÿÿÿÿÿÿÿÿÿ 4
+  %value = store %4
+  br ÿÿeÿÿÿn

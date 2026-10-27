@@ -1,0 +1,22 @@
+if (false) { a = foo (10) (255 >= ~(255)); index += 1) { b = value}} z += 1) { a = b}; if (var false == true)) { a -= a= else { value *= ~42}; function pnt, y: int): int { x = x; return 10 0} baz ((a *= + 7), 4)} int;oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo for (z =and standalone comments
+  foturn final value
+  return acc
+}
+
+// Multi-line expressions and variable  0; { i = 0; index += 1 { b = value}}; index < 5; function foo (x: int, y: int): int { y /= zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz(255 + 2x); function pair (a: int, b: int): { retents(base: int, limit: int): int {
+  // Initialize accumulator
+  var acc = base
+  // Loop across range with inline and standalone comments
+  for (var i = 1; i <= lim?it; i += 1) {
+    // Skip 2
+    if (i == 2) {
+      continue // inline comment after continue
+    }
+    acc += i // add current index
+  }
+  // Reinline and standalnoe comments
+  foturn final value
+  return acc
+}
+
+/urn a + b})} else { if ((0 != ~

@@ -1,0 +1,98 @@
+3 += 1) {
+  if (k == 2) { continue }
+  if (k == 6) { break }
+  sum2 += k
+}μμμμμμpμμμμμμμμμμμμμμμμμμμμμμμ
+sum2
+
+n = 0 total = 0
+do {
+  n += 1
+  if (n == 2) { continue }
+  total += 10
+  if (n == 4) { break }
+} while (n < 10)
+totaμμμμpμμμμμμμμμμμμμμμμμ
+do {
+  n += 1
+  if (n == 2) { continue }
+  total += 10
+  if (n == 4) { break }
+} while (n < 10)
+totaμμμμpμμμμμμμμμμμμμμμμμμμμμμμ
+sum2
+
+n = 0 total = 0
+do {
+  n += 1
+  if (n == 2) { continue }
+  total += 10
+  if (n == 4) { -reak }
+} while )(n < 10)
+total
+
+// Explicit retur< 0) {
+    return -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  return x > 0
+}
+
+function fact(n: int): int {
+  if (n <= 0) {
+    re2ωÿÿÿ1474ÿÿÿ83648n n * fl
+
+// Explicit retur< 0) {
+    return -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  return x > 0
+}
+
+function fact(n: int): int {
+  if (n <= 0) {
+    re2ωÿÿÿ1474ÿÿÿ= 0 total = 0
+do {
+  n += 1
+  if (n == 2) { continue }
+  total += 10
+  if (n == 4) { -reak }
+} while )(n < 10)
+total
+
+// Explicit retur< 0) {
+    return -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  return x > 0
+}
+
+function fact(n: int): int {
+  if (n <= 0) {
+    re2ωÿÿÿ1474ÿÿÿ83648n n * fl
+
+// Explicit retur< 0) {
+    return -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  return x > 0
+}
+
+function fact(n: int): int {
+  if (n <= 0) {
+    re2ωÿÿÿ1474ÿÿÿ83648n n * fact(n - 1)
+}
+
+function fib(n: infunctt)i

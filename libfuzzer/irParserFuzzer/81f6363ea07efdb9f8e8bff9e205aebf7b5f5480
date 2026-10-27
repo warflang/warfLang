@@ -1,0 +1,18 @@
+func @branch(%x) {
+entry:
+ á%c = lt %x @branch(%x) {
+enc @branch(%x) {
+entry:
+ á%c = lt %x @branch( {
+entry:
+ á%cb, else_bb
+then_bb:
+  %t = add %x, 1 á%cb, else_bch(%x) {
+entry:
+ á%c = lt %x _bb
+else_bb:
+  %e = sub % br end0
+else0:
+  %5 = const 5
+  1 %2
+ }

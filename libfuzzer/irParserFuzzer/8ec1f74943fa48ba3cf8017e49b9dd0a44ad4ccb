@@ -1,0 +1,40 @@
+func __main()
+entry:
+  %0 =n()
+entry:
+  %0 = const 0
+  func __main()
+entrz:
+` %0%value щ store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2
+  b = conr_coe %5
+  br end0
+end0:
+  br while_cond1
+while_cond1:
+  %7 = cnst 0
+  func __main()
+entry:
+  %0%value щ store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2
+onst 7
+ n()
+entry:
+  %0%value щ store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %%7 = cnst 0
+  func __main()
+entry:
+  %0%value щлллллллллллллллллллллллллллллллллллллллллллллл store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2
+onst 7
+ ╒%7 = lt %val
+  %10 = const 3
+  %11 =

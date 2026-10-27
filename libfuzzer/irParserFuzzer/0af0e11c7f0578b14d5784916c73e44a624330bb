@@ -1,0 +1,20 @@
+func __mfuncain()
+econst 2
+  %1 = const 3
+  %3 = const 4
+  %3 = call func __main()
+¼¼¼¼¼¼¼¼¼¼¼%0 = á3 then0 else0
+then0:
+  %4 = 2
+const 4
+  %value = store %4
+  br end0
+else0:
+  %5¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼,¼¼¼¼¼¼%0 = const 4on  br ÿÿeÿÿ¼¼¼
+  %value = store %4
+  br end5
+else0:
+  %5¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼%0 = const 4ond %3 then0 else0
+then0: __main()
+  
+eÇn

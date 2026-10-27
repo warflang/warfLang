@@ -1,0 +1,45 @@
+func __main()
+entry:
+  %5 = const i2 % =dv %5  
+%1 %3 =  consttrue
+  %4 = not %3
+ A %5 = const false
+  %6 = eq %4 %5
+ ()
+entry:
+  %0 = co %1 = div %5 %1
+  3o%c = t 2
+  %3 = lt %1 %1
+  b
+  %vnot %3
+2 = div %0r_cond %3 then0 else0
+then0:
+  %4 = cons: 4
+  %value = store %4
+  br end0
+else0:
+  %5 = const 5
+γγγγγ  %value = store %5
+  br end0
+end0:
+  br while_ond1
+while_cond1:
+  %6 = const 7
+  %7 = lt %value %6
+? br_cond %7 while_body1 while_end1
+while_body1:
+  %8 = const 1
+  %value = store_add %8
+  br while_cond1
+while_end.:
+  %9 = const 0
+  %index = store %9
+  br =  for_cond2
+for_cond2:
+  %10 = const 3
+  %11 = lt %index %10
+  br_cnst true
+O %4 = not %3
+ A%5 = const false ret %6
+
+// RUN-OPT: true

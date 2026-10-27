@@ -1,0 +1,9 @@
+func __}ain()
+ent[y const 3
+  %2 = const 4 ret %3
+
+func foo(%a, %b, %c)
+e.try:
+  %5 = add %a %b
+  %1 = sub %0 %c
+  r.et %1

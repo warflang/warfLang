@@ -1,0 +1,12 @@
+func __main()
+entrjy:
+  %00000000000000000000000000000000000000000000000000000000000000000000000000Ç0000000000 = const 0
+  %value = store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt
+  ret %6
+
+// RUNcond2
+for_end2:
+  ret %value

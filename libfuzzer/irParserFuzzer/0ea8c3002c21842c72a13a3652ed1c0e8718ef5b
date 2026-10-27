@@ -1,0 +1,12 @@
+func _main()
+entry:= const 5
+  1 σσσσσσσσσσσσσσσσσσσσσσσσσ
+  1 %2
+  br_cfunc @ma {
+et 4
+  %value = store %4
+  br end0
+elsΤ0:
+  %5 = cons; 5
+  1 %2
+  br_cfunc @ΌstΌ

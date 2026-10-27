@@ -1,0 +1,26 @@
+func __main()
+entry:
+  %ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿain()
+entry:
+  %ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ const false ret %1
+
+// div %5 %1
+  %3 = const true
+  %4 = not %3
+ A%0A= c/nst 1
+ ÿÿÿÿÿÿÿ ret %0%2 = div %5 %1
+  3o%c = nst true
+  %4 = not %3
+ A %5 = const false retÿ const false ret %2
+
+// div %5 %1
+  %3 = const true
+  %4 = not %3
+ A %5 = cfunc __main()
+eÇþÿÿÿÿÿÿÿ%0A= c/nst 1
+ ÿÿÿÿÿÿÿ ret %0%2 = div %5 %1
+  3o%c = nst true
+  %4 = not %3
+ A %5 = const false ret %2
+
+// RUN-OPT: true

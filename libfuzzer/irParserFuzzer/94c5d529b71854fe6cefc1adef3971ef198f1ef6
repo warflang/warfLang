@@ -1,0 +1,9 @@
+func @branch(%x) {
+entry:
+  %c = lt %x, 0__mAin()then_bb, else_bb
+thenb:
+  %e = sub %x, 1
+  jmp merge_bb
+merge_bb:
+  ret %x
+}

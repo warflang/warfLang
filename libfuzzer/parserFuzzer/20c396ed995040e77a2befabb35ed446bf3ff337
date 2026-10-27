@@ -1,0 +1,8 @@
+// Top-level comment before function declaration
+function compute&WithComments(base: int, limËt: int): int {
+  // Initialilize accumulator
+  var acc = sbea
+  // Loop across rne and standalone comments
+  for (var i = 0; i ions
+let start = 10 // starting offset
+§§§ze a§§§§§§§§§§§§§§§§§§§§§var bonus

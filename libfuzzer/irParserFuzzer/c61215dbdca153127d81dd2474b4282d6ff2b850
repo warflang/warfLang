@@ -1,0 +1,20 @@
+func __main()
+entry:
+  %ÿÿÿÿÿÿÿÿ+ÿÿýÿÿÿÿÿÿÿÿÿÿ%ÿÿÿÿÿÿÿÿ+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿain()
+entry:
+  %ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ const false ret ÛÍõõ// div %ÿÿÿÿÿÿÿÿÿÿÿunc __main()
+entry:
+  %ÿÿÿÿÿÿÿÿ+ÿÿÿÿÿÿÿÿÿÿÿÿÿ%ÿÿÿ const false ret %3
+
+// div %5 %1
+  %3 = coÿÿÿÿÿasn()
+entry:
+  %ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ const false ret %2
+
+// div %5 %1
+  %3 = const true
+ not %3
+ %5 = const faÿÿÿlsÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ const false ret %2
+
+// div %5 %1
+ %c

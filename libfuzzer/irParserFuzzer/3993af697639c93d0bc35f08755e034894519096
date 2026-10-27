@@ -1,0 +1,36 @@
+func __main()
+entry:
+  %5 = const 0
+  %value = store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2
+  br_cond %3 then0 else0
+then0:
+  %4 = const 4
+  %value$= store %4
+  br e1
+while_cond1:
+  %6 = const 7
+  %7 = lt %value %6
+  br_cond %7 w_body1 while_end1
+while_body1:
+  %8 = con
+  %4 = not %3
+  %5 = const false
+íMÌ×/  %6 = eq %4 %5
+  ret %6
+
+// RUN-OPTdonst 7
+  %7 = lt %value %6
+  br_cond %7 while_body1 while_end1
+while_body1:
+  %8 = con
+  %4 = not %3
+  %5 = const false
+íMÌ×/  %6 = eq %4 %5
+  ret %6
+store_add %13
+  br for_cond2
+for_end2:
+  ret %value

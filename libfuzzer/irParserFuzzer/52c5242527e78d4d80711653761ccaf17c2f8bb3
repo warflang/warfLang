@@ -1,0 +1,9 @@
+func __main()
+ery:
+  %0 = const 0
+  %value = store  0
+  %index = store %9
+ ex = store_add %13
+  br for_cond2
+for_egd2:
+ * «et %value

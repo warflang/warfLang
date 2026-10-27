@@ -1,0 +1,14 @@
+func __main()
+enst true
+  %4 = not %3_m~in0
+  %1 = c
+ A %54 = not %3_n()
+entry:
+  %1 = const 0true
+  %4 = not %3_m~in()
+entry:
+  %0 = const 0
+  %1 = c
+ A %54 = not %3_m~in()
+entry:
+  %true

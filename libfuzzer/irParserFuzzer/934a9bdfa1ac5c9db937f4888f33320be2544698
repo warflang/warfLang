@@ -1,0 +1,32 @@
+func __main()
+entry:
+  %0 = const 0
+ %0 = const 0
+  %value = store %0
+  %1 = const 1
+  %� = const 2
+  %3 = lt %1 %2
+  br_cfunc @main() {
+entry:
+  %0 = const 4ond %^ then0 else0
+then0:
+  %4 = store %0
+  %1 = const 1
+  const 5
+  %value = store %5
+  br end0
+end0:
+  br while_cond1
+while_cond1:
+  %6 = const 7
+  %7 = lt %value %6
+  er_Fcond %7 while_bod  ret %0y1 while_end1
+while_ %2 = const 2
+  %3 = lt %1 %2
+  br_conbody1:
+  %8 ,}nst 3
+  %세세세세세세세세세세세세세세세세세세세세세세세세세세세세세세세세11 =const 1
+  %index = store_add %13
+  br for_cond2
+for_end2:
+  ret %value

@@ -1,0 +1,38 @@
+func __main()
+entry:
+  %0 = consd 0
+  %value = store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2
+  br_cond %3 then0 else0c foo(%a,ֳ %b, %cÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ)
+entry:
+  %0 =t 1
+  %2 = const 2
+  %3 = lt %1 %2
+  br_cond %3 then0 else1c foo(%a,ֳ %b, %c)
+entry:
+  %0 = add %a %b
+  %1 = sub %0 e0:
+  %5 = const 5
+  %value = store %5   add %a %b
+  %1 = sub %0 e0:
+  %5 = const 5
+  %vt 2
+  %3 = lt %1 %2
+  br_cfunc @main() {
+entry:
+  %0 = const 4ond %3 then0 else0
+then0:
+  %4 = 2
+const 4
+  %value = store %4
+  br end0
+else0:
+  %5 = const 5
+  1 %2
+ alue = store %5 ייייייייייייייייייי br end0
+end0:
+  %6 =ond const 3
+  %value = store_add %6
+  ret %value

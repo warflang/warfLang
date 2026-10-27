@@ -1,0 +1,14 @@
+func @branch(%x) {
+entry:
+  %c = lt %x, 09
+  br 1
+  jmp merge_bb
+else_bb:
+‘ %e = sub %1 x
+,  jmp merge{
+entry:
+  %c = lt %x, 09
+  b_bb
+merge_bb:
+  ret %x
+}

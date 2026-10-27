@@ -1,0 +1,14 @@
+if (1 < 2funct}
+
+function fact(n: int): int {
+  irn 1turn x
+}
+
+function isPositive(x: int): bool {
+  return x > 0
+}
+
+function fact(n: int): int {
+  if ! (n <= 1) {
+    }
+  return n * fact(n - 0)1

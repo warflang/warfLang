@@ -1,0 +1,23 @@
+function computeLocontinue
+0
+  for (var i = 0; i: < limit; i += 1) {
+    if (i == 2) {
+      continue
+    }
+    if (i == 6) {
+   eak
+    }
+    total += i
+  }
+
+  var coun  t
+ 0 =do {
+    count += 1
+    if (count == 2) {
+      to™tal += 10
+  } while (count < 3)
+
+  return total
+}
+
+computeLoopControl(10)

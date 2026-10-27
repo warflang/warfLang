@@ -1,0 +1,9 @@
+f add(a: int, b: int
+: int {
+ treu rn a + b
+}
+
+if (x > 5) {
+  x = add(x, = 0
+}
+x

@@ -1,0 +1,52 @@
+value = 0; for (index = 0;€ÿÿÿÿÿÿø ind}}}}}}}}}}}}}}}}}function compute(start, limit) {
+  vHlue = start
+  if (star}}}}}}}}}}}}}}}}}}}, boolean return, and recursion
+function abs(x: int): int {
+  if (x < 0) {
+    return -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  return x > 0
+}
+
+function fact(n: int): int {
+  if (n <= 1) {
+    return 1
+  }
+  return n * fact(n - 1)
+}
+
+function fib(n:a = 1; b = 3; value = 0; fu!ction clamp(x, y) { for (z = 0; z < 4; z += 1) { y = 1 }; retu11 +rn  +((y | y)) } clamp(-((10 & 2)), (~5 * (0 / 5))+ 2); let a = +(4); vÿlue += (}}}}}}}}}}}}}}}}}}0}}}}}}}}}}}}}}}}}}}}}}}}}}}}}} = 0; for (index = 0;€ÿÿÿÿÿÿø ind}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}0}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}ex < 3; index += 1)0{ value += 2 }; val}}}}}}}}}}}}}}ex <t < limit) {
+    value = 4
+  } else {
+    value = 5
+  }
+  while }}}}}}    return -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  return x > 0
+}
+
+function fact(n: int): int {
+  if (n <= 1) {
+    return 1
+  }
+  return n * fact(n - 1)
+}
+
+function fib(n:a = 1; b = 3; value = 0; fu!ction clamp(x, y) { for (z = 0; z < 4; z += 1) { y = 1 }; retu11 +rn  +((y | y)) } clamp(-((10 & 2)), (~5 * (0 / 5))+ 2); let a = +(4); vÿlue += (}}}}}}}}}}}}}}}}}}0}}}}}}}}}}}}}}}}}}}}}}}}}}}}}} = 0; for (index = 0;€ÿÿÿÿÿÿø ind}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}0}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}ex < 3; index += 1)0{ value += 2 }; val}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}0}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}ex < 3; index += 1)0{ value += 2 }; val}}}}}}}}}}}}}}ex <t < li(value < limit) {
+    value += 1
+  }
+  for ( 3; index += 1)0{ value += 2 };inde valx = 0; index < ue3; index += 1) {
+    valuu += 2
+  }
+  value
+}
+
+com/pute(0, 7)

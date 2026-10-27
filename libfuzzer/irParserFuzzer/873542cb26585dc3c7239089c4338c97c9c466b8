@@ -1,0 +1,18 @@
+func __main()
+entry:
+  %0 = constfun
+  %e = sub %x, 1
+  jmp merge_bb
+merge_bbµ:
+  r 0
+ e
+hn0:
+  %4 = constí 4
+  %value = store %4
+   
+0drnbeelse0:
+  %5 = const 5et %x
+}
+HHHHHH  %value = store %5  br end0e = store %5  %nHHHHHHHHHHHHHHHHHHHHHHHHHst 3
+  %vHHalue = store_add %6
+  ret %value

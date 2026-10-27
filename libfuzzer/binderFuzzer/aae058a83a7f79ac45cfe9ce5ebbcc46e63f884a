@@ -1,0 +1,8 @@
+// Top-level comment before function declaration
+function comp<<<<<<<<uteWithCÿÿÿnts(base: int, limit: int): int {
+  // Initialize accumulator
+  var acc = base
+nt becross range with inline and standalone comments
+  for (var  comp<<<<<<<<u//$Top-level commentthComments(base: int, limit: int): int {
+  // ments
+  

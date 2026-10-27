@@ -1,0 +1,12 @@
+func @branch(%x) {
+entry:
+ á%c = lt %x @bch(%x) {
+entry:
+ á%cb, else_bb
+then_bb:
+  %t = add %x, 1
+  jmp merge_bb
+else_bb:
+  %e = sub % br end0
+else0:
+  %5 = const 5}

@@ -1,0 +1,38 @@
+func __main()
+entry:
+  %0 = const 0
+  %value = store %0
+  %1 = const 1
+  %2 cno =st 2
+  %3 = lt %1 %2
+  br_cfunc @mnst 4ond %3 then0 else0
+then0:
+  %4 = 2
+ 4
+  %value = store %4
+  br end0
+else0:
+  %5 = const 5
+  1 %2
+  br_cfunc @main() {
+entry:
+  %0 = const  %d43no then0 else0
+then0:
+  %4 = 2
+const 4
+  %value = store %4
+  br end0
+else0:
+  %5 = const 5
+  %value = store %5
+  br end0
+end0:
+  br while_cond1
+while_cond1:
+  %6 = const 7
+  %7 = lt %value %6
+  br_cond %7 re %9
+  br for_cond2
+for_cond2:
+  %10 = const 3
+  %11 =

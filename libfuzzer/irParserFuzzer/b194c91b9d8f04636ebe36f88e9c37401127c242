@@ -1,0 +1,12 @@
+func __main()
+entry:
+    %c=0onst 2
+  %1 = const 3
+  %2 = const 4
+  %3 = c2
+  ret %3
+func foo(%a,Ã %b, %c)
+entry:
+  %0 = add %a %b
+  %0 = sub %0 %c
+  ret %1

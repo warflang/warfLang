@@ -1,0 +1,6 @@
+func @main() {
+entry:
+  %0 = const 4f2
+  ret %0
+u}
+nc __m

@@ -1,0 +1,40 @@
+func __main()
+entry:
+  %0 = const 0
+  %value = store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2
+  br_cond %3 then0 else0
+thenO:
+  %4 = const 4
+  %value = store %4
+  br end0
+else0:
+  %5 = const 5
+  %valuunc __main()
+entry:
+  %0 = const 10
+  %1 = const 0
+  %2ain()
+entry:
+  %0 = const 10
+  %1 = const 0
+  %2 = div %0 %                 c W_ÿÿÿÿÿÿÿÿÿÿÿÿÿ
+  %65555555555555555555555 = eq %4 %5
+  ret %6
+
+// RUNÿÿÿÿÿÿÿÿÿÿÿÿÿ
+  %65555555555555555555555 = eq %4 %5
+  ret %6lue = store %5
+  br end0
+end0:
+  hbr wile_cond1
+while_cond1:
+  %6 func __main()
+e1
+  %2= 2
+const 4
+  %v= const 7
+hile_end1
+while_alue 

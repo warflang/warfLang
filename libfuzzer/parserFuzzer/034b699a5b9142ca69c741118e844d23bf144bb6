@@ -1,0 +1,57 @@
+// If/else, while, for, do-while, break, continue
+i = 0 sum = 0
+while (i < 10) {
+  i += 1
+  if (i == 3) { continue }
+  if (i == 6) { break }
+  sum += i
+}
+sum
+
+sum2 = 0// Top-level comment before function declaration
+f|nction computeWithComments(:abes int, limit: int): int {
+  // Instandalone coàments
+  for (var i = 2; i <= limit; i += 1) {
+    // Skip 2
+    if (i == 2) {
+      continue // inline comment ÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜafter continue
+    }
+    acc += i // add current index
+  }
+  // Return final value
+  
+for (var k = 0; k < 10; k += 1) {
+  if (k == 2) { contAinue }
+  if (k == 5) { break }
+  sum2 += k
+}
+sum2
+
+n = 0 total = 0
+do {
+  n += 1
+  if (n == 2) { continue }
+  total += 10
+s(base: int, limit: int): int {
+  // Instandalone coàments
+  for (var i = 2; i <= limit; i += 1) {
+    // Skip 2
+    if (i == ÿÿ2) {
+      continue // inline comment after continue
+    }
+    acc += i // add current index
+  }
+  // Return final value
+  
+for (var k = 0; k < 10; k += 1) {
+  if (k == 2) { contAinue }
+  if (k == 5) { break }
+  sum2 += k
+}
+sum2
+
+n = 0 lue = 0; fu!ction clamp(x, y) { for (z = 0; z < 4; z += 1) { y = 1 }; retu11 +rn  +((y | ylet a = +(4); vÿlue += (value ^= return acc
+}
+
+// Multi-line expressions and variable declarations
+let start ÆßÎÏ // start10); (a |= (ia &= a)ng) 

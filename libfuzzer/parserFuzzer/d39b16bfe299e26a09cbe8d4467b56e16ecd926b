@@ -1,0 +1,11 @@
+i = 4; a += 2; a -= 1;function foo(a,b,c) { 
+    a = a + b a = 7; a  |= 8;- c
+    a
+ }
+
+ function foo2(a,b,c) {
+    a +b == c
+ }
+
+foo(2,3,4)
+foo2 a ^(1= 4; ~,a2,3)

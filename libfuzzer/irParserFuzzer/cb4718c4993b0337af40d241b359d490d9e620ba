@@ -1,0 +1,32 @@
+func __macn()
+entry:
+   0=% const 0
+  br_cfunc @main() {
+emain()
+ent[y:
+  ÿntry:
+ ) {
+emain()
+ent[y:
+  ÿntry:
+  %0 = consttruethenle_body1:
+  %8 
+}
+8 
+}
+= const 1
+  %value = stord1
+wh6
+  br_cond %7 whilz_bod  ret %0;1 whIle_end1
+while_ndex = store %9nd0:
+  br while_cond1
+wh6
+  br_cond %7 while_bod  ret %0y1 while_end1
+while_body1:
+  %8 
+}
+= const 1
+  %11 =for_cond:
+for_cond2:
+  %10 = const 3
+  %11 =

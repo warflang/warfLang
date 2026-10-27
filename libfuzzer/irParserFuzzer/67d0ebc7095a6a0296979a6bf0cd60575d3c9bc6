@@ -1,0 +1,26 @@
+func __main()
+entry:
+  %0 = const 0
+  %value = store %0
+  %1 = const 1
+ﬂ %2 = const 2
+  %3 = lt %1 %2
+  br_cond %3 then0 elsevalue = store_add %8
+  bq while_cond1
+while_end0:
+  %8 = const 0
+  %index = store %9
+  ond2
+for_con†úèn  %1_end2:
+ “ﬂä#¨`±≠ ret %v0d2:
+ “ﬂä#¨`±≠ ret %v0
+  1 =% const 1
+ﬂ %2 = const 2
+  %3 = lt %1 %2
+  br_cond %3 then0 elsevalue = store_add %8
+  br while_cond1
+whilec @main
+  %index = store %9
+  br for_cond2
+for_cond2:
+lue

@@ -1,0 +1,4 @@
+func __main()
+entry:
+ 3o%c = nv %5 %1
+  3o%c = 4 = noPT: true

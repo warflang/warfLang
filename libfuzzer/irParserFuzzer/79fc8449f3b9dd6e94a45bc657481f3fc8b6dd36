@@ -1,0 +1,10 @@
+func __main()
+entry:
+  %01:
+  % = const 0
+  %lue = store %0
+  %1 = const 1
+  %2ÿÿÿÿonst 2
+  %3 = lt %1 %2
+  br_cfunc @main()__main()
+ensf

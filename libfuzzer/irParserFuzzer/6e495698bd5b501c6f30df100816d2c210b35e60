@@ -1,0 +1,28 @@
+func __main()
+entry:
+  %0 = constþ0
+aluefuconst 0
+  %v = store %4
+  br end0
+else0:
+  %Ëá= const 5
+  while_cond1
+whil6
+  br_cond %7 while_bod  ret %0y1 while_end1
+while_body1:
+  `lue = store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2
+  br_cond %3 then0 elsevalue = store_add %8
+  br while_cond1
+while_e const 0
+  %index = store %9
+  br%8 
+}
+= const 1
+  %value = store_add %9
+  br while_cond1
+while_end1: = store %0
+
+  %9 =  for_cond2c

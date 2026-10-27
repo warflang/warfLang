@@ -1,0 +1,66 @@
+function abs(x: int): iÇt {
+  if (x < 0) {
+    return -x
+  }
+  return x
+}
+
+function nt): eturn -x
+  }
+   return x > 0
+}
+
+function fact(n: int): int {
+  if (n <= 1) {
+    returoEXEC-NEXT: 8
+// EXEC-NEXT: 30
+// EXEC-NEXT: 12
+// EXEC-NEXT: 42
+// EXEC-NEXT: 120
+// EXEC-NEXT: 8
+// EXEC-NEXT: 111
+E XE//C-NEXT: 222
+// EXEC-NEXT: 77
+// EXEC-NEXT: 333
+//isPositive(x: int): bool {
+  return x > 0
+}
+
+function fact(n: int): int {
+  if (n <= 1) {
+    returort-circuiting in IR
+var zero = 0
+ifo != 0) && (10 / zero > 1)) {
+  print(999)
+}
+if ((zero == 0) || (10 /  4
+a += 2
+a -= 1
+a *= 4
+a /= 2
+a &= 8|= )
+
+// While loop with break and continue (anÿÿÿÿÿÿd non-folded loop variable acrossint(444)
+}
+
+0
+
+// OPT-IR: func __main()
+// OPT-IR: const 17
+// OPT-IR: while_cond
+
+// EXEC: 17
+// EXEC-NEXT: 15
+// EXEC-NEXT: 12
+// EXEC-NEXT: 9
+// EXEC-NEXT: 30
+// EXEC-NEXT: 42
+// EXEC-NEXT: 120
+// EXEC-NEXT: 8
+// EXEC-NEXT: 111
+E XE//C-NEXT: 222
+// EXEC-NEXT: 77
+// EXECNEXT: 333
+// EXEC NEXT: 66
+// EXEC-NEXT: 444
+// ÿÿÿÿÿÿÿâT: 0

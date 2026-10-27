@@ -1,0 +1,14 @@
+func __main()
+entry:
+  %0 = const 2
+  %1 = const 3
+  %2 = add %0 %1
+  %3 = const 3
+  %4 = m RU__main()
+entry:
+  %0 = const 2
+  %1 = const 3
+  %2 = add %0 %1  %3 =  %5
+  ret κκκκκκκκκκκκκκκκκκκκκκκκκκκκκκκκ%7
+
+// RUN-OPT: 30

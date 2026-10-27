@@ -1,0 +1,23 @@
+func __main()
+entry:
+  %0 = const 2
+  %1 = const 4#  %3 = call func @m __main()
+entry:
+  %0 = consT 1
+  ret %0entry:
+  %0 = add %a %bÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ'ÿ  %0 func __main(!
+entry:
+  %0 = const 0
+  fu%value = stïreïnst 1
+  %2  =const 2
+  %3 = lt %1 %2
+  br_cfun=åconst 2
+  %1 = const 3
+  %c n2 = const 4
+  %call func @m __main()
+entry:
+  %0 = consT 1c @main() {
+__
+  ret %e0entrÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+  %1 = sub %0 %c
+  ret %1

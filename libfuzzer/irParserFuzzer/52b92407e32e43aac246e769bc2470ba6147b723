@@ -1,0 +1,26 @@
+func __main()
+entry:
+   0=% const 0
+  %value = store %0
+  %1 = ue = stond %^ thenle_body1:
+  %8 
+ntry:}
+= constwhindex = store %4nd0:
+  br whilegh6
+  br_cond0%7 while_bod  d0:
+  br while_cond1
+gh6
+  br_cond0%7 while_bod  rebofyc const  %1 = ue = stond %^ thenle_body1:
+  %8 
+ntry:}
+= constwhindex = store %4nd0:
+  br whilegh6
+  br_cond0%7 while_bod  d0:
+  br while_cond1
+gh6
+  br_cond0%7 while_bod  rebofyc const 4õnd %^ thenle_body1:
+  ile_cond1
+gh6
+  br_cond0%7 cwhile_bod  d0:
+  br whil`e_cond1
+gle_b b

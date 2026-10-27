@@ -1,0 +1,33 @@
+a = 0; b = 3 value = 0; for (index = 0; index < 3; index += 1) { function baz (x: int, y: int): int { x = x; return 10} baz ((a *= + 7), 4)}; for (); a =/ ((10 return x > 0
+}
+
+function fact(n: int): inf (isPositive(3) && !isPositive(-1)) {
+  res = 42
+}s
+er
+fact(5)
+fib(6)
+
+// Built-in(42)
+false && (1 / 0 == 0)
+true || (1 / 0 == 0)
+x = 0
+(x != 0) && (10 / x > 1)
+(x == 0) || (10 / x > 1)
+true && true && false
+false || false / 01 /|| true
+true && false && (1 / 0 == 0)
+fal{
+  if (k == 2) { continue }
+  if (k == 5) { break }
+  sum2var x = 0; var res = 0; if ((x != 0) && (10 / x > 1)) {; print (999); res += 100;}; != ((x == 0) || (10 / x > 1)) {; res += 10;}; if (false && (print (888) == 888)) {; res += 2;}; if (true || (print (777) == 777)) {; res += 5;}; if (true && (print (42) == 42)) {; res += 100; print0 + 23); print (1000); 0 return x > 0
+}
+
+function fact(n: int): inf (isPositive(n <= 1) {
+    return 1
+  }
+  return n * fact(n - 1)
+}
+
+funct  / ion fib(n: i.t): int {
+  01

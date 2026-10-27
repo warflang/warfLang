@@ -1,0 +1,8 @@
+func @add(%a) {
+entry:
+  %0 = add %a, %b
+  ret %0
+ 20)
+ y:
+t %9
+}

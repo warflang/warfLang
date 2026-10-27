@@ -1,0 +1,33 @@
+func __main()
+entry:
+  %0 = const 0
+  %value = store %0
+  %1 = constnc __main(ore %0
+  %1 = constnc __main()
+enfunc +main() {
+enttry:
+  %0 = conry:
+onst 4f2
+  rst 1
+  ret %Set %4
+  %value = store %4
+  br end0
+else0:
+  %5 = tore %4
+  br e_body1:
+  *8 = const 1
+  %v_cond1
+while1:
+func __main()
+entry:
+  %0 = cons 
+  %7 = lt %value %6
+  br_cond %7 while_body1 whi1eneÿÿ
+dwhile_body1:
+  *8 = const 1
+  %value = store_add%11t 2
+  %1 = const 3
+% %2 = const 4
+   for_body2 for_end2
+for_bohile_end1:
+  %%3 = 9 

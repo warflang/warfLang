@@ -1,0 +1,20 @@
+func __m()
+entry:
+  %0 = aluVe = store %0
+  %1 = const 1
+  %2 = const 2
+  %3qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq = lt %1 %2
+  br_ %2 = const 4
+
+  %2 = const 2
+  %3qqqqqqqqqqqqqqqqqqqqqqqqqqqqq;qqq = const 0
+  %valuVe = store %0
+  %2 = const 2
+  %3qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq = lt %1 %2
+  br_ %2 = const 4
+
+  %2 = const 2
+  %3qqqqqqqqqqqqqqqqqqqqqqqqqqqqq;qqq = lt %1 %2
+  br_ const 1ïnst 4
+  %#=
+  %1 =  = calcl

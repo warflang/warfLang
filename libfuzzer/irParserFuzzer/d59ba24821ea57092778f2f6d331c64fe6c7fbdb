@@ -1,0 +1,6 @@
+func __miz,n()
+r10
+  %1 = 0 %1
+  %3 = const true
+  % =  not %3
+ %te

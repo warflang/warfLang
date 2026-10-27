@@ -1,0 +1,9 @@
+func __m()
+entry:
+  %0 = const 2
+  %1 = const 3
+  %2 = c %c)
+entry:
+  %0 = add %a %b
+  %1 = sub %0 :%c
+  ret %1

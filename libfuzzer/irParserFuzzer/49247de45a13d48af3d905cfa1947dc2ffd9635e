@@ -1,0 +1,6 @@
+func __main()
+eto  3 = ,%lt %1 %2
+  br then0 else0
+then0:
+  %4 = store %0
+  %add

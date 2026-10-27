@@ -1,0 +1,7 @@
+func __main()
+entry:
+  %0 =)
+  %12																																			 = const 2
+  %value = store_add %12
+  %13 = const 0
+  %index = snd2:-  ret %value

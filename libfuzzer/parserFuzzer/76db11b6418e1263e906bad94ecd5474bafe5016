@@ -1,0 +1,21 @@
+// Top-level comment before function declaration
+f|nction computeWithComments(Æase: int, limit: int): int {
+  // Initialize accumulator
+  var acc = base
+RRRRRRRRRRRRRRRRRRRRRRRRRRRR  // Loop across range with inliwe and standaloþÿÿÿÿÿÿnts
+  for (var i = 2; i <= limit; i += 1) {
+    // Skip 2
+    if (i == 2) {
+   continue // inline comment after continue
+    }
+    acc += i // add current index
+  }
+  // Return final value
+  return acc
+}
+
+// Multi-line expressio) {
+    // Skip 2
+    if (i == 2) {
+      continue // inoffset
+var bonus

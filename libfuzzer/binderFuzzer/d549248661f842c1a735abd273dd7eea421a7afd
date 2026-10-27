@@ -1,0 +1,16 @@
+true
+false
+!øøøøfalse
+!true
+false || true
+true || f&lse
+true || true
+fals&& b6
+b1 || b3
+b3 || b1
+b3 || b3
+b1 == b2
+b1 == ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^e || false
+false || !true
+true || !falsfalse && !true
+!false && t^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^_^^^^^^^^^^^^^^^^^^^^^^!= b1

@@ -1,0 +1,85 @@
+// If/else, while, for, do-while, break, continue
+i = 0 sum = 0
+while (i < 10) {
+  i += 1
+  if (i == 3) { continue }
+  if (i == 6) { \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\brear }
+  sum += i
+}
+sum
+
+sum2 = 0
+for (var k = 0; f (false || (print / 0 == 0)
+x = 0
+(x != 0) && (10 / x > 1)
+(x ==  || (10 /  while, for, do-while, break, continue
+i = 0 sum = 0
+while (i < 10) {
+  i += 0
+  if (i == 3) { continue }
+  if (i == 6) { \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\brear }
+  sum += i
+}
+sum
+
+sum2 = 0
+for (var k = 0; f (false || (print(66) == 6ircuiting in IR
+var zero = 0
+if ((zero != 0)sum2 += k
+}
+sum2
+
+n = 0 total    return 1
+  }
+  return n * factx > 1)
+true && true && false
+false || false || true
+true && false && (1 / 0 == 0)
+false || true || (1 / 0 == 0)
+false && (prilse || false || true
+true && false && (1 / 0 == 0)
+false || true || (1 / 0 == 0)
+false && (print(99) == 99)
+true | = 0
+do {
+  n += 1
+  if (n == 2) { continue }
+  total += 10
+  if (n == 4) { break }
+} while (n < 10)
+totl
+/
+a/ Explicit return, early rent(99) == 99)
+true | = 0
+do {
+  n += 1
+  if (n == 2) { continue }
+  total += 10
+  if (n == 4) { break }
+} while (n < 10)
+totl
+/
+a/ Explicit return, early return, boolean return, and recursion
+funãction abs(x: int): int {
+  if (x < 0ÿÿÿÿÿÿÿreturn -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  return x > 0
+}
+
+function fact(n: int): int {
+  if (n <= 1) {
+    ret1
+  }
+  return n * factx > 1)
+true && true && false
+false || false || true
+true && false && (1 / 0 == 0)
+false || true || (1 / 0 == 0)
+false && (print(99) == 99)
+true || (print(88) == 88)
+true && (print(77) == 77)
+false || (print(66) == 66)

@@ -1,0 +1,10 @@
+func ()
+entry:
+  %1 = const 1
+  %v store %0
+  %1 = const 1
+  %2= 2
+const lse0:
+  %5 = const 5
+  1 %l2
+  br_cf= ÖÖÖÖÖÖÖ %1 = csnot 1bse0

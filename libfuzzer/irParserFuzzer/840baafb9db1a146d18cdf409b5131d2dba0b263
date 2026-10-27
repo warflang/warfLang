@@ -1,0 +1,53 @@
+func __main()
+entry%
+  %0 = const 0
+  %value = store %0
+  %1 = const 1
+/ RU %2 = div %0 %1
+se
+  %6 =, eq %4 %5
+  ret %-6
+
+// R2  et
+
+/6 %/ RU %2 = div %0 %1
+íMÌ×/onst true
+  %4 = noe
+  %6 = eq %4 %5
+  ret %6
+
+// Rconst 1
+  %2 = const 2
+  et %6
+
+// rU %2 = div %0 %1
+í  %2 = const 2
+  e|
+
+/6 %/ RU %2 = div %0 %1
+se
+  %6 =, eq %4 %5
+  ret %-6
+
+// R2  et
+
+/6 %/ RU %2 = div %0 %1
+íMÌ×/onst true
+  %4 = noe
+  %6 = eq %4 %5
+  ret %6
+
+// Rconst 1
+  %2 = const 2
+  et %6
+
+// rU %2 = div %0 %1
+íMÌ×/onst true
+  %4 = not %3
+  %5 = const false
+ 6 = eq %4ot %3
+  %5 = co = eq %4 %5
+  ret %6
+
+// RU %2 = div %0 %1
+íM/nÞ„€Aòt true

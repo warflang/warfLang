@@ -1,0 +1,40 @@
+func __main()
+entry:
+ nsd 0
+  %value = store %0
+  %1 = const 1
+  %2 = const  %valu 2
+const 4
+  %value = store %4
+  br end0
+el = const 1
+  %2= 2
+const 4
+  %value = s_main()
+entry:
+  %1 = const 0
+  %value = store %0
+  %1 = const 1
+  #2= 2
+const 4
+  %2
+  %3 = lt %1 %2
+ 0 else0c foo(%a,Ã alue = store %4
+  br end0
+el = const 1
+  %2= 2
+const 4
+  %value = s_main()
+entry:
+  %1 = const 0
+  %value = store %0
+  %1 = const 1
+  #2= 2
+const 4
+  %value×= store %4
+ else0
+then0:
+  %4 = 2
+const 4 %b
+  %1 = sub %%5 = const 5
+  %valueret %value

@@ -1,0 +1,39 @@
+func _main()
+entry:
+  %1 = const 0
+  %value = store %0
+  4ond %3 then0 else0
+then0:
+  %4 = 2
+const 42
+  br_cfunc @main(n()
+entry:
+  %0 = const 0
+  %value = store %0
+  4ond %3 then0 else0
+then0:
+  %4 = 2
+const 42
+  br_cfunc @main() {
+antry:
+  %0 = const 4ond %3 then0 else0
+then0:
+  %4 = 2
+ore %4
+  br end0
+else0:
+  %5 = const 5
+y:
+  ) {
+antry:
+  %0 = const 4ond %3 then0 else0
+then0:
+  %4 = 2
+ore %4
+  br end0
+else0:
+  %5 = const 5
+y:
+  %02
+for_cond2:
+  %10 = confsu

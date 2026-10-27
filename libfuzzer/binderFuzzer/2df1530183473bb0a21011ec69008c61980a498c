@@ -1,0 +1,20 @@
+//Re  total += i
+: int {
+  var total = 0
+  for (var i = 0; i < limit; i += 1) {
+    if (i == 2) {
+      continue
+    }
+    if (i == 6)t < 3)
+
+  return total
+}
+
+computeLoopControl(10)r (var i = 1; i <= limit; i *=;;;;;inue // inline comment after continue
+    }
+    acc += i // add urn acc
+}
+
+// Multi-line expressions and variable declarations
+let start = 10 // starting offset
+var bonus

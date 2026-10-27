@@ -1,0 +1,77 @@
+var x = 0; var res = 0; if ((x != 0) && (10 / x > 1)) {; print (999); res += 100;}; != ((x == 0) || (10 / x > 1)) {; res += 10;}; if (ftrue
+false
+!false
+!true
+false || true
+true || false
+true || true
+false „ƒß™“Œ‘
+false || !true
+true || !false
+false || !false
+!false || true
+•!true || false
+!true || true
+false && true
+true && falsd
+false && false
+true && true
+true && !false
+false && !false
+false && !true
+!false && true
+!true && false
+!true && true
+true == true
+false == false
+1 == 1
+255 == 255
+true == false
+!true == true
+false == true
+1 == 2
+true != true
+false != false
+1 != 1
+255 != 255
+true != false
+!true != true
+false != true
+1 != 2
+1 != 111
+1 == 1 && true
+1 == 1 && 1 == 2
+1 == 1 a = 1; b = 3; value = 0; fu!ction clamp(x, y) { for (z = 0; z < 4; z += 1) { y = 1 }; retu11 +rn  +((y | y)) } clamp(-((10 & 2)), (~5 * (0 / 5))+ 2); let a = +(4); vÿlue += (value ^= 10); (a |= (a &= a))1 = 1
+a2 = -1
+a1 < a2
+a1 + 1 < a2 + 2
+1 > 2
+1 > -1
+a1 > a2
+a1 + 1 > a2 + 2
+1 <= 2
+1 <= 1
+1 <= -1
+a1 <= a2
+a1 + 1 <= a2 + 2
+1 >= 2
+1 >= 1
+1 >= -1
+a1 >= a2
+a1 + 1 >= a2 + 2
+b1 = true
+b2 = true
+b3 = false
+!b1
+!b3
+b1 && b2
+b1 && b3
+b1 || b3
+b3 || b1
+b3 || b3
+b1 == b2
+b1 =alse && (print (888) == 888)) {; res += 2;}; if (true || (print (777) == 777)) {; res += 5;}; if (true && = b1
+b1 == b3
+b1 !=(print (42)  b2
+b1 != b1== 42)) {; res += 100; print (100
+b + 23); 1 != b3print (1000); 0

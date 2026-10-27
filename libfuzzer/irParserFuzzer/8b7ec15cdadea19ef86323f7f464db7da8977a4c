@@ -1,0 +1,22 @@
+func __main()
+e br_cond %3 then0 else0c foo(%a,Ã %b, %c)
+entry:
+  %0 = add %a %b
+  %1 = sub %0 e0: %2
+  br_cond %3 then0 else0c foo(%a,Ã %b, %c)
+entry:
+  %0 = add Æ%a %b
+  %1 = sub %0 e0:
+  %5 = const 5
+  %value = store %5  br end0  %3 = lt*%1 %2
+  br_cond %3 then0 else0c foo(%%0 e0: %2
+  br_cond %3 then0 else0c foo(%a,Ã %b, %c)
+entry:
+  %0 = addt 5
+  %value = store %5  br end0  %3 = lt %1 %2
+  br_cond %3 then0 else0c foo(%a,Ã %b, %c)
+entry:
+  %0 = add %a %b
+  %1 = sub 0 else0c foo(%a,Ã %b, %c)
+entry:
+  %0 %value

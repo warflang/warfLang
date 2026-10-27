@@ -1,0 +1,13 @@
+func __main()func @add(%a, %b) {
+entry:
+  %0 = add %a, %b
+  ret %0
+}
+func @main() {
+entry:
+  %1 =
+e«ntry:
+  %0 = const 1
+  ret  call @add(10, 20)
+ % 0ret %1
+}

@@ -1,0 +1,12 @@
+function foo(a, b) { a == b } 
+ 
+
+bar(9, 10)
+
+function baz(a, b) { a > b } 
+
+baz(8,1)
+
+function baz(a, b) { a > b } 
+
+baz(8,11)

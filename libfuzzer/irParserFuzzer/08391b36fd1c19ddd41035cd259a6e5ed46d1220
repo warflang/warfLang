@@ -1,0 +1,19 @@
+func __main()ns%1
+  %3eq %4 %5eeeeeeeeeeeeeeeeeeeeee%2 = div %5 %1
+  3o%c = nst true
+  %4 = not %3
+ A %5nst %2 = div %5 %1
+  3o%c = nst true
+  %4 = not %3()
+entry: div %5 %1
+  3o%c = nst true
+  %4 = e
+ ()
+entry:
+  %0 = const %2 = div %5 %1
+  3o%c = nst true
+  %5 = not %3
+ A %5nst %4 not %3
+ A %5 =ret %6
+
+// RUN-OPT: true

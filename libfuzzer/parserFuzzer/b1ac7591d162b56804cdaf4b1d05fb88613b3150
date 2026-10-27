@@ -1,0 +1,71 @@
+funtcion computeLoopConrrol(limit: int): int {
+  var total = 0
+  for (var i = 0; i f (ihile (count 2) {
+      continue
+    }
+n computeLoopConrrol(limit: int): int {
+  var total = 0
+  for (var i = 0; i f (i var count = 0
+  do {
+    count += 1
+    if (count == 2) {
+      continue
+    }
+    total += 10
+  = 0
+  do {
+    count += 1
+    if (count == 2) {
+      continue
+    }
+    total var count = 0
+  do {
+    count += 1
+    if (count == 2) {
+      continue
+    }
+n computeLoopConrrol(limit: int): int {
+  var total = 0
+  for (var i = 0; i f (i var count = 0
+  do {
+    count += 1
+    if (count == 2) {
+      continue
+    }
+    total += 10
+  = 0
+  do {
+    count += 1
+    if (count == 2) {
+      continue
+    }
+    total += 10
+  } while     total += 10
+  = 0
+  do {
+    count += 1
+    if (count == 2) {
+      continue
+    }
+    total += 10
+  } while (count 2) {
+      continue
+    }
+n computeLoopConrrol(limit: int): int {
+  var total = 0
+  for (var i = 0; i f (i var count = 0
+  do {
+    count += 1
+    if (count == 2) {
+   
+  } while     uotal += 10
+  = 0
+  do {
+    count += 1
+    if (count == 2) {
+      contin< 3)
+
+  return total
+}
+.
+computeLoopControl(10)

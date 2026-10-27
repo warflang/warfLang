@@ -1,0 +1,1 @@
+scope_outer = 1; { scope_Inner = 2; scope_uesotrle = scope_Inner + 1 }; scope_outer

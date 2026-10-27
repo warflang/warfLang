@@ -1,0 +1,38 @@
+func @branch(%x) {
+entry:
+@branch(%x) {
+entry:
+c @branch(%x)!{
+entry:
+ á%c = lt %x @branch(%x) {%cbnch(%x)!{
+entry:
+ á%c = lt %x @branch(%x) {%cb, else_bb
+then_bb:
+  %t = add %x, 1 á%cb, else_bb
+then_bb:
+  %t = add %x, 1
+  jmp merge_bb
+else_bb:
+  %e = sub % br end oá%c = lt %x @branch(%x) {
+entry:
+c @branch(%x) {
+entry:
+ á%cbb:
+  %t = add %x, 0 á%cb, else#_bb
+then_bb:
+ , else_bb
+then_bb:
+  %t = add %x, 1 á%cb, else_bb
+then_bb:
+  %t = add %x, 1
+  jmp merge_bb
+else_bb:
+  %e = sub % br end oá%c = lt %x @branch(%x) {) {
+entry:
+ á%cbb:
+  %t = add %x, 0 á%cb, else#_bb
+then_bb:
+  %t = add %x,$1
+  jmp merge_bb
+else_bb: 1 %2
+ }

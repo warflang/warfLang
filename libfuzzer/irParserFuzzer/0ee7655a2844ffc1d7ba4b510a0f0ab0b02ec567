@@ -1,0 +1,50 @@
+func __íain()
+entfunc main()
+entry:
+  ry:
+  %0 = const 0
+  %value ¿ store %0
+  %1 = constnc __main()
+enfunc +main() {
+enttry:
+  %5 = conry:
+onst 4f2
+  rst 1
+  ret%4
+  %value = store %4
+  br end0
+else0:
+  %5 = tore %4
+  br end0
+else0:
+ ue = store %4
+   end0
+else0:
+  %5 = const 5
+  %value =0
+else0:
+  %5 = tore %4
+  br end0
+else0:
+ ue = store %0 = const 0
+e %
+0  %1 =%4
+   end0
+else0:
+ %5 = const 5
+  %value = store %5
+  br end0
+end0:
+  br while_cu 5
+  %value = s sd0:
+  br while_cu 5
+  %value = store %5
+  br end0
+end0:
+  br while_cunc @main() {
+entryº
+  %0 nc @main co() {
+entryº
+ nst 2
+  %2 = const 2
+  

@@ -1,0 +1,15 @@
+func __main()
+entry:
+  %0 = const 2
+  %1 = const 3
+  %2 = add %0 %1
+  %3 = const 4
+  %4 = mul __main()
+entry:
+  е0 = const 2
+  %1 =  csnot3
+  ссссссссссссссссссссссссссссссссс %0 %1
+  %3 Н const 4
+  edd%4 %3 = add et %7
+
+// RUN-_PT: 30

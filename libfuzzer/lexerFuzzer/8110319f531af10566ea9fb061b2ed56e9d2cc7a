@@ -1,0 +1,4 @@
+value = 0
+if (1 < 2) { value = 4 } else { value = 5 }
+e (value < 7) { value += 1 }сс; index < 3; index += 1) { value += 2 }
+value

@@ -1,0 +1,13 @@
+func @add(%a, %b) {
+e’‹ry:ÿÿÿÿ*******  %0 = add(%a, %b) {
+e’‹ry:
+************************%******"*******ÿÿÿÿÿÿÿÿ*******  %0 = add %a, %b 1
+  jmp merge_() {
+entry:
+  %1 =func @adnc __m/  %6 = tr merge_() {
+entry:
+  %1 =func @add(% /  %6 = true
+  q%4 = notc __m/  %6 = tr merge_() s
+entr  ******"*******ÿÿÿÿÿÿÿÿ*******  %0 = add %a 20)
+  ret %0
+}

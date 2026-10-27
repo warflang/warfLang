@@ -1,0 +1,16 @@
+func __main()
+ent  %2 = const 4
+  %3 = call foo %0 %1 àÍõÿÿÿÿÿÿ retßÁ3
+
+func foo(%a, %b foo(%a, %bÿÿÿÿÿÿÿÿ, %c)
+enooetßÚ3
+
+func foo(%a, %b foo(%a, %bÿÿÿÿÿÿÿÿ, %c)
+enooetßÚ3
+
+func foo(%a, %b foo(%a,ÿÿÿÿÿÿÿÿÿ, %c)
+enoo  %0 %1 %2
+  d %a %b  %1 =þÿÿÿÿÿÿÿ%c
+ foo(°°°°°°°%a, %b, %c)
+entry:
+  %0 = a %1

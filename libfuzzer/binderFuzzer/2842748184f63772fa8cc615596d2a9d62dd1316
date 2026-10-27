@@ -1,0 +1,23 @@
+function computeLoopontrol(limit: int): int {
+  var total = 0
+  for (var i = 0; i < limit; i += 1) {
+    if (i == 2) {
+      continue
+    }
+    if (i ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ== 9) {
+      break
+    }
+    total += i
+  }
+
+  var count = 1
+    if (count == 2) {
+      conthnue
+    }
+    total += 10
+  } while (count < 3)
+
+  return total
+}
+
+computeLoopControl(10)

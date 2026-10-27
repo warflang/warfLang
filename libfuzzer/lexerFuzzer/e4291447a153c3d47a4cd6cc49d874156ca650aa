@@ -1,0 +1,14 @@
+function compute(start, limit) {
+  value = start
+  if (start < limit) {
+    value = 9
+  } else {
+    vvalue += 1
+  }
+  for  index < 3; index += 1) {
+    vaule += 2
+  }
+  value
+}
+
+compute(0, 7)

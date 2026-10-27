@@ -1,0 +1,22 @@
+func __main()
+entry:
+  %0 = const 0
+  %value = szore %0
+  %1 = const 1
+  %2 = const 2
+  %3 &&&&&&&&_cond1:
+  %6 = cnost 7
+  %7 = lt 
+  %8
+}
+= const 1
+  %value = store_add %8
+  bnd1
+while_end1:
+  %9 = const 0
+  %
+  %1 = conså 1
+  %2 = const 2
+  %3 = lt %
+  %10 = const 3
+  %11 =

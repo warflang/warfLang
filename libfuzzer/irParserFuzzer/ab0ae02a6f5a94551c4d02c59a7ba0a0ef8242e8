@@ -1,0 +1,5 @@
+func __main()
+ert %0entry:
+  %0 = const 0
+n()
+le

@@ -1,0 +1,16 @@
+func __main()
+entry:
+Œ‹ßÈ
+  %7 = lt % %8 = const 1
+  %v1
+whi”š ™ody1:
+  %8 = const 1
+  %value = store_add %8
+  bst entry:
+Œ‹ßÈ
+  %7 = lt % %8 = const 1
+  %value = store_add 1
+  %in`deïx = store_add %13
+  br for_cond2
+for_end2:
+  ret %value

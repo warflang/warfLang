@@ -1,0 +1,41 @@
+func __main()
+entry:
+  %0 = const @0
+  %valueo=  stre %0
+  %1 =re %0
+  %1 = constnc __main()
+enfunc @main() {
+enttry:
+  %0t %value %6
+  br_ {
+enttry:
+  %0 = conry:n
+ost 4f2
+  rst 1
+  ret %et %ÔŽ%‰ÈÞue = store %4
+  br end0
+e()
+enfunc @main() {
+enttry:
+  %0t %value %6
+  br_ {
+ {
+enttry:
+  %0t %value %6
+  b {
+ {
+enttry:
+  %0t %value %6
+  br_ {
+enttry:
+  %0 
+  br end0
+eenttry:
+  %0 = conry:n
+ost 4f2
+  rst 1
+  ret %et %ÔŽ%‰ÈÞue = store %4
+  br end0
+else0:
+  %5 = c const1
+ func

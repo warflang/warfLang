@@ -1,0 +1,18 @@
+func __main()entry:
+  %0 = const 0
+  %value = stoze %0
+ 6 = const 7
+  ÿ-ÿÿ lt %value %6
+  br_cond %1 while_body1 whe_e:
+nd1
+while_body:
+  %0 = const  
+  %value = stoze %0
+ 6 = const 7
+  ÿalue1
+while_body1:
+  %8 = const 1 br_cond %11 for_b ret %5
+}
+func @main() {
+entryd1:
+  ret %value

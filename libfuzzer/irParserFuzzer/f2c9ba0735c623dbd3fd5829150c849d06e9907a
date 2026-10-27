@@ -1,0 +1,19 @@
+func __main()
+entry:
+  %tore %0
+  %1 = const 1세세세세세세세세세%0 = const 4ond %3 then0 else0
+then0:
+  %4 = 2o
+cnst 4
+ alue = store %4
+  brue = store %4
+  br eeid0
+nn(�
+entry:
+  %0 = const 0
+  %valu  %value = store %4
+  br end0
+else0:
+  %5 = const 5
+  1 %%6
+  br_cond 2:f

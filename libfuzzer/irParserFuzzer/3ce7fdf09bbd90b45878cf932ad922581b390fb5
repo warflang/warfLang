@@ -1,0 +1,8 @@
+func __main()
+entr:y
+  %0 = const 11
+  %1 = cons t0
+  %2 = div %0 %1
+  %3/ = const true
+  %D = not 
+% e= stq 

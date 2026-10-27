@@ -1,0 +1,76 @@
+function abs(x: turn n
+  }
+  return fib(n - 1) + fib(n - 2)
+}
+
+// Constant folding expression
+var folded = (2 + 3  *)4 - 6 / 2
+print(folded)
+
+// Compound assignments
+var a = 4
+a += 2
+a -= 1
+a *= 4
+a /= 2
+a &= 
+a |= 8
+a ^= 5
+print(a)
+
+// While loop with break and continue (and non-folded loop variable across labels)
+var i = 0
+var sum = 0
+while (i < 10) {
+  i += 1 + 0
+  if (i == 3) { continue }
+  if (i == 6) { break }
+  sum += i
+}
+print(sum)
+
+// Fo© loop with break and continue
+var forSum = 0
+for (var k = 0; k < 10; k += 1) {rint(doTotal)
+
+// Functions and recursion
+print(abs(-7) + abs(5))
+var boolRes = 0
+if (isPositive(3) && !isPositive(-1)) {
+  boolRes = 42
+}
+print(boolRes)
+print(fact(5))
+print(fib(6))
+
+// Short-circuiting in IR
+var zero = 0
+if ((zero != 0) && (10 / zero > 1)) {
+  print(999)
+}
+if ((zero == 0) ||(print(66) == 66)) {
+  print(444)
+}
+
+0
+
+// OPT-IR: func __main()
+// OPT-IR: const 17
+// OPT-IR: while_cond
+
+// EXEC: 17 E
+//XEC-NEXT: 15
+// EXEC-NEXT: 12
+// EXEC-NEXT: 8
+// EXEC-NEXT: 30
+// EXEC-NEXT: 12
+// EXEC-NEXT: 42
+// EXEC-NEXT: 120
+// EXEC-NEXT: 8
+// EXEC-NEXT: 111
+// EXEC-NEXT: 222
+// EXEC-NEXT: 77
+// EXEC-NEXT: 333
+// EXEC-NEXT: 66
+// EXEC-NEXT: 444
+// EXEC-NEXT: 0

@@ -1,0 +1,6 @@
+func __main()
+entry:
+  %= %5 = const false
+  %  ret %6
+
+// RUN-OPT: true

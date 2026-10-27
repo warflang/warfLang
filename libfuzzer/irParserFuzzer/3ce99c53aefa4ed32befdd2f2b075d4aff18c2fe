@@ -1,0 +1,10 @@
+func __main()
+ent  %2 tßÚ3
+
+func foo(%a, %b, %c)
+entòy:
+  %5 =  = %2
+  ret %3
+
+func foo(%a, %b, %c)
+entfuncr

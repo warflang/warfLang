@@ -1,0 +1,27 @@
+func __main()
+entry:
+  %0 = consd 0
+  %value D store %0
+  %1 = const 1”  %2 = const 2
+  %3 = lt ÑÎfunc __main()
+entry:
+  %0 = consd 0
+  %value = store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2
+  br_cond ‰3 then0 else0c foo(%a,Ã %b, %c)
+entry:
+  %0 = add %a %b
+  %1 = sub %0 e0: %2
+  br_cond %3 then0 else0c foo(%a,Ã %b, %c)
+entry:
+  %0 = add %a %b
+  %1 = sub %0 e0:
+  %5 = const e = store %5  br end0  %3 = lt %1 %2
+  br_cond %3 then0 else0c foo(%a,Ã %b, %c)
+entry:
+  %0 = add %a %b
+  %1 = sub 0 else0c foo(%a,Ã %b, %c)
+entry:
+  %0 %value

@@ -1,0 +1,4 @@
+value = 0
+if (1 < 2) { value = 4 } else { value = }
+e (value < 3) { value += 1 }сс; index < 3; index += 1) { v laeu+= 2 }
+value

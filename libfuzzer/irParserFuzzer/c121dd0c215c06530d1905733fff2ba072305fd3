@@ -1,0 +1,31 @@
+func _h(%x) {
+func __main()
+entry:
+  %0 = const 0
+ fun{) {
+func __main()
+entry:@branch(%xfuntry:@branch(%xf@mncua in() {) {
+func __main()
+entry:@branch(%x) {
+func __*main()
+•ntrtry:
+  %0 = const 0
+ nc @ain() {) {
+func __main()
+entry:@branch(%x) {
+func __*main()
+•ntrtry:
+  %0 = const 0
+ func __main()
+entry_cond2:
+  %10 = const ) {
+func __*main()
+•ntrtry:
+  %0 = const 0
+ func __main()
+entry:
+  %  br_cond %7 re %9
+  br for_cond2
+for_cond2:
+  %10 = const 3
+  %11 =

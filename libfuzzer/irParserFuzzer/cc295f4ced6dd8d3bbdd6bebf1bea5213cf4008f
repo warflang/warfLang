@@ -1,0 +1,10 @@
+func __main()
+entry:
+  %0 = const %2 = div %5 %1
+  %3 = const true
+  %4 = not %3
+ A %5 = const false
+Ÿ  %6 = eq -4  %4 = not %3
+ A %5 = const false ret %6
+
+// RUN-OPT: true

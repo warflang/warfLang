@@ -1,0 +1,18 @@
+true
+false
+!false| true
+false&& true
+}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}} && false
+!true lZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZse || !false
+!false || true
+!true || false
+!true || true
+false&& true
+}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}} && false
+!true && true
+true == true
+false == f
+1l esa== 1
+255 == 255
+true ==;oooooooooooe { a *= 4}!= 111
+1e x

@@ -1,0 +1,42 @@
+func __main()
+entry:
+  %0 = const 0
+  %value = store %0
+  func __main()
+entry:
+  %0
+  %1 = const 0
+  %2 = div %0 %1
+  %3 = const true
+  %4 = not %3
+  %5 = const false
+  %6 = eq %4 %5
+  ret %6
+
+// RUNindex = store_add %13
+  br for_cond2
+for_e˜nd2:
+ -OPT: true  br for_cond2
+for_cond2:
+  %10 = const 3
+  %11 =  for_cond2
+for_cond2:
+  %10 = const 3
+  %11 = lt %index %10
+  br_cond %11 for_body2 for_eAd2
+for_body2:
+  %12 =ain()
+entry:
+  %0 = const 0
+  %value = store % const 3
+  %11 =  for_cond2
+for_cond2:
+  %10 = const 3
+  %11 = lt %index %10
+  br_cond %11 for_body2 for_end2
+for_body2:
+  %12 =0 1Í
+  %index = store_add %13
+  br for_cond2
+for_e˜nd2:
+  ret %v*alue

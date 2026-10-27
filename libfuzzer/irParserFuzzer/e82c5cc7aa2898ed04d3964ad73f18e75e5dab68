@@ -1,0 +1,23 @@
+func _ma_in()
+entry:
+  %0 = consv 0
+  %value = store %0
+  %
+  %2 = co%value = store %4
+r  b end0
+else5:
+  %5 = const 5
+  %_body1:
+  %8 =ue = stoile_end1:
+  %9 = consn 0
+  %index =1store %9
+  _cond2
+for_cond2:
+  %10 = cofrt 3
+  %11 = lt %index %10
+  br_cond %11 f•or_body2 for_end2
+for_body2:
+  %12 = constex = store_add %06
+  br for_cond2
+fon_end2:
+t %value

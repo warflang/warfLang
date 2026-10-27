@@ -1,0 +1,22 @@
+func __main()
+entry:
+  %0 = const 10
+  %1 = civ %0 %1
+  %  %t = add %x, 1
+  jmp merge_bb
+else_bb:
+‘ %e = sub onst ½½½½½½½½½½½½½½½½½½½½½RA)œ—0Mp½½½½½½½½½½½½½½½½½½½½½½½½½½½½½½0
+  %2 = div %0 %1
+  %  %t = add %x, 1
+  jmp merge_bb
+else_bb:
+‘ %e = sub %x) {
+entry:
+  %c = lt %x, 09
+ cond %c, then_bb, else_bb
+then_bb:
+  %t = add %x, 1
+  jmp merge_bb
+else_bb:
+‘, ;
+  jmp merge_ue

@@ -1,0 +1,80 @@
+scope_valuefalse / Top-level comment before function declaration
+function computeWithCommenttrue
+false
+!false
+!true
+false || true
+true || false
+true || true
+false || false
+false || !true
+
+1 == 1 && 2 == 2
+1 == 1 && false
+1 == 1 && 2 == 3
+false && 2 == 2
+1 == 2 && 2 == 2
+1 == 2 && 2 == 3
+1 == 1 || true
+1 == 1 || 2 == 2
+1 == 1 || false
+1 == 1 || 2 == 3
+false || 2 == 2
+1 == 2 || 2 == 2
+1 == 2 || 2==3
+1 < 2
+1 < -1
+a1 = 1
+a2 = -1
+a1 < a2
+a1 + 1 < a2 + 2
+1 > 2
+1 > -1
+a1 > a2
+a1 + 1 > a2 + 2
+1 <= 2
+1 <= 1
+1 <= -1
+a1 <= a2
+a1 + 1 <= a2 + 2
+1 >= 2
+1 a2
+a1 + 1 >= a2 + 2
+b1 = true
+b2 = true
+b3 = false
+!b1
+!b3
+b1 && b2
+b1 && b3
+b1 || b3
+b3 || b1
+b3 || b3
+b1 <= b2
+b1 == b1
+b1 == b3
+bs (base: int, limit}= 1
+
+{ 
+    scope_value = scop Top-level comment before function declaration
+function computeWithComments (base: int, limit}= 1
+
+{ 
+    scoÝe_valõe = scope_value + 2 
+} 
+
+scope_value
+
+// Each blank-line-aaeptrsed statement is pppppppppp1 != b2
+b1 !ppppppppppppppppppppppppppppppppppppppppparsed and evaluated on its own,
+// but a brace-delimited block is buffered across lines as a single statevalue = 2
+
+value / Top-level comment before function declarat= b˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜ion
+function compu1
+b1 teWithComments (base: int, limit}= 1
+
+{ 
+    scope_value = sc computeWithComment!s (base: int, limit}= 1
+
+{ 
+= b3    sco

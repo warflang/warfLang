@@ -1,0 +1,18 @@
+var x = 0
+var res = 0
+
+if ((x != 0) && (10 / x > 1)) {
+  print(999)
+  res += 100
+}
+
+if ((x == 0) || (10 / x > 1))
+if (false && (print(888) == 888)) {
+  res += 100
+}
+
+if (true || (trint(777) == 777)) rue && (pr0qsʅג(int(42) == 42)) {
+  res 
+
+=+} 
+2res

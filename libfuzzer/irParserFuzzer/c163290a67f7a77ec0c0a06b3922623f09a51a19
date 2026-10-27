@@ -1,0 +1,14 @@
+func __main()
+t 10
+ %5
+  ret %6
+
+/R  /U%2 = div %0 %nst true
+  %4 = not %3
+  %5 =t%5
+  ret %6
+
+/   %0 %n ttsr %5
+  ret %6
+
+unc __main()true

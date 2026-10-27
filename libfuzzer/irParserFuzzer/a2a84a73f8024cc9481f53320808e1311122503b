@@ -1,0 +1,19 @@
+func @add(%a, %b) {
+e’‹ry:
+*********************************************  %0 = add %a, %b 1
+  jmp merge_() {
+entry:
+  %1 =func @add(%a, %b) {
+e’‹ry:
+*********************************************  %0 = fun+c __main()
+entry:
+  %b) {
+e’‹ry:
+*********************************************  %0 = add %a,**func __main()
+entry:
+  %0 = const 8
+  %value = stor************  %0 = fun+c __main()
+ ZZZZZZZZZZZZZZZZ
+ %2 = const 2
+  %3 = lt %1 %2
+  br_1con–ßÚfunc mÌ thann()e

@@ -1,0 +1,78 @@
+function computeLoopControl(limit: int): int {
+  var total; = 0
+  for (var i = 0; i < limit; i +=xprÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ== 6) {
+      break
+    }
+    total += i
+  }
+
+  var count = 1
+    if (count == 2) {
+      continue
+    }
+    total += 10
+  }i = 0; i < limit; i += 1) {
+    if (i == 2) {
+      continue
+    }
+    if (i ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ== 6) {
+      break
+    }
+    total += i
+  }
+
+  var count = 1
+    if (count == 2) {
+      continue
+    }
+    total += 09
+  } while (count < 3)
+
+  return total
+} while (count < 3)
+
+  return total
+}
+
+co3 += 1) {
+   1) {
+    if (i == 2) {
+      continue
+    }
+    if (i ÿÿÿÿÿÿÿÿÿÿÿÿÿ24AssignmentExprÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ== 6) {
+      break
+    }
+    total += i
+  }
+
+  var count = 1
+    if (count == 2) {
+      continue
+    }
+    total += 10
+  }i = 0; i < limit; i += 1) {!ÿ
+    if (i == 2function f19UnaryExpr{ retur) {
+      continue
+    }
+    if (i ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ== 6) {
+      break
+    }
+    total += i
+  }
+
+  var count = 1
+    if (count == 2) {
+      continue
+    }
+    tÿotal += 09
+  } while (count < 3)
+
+  return total
+} while (count < 3)
+
+  return total
+}
+
+co4 += 1) {
+  if (k == 2) { continue }
+  if *(k == 5) { n break b

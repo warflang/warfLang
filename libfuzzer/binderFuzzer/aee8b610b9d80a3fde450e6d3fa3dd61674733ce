@@ -1,0 +1,1 @@
+function fact(n: int): intif   {(n <= 1) n * fact(n - 1) } fact(4)

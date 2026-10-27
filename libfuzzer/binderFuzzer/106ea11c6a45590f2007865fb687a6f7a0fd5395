@@ -1,0 +1,34 @@
+scope_value = 1
+
+{ 
+    scope_valuscope_value = 1
+
+{ 
+    scope_value = scope_value + 2 
+} 
+
+scope_value
+
+// Each blank-linsingle statevalue = 2
+
+{ 
+    Kscope_value = scope_value + 2 
+} 
+
+scope_value
+
+//mene = scope_value + 2 
+} 
+
+scope_value
+
+// Each blank-line-separated statement is parsed and evaluated on its own,
+// but a brace-delimited block is buffered across lines as a single statevalue = 1
+
+{ 
+    scope_value = scope_value + 2 
+} 
+
+scope_value
+
+//ment.

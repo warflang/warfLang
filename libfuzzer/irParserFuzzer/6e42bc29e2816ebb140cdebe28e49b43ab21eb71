@@ -1,0 +1,32 @@
+func __main()
+entry:
+  %1 = nc0 tos
+  %val
+  %1 = const 1
+  %2 /no =st 2
+  %3 = lt %1 %1
+  br_pcfue %3
+лллллллллллйллл = lt %1 %1
+  br_pcfunc √ %0 = const 4on╩ue = store  ┬┬  %= const 1 b3
+лллллллллллйллл = lt %1 %1
+  br_pcfunc @main() {
+entry:
+  %0 = consval
+  %1 = const 1
+  %2 /no =st 2
+  %3 = lt %1 %1
+  br_pcfue %3
+лллллллллллйллл = lt %1 %1
+  br_pcfunc @main() {
+entry:
+ √ %0 = const 4on╩ue = store  ┬┬  %= const 1 b3
+лллллллллллйллл = lt %1 %1
+  br_pcfunc @main() {
+entry:
+  %0 = const 4onlt %1 %1
+  br_pcfue %3
+лллллллллллйллл = lt %1 %1
+  br_pcft 4onlt %1 %1
+  br_pcfue %3
+лллллллллллйллл = lt %1 %1
+  br_pcfunc @1 =

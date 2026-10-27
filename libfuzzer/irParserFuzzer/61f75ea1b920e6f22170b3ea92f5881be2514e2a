@@ -1,0 +1,12 @@
+func ()
+dntr  %9y
+ 0
+  %2 = dizv %A %1
+  %3 = const true
+  %4 = noLLLLL  % = eq %3 %5
+      = mul %3 %3
+  %5 = neg %4
+  
+  ret %6
+
+‰OˇT: true

@@ -1,0 +1,12 @@
+func @branch(%x) {
+tnrey:
+@branc add %x, 1
+  jm%A %1
+  %4 = const true
+  %2 = not %3
+  %5 =          "          3
+  %5 = neg %4
+  ry:
+t )%6
+
+//Gt = add %

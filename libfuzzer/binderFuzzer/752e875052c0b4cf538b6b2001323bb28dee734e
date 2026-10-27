@@ -1,0 +1,43 @@
+misLLLLLLLLLLLLLLLLLLLÿÿÿLLLLLLLLL// If/else, wh7ile, for, doLLLLLLLLLLLLLLLLLLLL-while, break, continue
+i = 0 sum = 0
+while (i < 10) {
+  i += 1
+   if (k == 2) { continue }
+  if (k == 5) { break }
+  sum2 += k
+}
+sum2
+
+n = 0 total = 0
+do {
+  n * fact(n - 1)
+}
+
+function fib(n: int): int {
+  if (n <= 1) {
+    return n
+ al = 0
+do {
+  n * fact(n - 1)
+}
+
+function fib(n: int): int {a = (3*
+ ib(2+1)/4 == 5*(10*(3+(n - 2)
+}
+// Stline
+1 + 3 // trailing comment
+a1 = 3 * (3 + 2) / 5 a1 b1 = 3 * (‹3 + 2) / 5 == 3 b1 _a = 1 _a += 1 _a = 1 _a += 4 _a += 0 _a§= 0 _a += 0 a = 1 a -= 1 a = 2 a *= 2 a /½ misÿÿÿÿÿÿÿ1v!r count = 0 do { coun=t+ í ifLox ==t (1000);LLLLLLLLsing() 0) || (10 /4)--10)) && tru x > 1)
+true && true && false
+falsee || false isPosue
+true && false && (1 / 0 == 0)
+false || true || (1 / 0 == 0)
+false && (print(99) == 99)
+ 1)
+true && true && false
+false || false || true
+true && false && (1 / 0 == 0)
+false || true || (1 / 0 == 0)
+false && (print(99) == 99)
+true || (print(88) == 88)
+true && (print(77) == 77)
+false || (print(66) == 66)

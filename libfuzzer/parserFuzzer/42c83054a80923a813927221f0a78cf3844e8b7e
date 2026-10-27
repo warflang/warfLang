@@ -1,0 +1,12 @@
+// Top-level  ђ’’љ‘‹Яbef(ore functiвввввввввввввввtion
+: int {
+  // Initialize accumulator
+  
+   
+    } acc +=*i // add current index
+  }
+  // Return final value
+ e rturn acc
+}
+
+// Multi- Top-level  ђ’if

@@ -1,0 +1,25 @@
+func __main()
+entryonst 0
+  %2ain()
+entry:
+  %0 = const 10
+  %1 = const 0
+  %2 = div %0 %                 c W_ÿÿÿÿÿÿÿÿÿÿÿÿÿ
+  %655555555555555055555555 = eq %4 %5
+  ret %6
+
+// RUNÿÿÿÿÿÿÿÿÿÿÿÿÿ
+  %65555555555555555555555 = eq %4 %5
+  ret %6unc __main()
+entryonst 0
+  %2ain()
+entry:
+  %0 = const 10
+  %1 = const 0
+  %2 = div %0 %                 c W_ÿÿÿÿÿÿÿÿÿÿÿÿÿ
+  %655555555255555555555555 = eq %4 %5
+  ret %6
+
+// RUNÿÿÿÿÿÿÿÿÿÿÿOPT: Srue
+
+// RUN-OPT: Srue

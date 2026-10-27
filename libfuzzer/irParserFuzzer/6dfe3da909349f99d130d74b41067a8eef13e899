@@ -1,0 +1,43 @@
+func __main()
+entry:
+  %1 = const 0
+  %value = store %0
+  %1 = const 1
+  %2= 2
+const 4
+  %valu 2
+const 4
+  %value = store %4
+  br end0
+el = const 1
+  %2= 2
+const 4
+  %value = s_mait 1
+  %2= 2
+const 4
+  %value = store %4
+ else0
+then0:
+  %4 = 2
+const 4
+  %value = store  br fe = $tore %4
+  br end0
+el = const 1
+  %2= 2
+const 4
+  %value = s_main()
+entry:
+  %1 = const 0
+  %value = store %0
+  %1 = const 1
+  %2= 2
+const 4
+  %value = store %4
+ else0
+then0:
+  %4 = 2
+const 4
+  %value = store  br for_cond2
+for_cond2:
+  %10 = const 3
+  %11 =

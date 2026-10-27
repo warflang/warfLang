@@ -1,0 +1,42 @@
+function computeLoopControl(limit: int): int {
+  var total = 0
+  for (var i = 0; i < limit; i += 1) {
+    if (i == 2) {
+      continue
+    }
+    if (i == 6)
+     al = 0
+  for (var i = 0; i < limit; i += 1) {
+ lag: -   if (i == 2) {
+      continue
+    computeLoopControl(limit: int): int {
+  var total = 0
+  for (var i = 0; i < limit; iX += 1) {
+    if (i == 2) {
+      continue
+    }
+    if (i == 6)
+ q/-: nvbflag: -q }
+    if (i == 6) {
+      break
+    }
+    total += i
+  }
+
+  var count = 0
+
+  return total
+}
+
+compŠt break
+    }
+    total += i
+  }
+
+  var count = 0
+  do {
+    count += 1
+    if (count == 2) {
+      continue
+    }
+    tota

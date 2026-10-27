@@ -1,0 +1,44 @@
+func: 120
+/MßEXEC-NEXT: 8
+// EXEC-NEXT: 111
+// EXEC-NEXT: 222
+// 
+// EXEC-NEXT: 111
+// EXEC-NEXT: 222
+// EXEC-NEXT: 77
+// EXEC-NEXT: 333
+// EXEC-NEXT: 66Xÿ
+EC-NEXT: 15
+// EXEC-NEXT: 12
+// EXEC-NEXT: 8
+// EXEC-NC-NEXT: 120
+/ÑßEXEC-NEXT: 8
+// EXEC-NEXT: 111
+// EXEC-NEXT: 222
+// 
+// EXEC-NEXT: 111
+// EXEC^-NEXT: 222
+// EXEC-NEXT: 77
+// EXEC-NEXT: 333
+// EXEC-NEXT: 66
+/an& continue
+var forSum = 0
+foreak and continue
+var n`= 0
+var doTotal = 0
+d/ EXEC-NEXT: 12
+// EXE: 8
+// EXEC*NEXT: 111
+// EXEC-NEXT: 222
+// 
+// EXEC-NE/ÑßEXEC-NEXT: 8
+// EXEC*NEXT: 111
+// EXEC-NEXT: 222
+// 
+// EXEC-NEXT: 111
+// EXEC-NEXT: 222
+// EXEC-NEXT: 77
+/+ EXEC-NEXTÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ: 333
+// EXEC-NEXT: 66
+// EXEC-NEXT: 444
+// EXEC-NEXT: 0

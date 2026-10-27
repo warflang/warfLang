@@ -1,0 +1,56 @@
+func _h(%x) {
+func __main()
+entry:
+ %0
+u}
+nc __mÿÿÿÿe %4
+  brÎ(%x) {
+func __*main()
+•ne  %5 = const 5
+  1 x) {
+func __*main()
+•ntrtry:
+ * %5 = const 0
+ func __main()
+entry:
+  %  b%0
+u}
+nc __mÿÿÿÿe %4
+  brÎ(%x) {
+func __*main()
+•ne  %5 = const 5
+  1 x) {
+func __*main()
+•ntrtry:
+ * %5 = const 0
+ func __main()
+entry:
+  %  br_ne  %5 = const 5
+  1 x) {
+func __*main()
+•ntrtry:
+  %0 = const 0
+ func __main()
+entry:
+  %  br_)
+•ntrtry:
+  %0 = const 0
+ func __main()
+entry:
+  %  br_cond %7 rer_ne  %5 = const 5
+  1 x) {
+func __*main()
+•ntrtry:
+  %0 = const 0
+ func __main()
+entry:
+  %  br_)
+•ntrtry:
+  %0 = const 0
+ func __main()
+entry:
+  %  br_cond %7 re %9
+  br for_cond2
+for_cond2:
+  %1 0= const 3
+  %11 =

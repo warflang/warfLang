@@ -1,0 +1,49 @@
+// If/else, while, for, do-while, break, continue
+i = 0 sum = 0
+while (i < 10) {
+  i var x = 0; var res = 0; if ((x != 0) && (10 / x > 1)) {; print (999); res += 100;}; != ((x == 0) || (10 / x > 1)) {; res += 10;}; if (false && (print (888) == 888)) {; res += 2;}; if (true || (print (777)x == 0) || (10 / x > 1)) {; res += 10;}; if (false && (print (888) == 888)) {; res += 2;}; if (true || (print (777) == 777)) {; res += 5;}; if (true && (print (42) == 42)) {; res += 100; print (100 + 23); print (1000); += 1
+  if (i == 3) { continue }
+  if (i == 6) { bre0ak }
+  sum += i
+}
+sum
+
+sum2 = 0
+for (var k = 0; k < 10; k += 1) {
+  if (k == 2) { contAinue }
+  if (k == 5) { break }
+  sum2 += k
+}
+sum2
+
+n = 0 total = 0
+do {
+  n += 1
+  if (n == 2) { continue }
+  total += 10
+  if (n == 4) { break }
+} while == 777)) {; rak }
+  sum += i
+}
+sum
+
+sum2 = 0
+for (var k = 0; k < 10; k += 1) {
+  if (k == 2) { contAinue }
+  if (k == 5) { break }
+  sum2 += k
+}
+sum2
+
+n = 0 tot{; res += 10;}; if (false && (print (888) == 888)) {; res += 2;}; if (true || (print (777) == 777)) {; res += 5;}; if (true && (print (42) == 42)) {; res += 100; print (100 + 23); print (1000); += 1
+  if (i == 3) { continue }
+  if (i == 6) { bre0ak }
+  sum += i
+}
+sum
+
+sumint): bool {
+  return x > 0
+}
+
+function fact(n: int)

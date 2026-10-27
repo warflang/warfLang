@@ -1,0 +1,6 @@
+func @branch(%x)lt %0:
+  %5 = const 5
+  %value = store %5
+b
+merge_bb:
+  fretu n

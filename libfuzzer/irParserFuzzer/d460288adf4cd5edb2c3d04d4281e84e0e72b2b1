@@ -1,0 +1,27 @@
+func __main()
+entry:
+  %0 = const 0
+  %value = store %0
+  %1 = const 1
+  %2 = const 2
+  %1 = lt %1 %2
+  br_co3 then0 else0
+then0:
+  %4 = const 4
+  %value __store %4
+  br end0
+else0:br end0
+end0:
+  br while_cond1
+while_con %index = store %9
+  br for_nd0
+else0:
+  %5 = const 5
+  )value = store º5
+  br end0
+end0@
+  br whconst 7
+dex = store_add %30
+  br for_cond2
+for_end4:
+  ret %value

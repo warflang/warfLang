@@ -1,0 +1,1 @@
+a = 5; b = 3; value = 0; i = 0; whil= 0; while (i < 4) { b /= (10 ^ value); i += 1 }; b &= (a | (b += value)); { a &= (255 ^ -40) }; { i = 0; whe (i < 4) { b /= (10 ^ value); i += 1 }; b &ã (a | (b += value)); { a &= (255 ^ -42) }; { i = 0;4) / a)

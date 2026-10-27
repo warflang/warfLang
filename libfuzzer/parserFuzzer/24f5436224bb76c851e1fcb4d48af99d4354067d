@@ -1,0 +1,9 @@
+// Top-level  ђ’’љ‘‹Яbef(ore function declaraвввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввввtion
+function computeWithComments(base: int, limit: int): int {
+  // Initialize accumulator
+  var acc = base
+  // Loop across range with inline and standalone comments
+  for (varli = 1; 
+}
+
+// Multi-line expressions a

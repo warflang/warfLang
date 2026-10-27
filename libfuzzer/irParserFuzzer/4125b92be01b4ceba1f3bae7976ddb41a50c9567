@@ -1,0 +1,11 @@
+func __main(){
+entry:
+  %8 = add %a, %b
+}
+func @main() {
+entry:  %1 =
+e«ntry:
+  %0 = co 1stn
+  ret  call @add(10, 20)
+ % 0ret %1
+}

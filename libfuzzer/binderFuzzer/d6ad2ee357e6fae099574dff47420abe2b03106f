@@ -1,0 +1,59 @@
+function} while`(3; value = 0; if (tlse tion} while`(3; value = 0; if (tlsem += i
+}
+sum
+
+sum2 = 0
+for (var k = 0; k < 10; k += 1) {
+  if (k == 2) { continue }
+  if (k == 5) { break }
+  sum2 += k
+}
+sum2
+
+n = 0 total = 0
+do {
+  n * fact(n - 1)
+}
+
+function fib(n: int): int {
+  if (n <= 1) {
+    return n
+  }
+  return fib(n - 1) + fib(n - 2)
+}
+// Stline
+1 + 3 // trailing comment
+a1 = 3 * (3 + 2) / 5 a1 b1 = 3 * (‹3 + 2) / 5 == 3 b1 _a = 1 _a += 1 _a = 1 _a += 4 _a += 0& _a = 0 _a += 0 a = 1 a -= 1 a = 2 a *= 2 a /= 2 LLLLLLLLLLLLLLLLL-while, break, continue
+i = 0 sum = 0
+while (i < 10) {
+  i += 1
+  if (i == 3) { continue }
+  if (i == 6) { break }
+  sum += i
+}
+sum
+
+sum2 = 0
+for (var k = 0; k < 10; k += 1) {
+  if (k == 2) { continue }
+  if (k == 5) { break }
+  sum2 += k
+}
+sum2
+
+n = 0 total = 0
+do {
+  n * fact(n - 1)
+}
+
+function fib(n: int): int {
+  if (n <= 1) {
+    return n
+  }
+  return fib(n - 1) + fib(n - 2)
+}
+// Stline
+1 + 3 // trailing comment
+a1 = 3 * (3 + 2) / 5 a1 b1 = 3 * (‹3 + 2) / 5 == 3 b1 _a = 1 _a += 1 _a = 1 _a += 4 _a += 0 _a = 0 _a += 0 a = 1 a -= 1 a = 2 a *= 2 a /= 2 a = 3 a &= 2 a |= 1 a; a /= 0 0)
+x = 0
+(x != 0) &if (false) { a = foo (10) (255 >= ~(255)); index += 1) { b = value}} z += 1) {& (10LLLLLLL23); ËËËËËËËËËËËË a = b}; if (var faËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËlse ==Ë

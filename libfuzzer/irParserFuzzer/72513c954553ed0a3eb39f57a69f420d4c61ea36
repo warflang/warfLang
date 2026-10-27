@@ -1,0 +1,29 @@
+func __main()
+entry:
+  %0 = const 0
+  %valu  %valund0
+else0:
+  %5 = const 5
+  1 %2
+  br_cfunc @main() {ntry:!
+onst 4ÿ¼¼¼¼¼¼¼¼¼W¼¼¼¼¼¼¼¼¼%0 = const 4ond %3 then0 else0
+then0:
+  %4 = 2
+const 4
+  %value = store %4
+  br end0
+else0:
+  %5¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼%0 = const 4ond %3 then0 else0
+then0:
+  %4 = 2
+const 4
+  %value = store %4
+ %value = store %5
+  brÿ¼¼¼¼¼¼¼¼¼W¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼%0 = const 4ond %3 then0 else0
+then0:
+  %4 = 2
+const 4
+  %4
+  br end0
+el3
+  %11 =

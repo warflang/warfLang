@@ -1,0 +1,14 @@
+func __main()
+entry:
+  %ÿÿÿ$0 = const 0
+  %value = store,%0
+  %1 = const 1
+  %2 c %value = store %4
+  br end0
+else0:
+  %5 ,= const 5
+  1 %2
+  br_cfunc @main() {
+entry:
+  %1 = const 4ond %3 then0 elst 3
+  %11 =

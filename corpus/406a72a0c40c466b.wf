@@ -1,0 +1,2 @@
+// Lines: 24.47% (882/3605) Regions: 28.66%
+1 + 2 function foo (arg) { arg foo} (10); function inc(x: int): int { return x + 1 } inc(true)

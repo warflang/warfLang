@@ -1,0 +1,2 @@
+// Lines: 30.15% (1087/3605) Regions: 33.64%
+if ((!(true) == !(false))) { if (false) { a = foo (10) (255 >= ~(255)); while (< 4) { b /= (10 ^ value); i += 1}; b &= (a | (b += value)); { a &= (255 ^ - 42)}; { i = 0; while (i < 1) { a ^= - 4; i += 1}}; (+ (4) / a)

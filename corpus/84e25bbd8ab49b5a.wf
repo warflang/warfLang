@@ -1,0 +1,2 @@
+// Lines: 27.91% (1006/3605) Regions: 31.44%
+1 + 2; for (z = 0; z < 4; z += break} total += i} var count = 0 do { count += 1 if (count == 2) { continue} total += 10} while (count < 3) return total} computeLoopControl (10)

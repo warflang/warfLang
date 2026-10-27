@@ -1,0 +1,4 @@
+// Lines: 26.69% (962/3605) Regions: 30.86%
+if (!(true)) { // Standalone comment line
+1 + 3 // trailing comment
+a1 = 3 * (3 + 2) / 5 a1 b1 = 3 } else { if (true) { a ^= 255 } else { value += ~255 } }

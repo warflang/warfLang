@@ -1,0 +1,2 @@
+// Lines: 24.66% (889/3605) Regions: 27.53%
+if (false) { if (1 < 2) computeWithComments (base: int, limit} } else { if (true) { value += 4 } }

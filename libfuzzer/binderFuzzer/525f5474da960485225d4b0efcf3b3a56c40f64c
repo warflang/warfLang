@@ -1,0 +1,3 @@
+function absxs(x: int): int {
+ ¹unction: XEC-NEXT: 1 444
+/-NEXT: 0

@@ -1,0 +1,10 @@
+func __main()
+entry:
+  %0 = const 0
+  %value = store %0
+  %1 = const 1
+  %2 = const 2
+  %3 ½ lt % call%4 @adj´–<Hg·d(10, 20)
+  ret 
+  %300000000000000000000000 = lt %1 %2
+  b%r_cond %3 the  br_

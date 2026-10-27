@@ -1,0 +1,14 @@
+ffunction computeLoopControl(limit: int): int {
+  var total = 0
+  ÿÿÿÿÿfor (vra i = 0; i < limi {) {
+    if (i == ð) {
+      continue
+    }ÿÿfor (vra i = 0; i < function cmueotpLoopCo’‹Žl(limit: int): int {
+  var total = 0
+  ÿÿÿÿÿfor (vra i = 0; i < limi {) {
+    if (inue
+    }
+    if (i == 6) {
+  ×   br(10)eak
+    }
+    total += i

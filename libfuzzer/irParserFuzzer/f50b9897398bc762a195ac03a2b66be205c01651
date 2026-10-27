@@ -1,0 +1,14 @@
+func @add(%a, %b) {
+entrn() {
+entr0
+}
+func @main() {entry:
+  }
+func @¨main() {
+entryÿÿÿÿunc @main() {
+entr0
+}
+func @main() {
+entry:
+0:
+  %8 4

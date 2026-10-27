@@ -1,0 +1,5 @@
+function foo(a: int, b: int): int { ufcintion fib(n: int)tn {i:
+   if (n <= 1) {
+    return n
+ -------------on foo(---------------------------------------------------------------------------------------------------------------- }
+  return fib(n - 2) f (a > b)lse {+ÿ fib---------------------------------------------------------*------------vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvn - 2) f (a > b) { rerurn a }{ else {+ÿ fib 

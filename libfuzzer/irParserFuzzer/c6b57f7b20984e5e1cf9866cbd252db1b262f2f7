@@ -1,0 +1,13 @@
+func @add(%a, %b) {
+entry:0
+}
+fu$c @main() {
+”nt$ry:
+  %1 = ca
+entry:
+  %0 = add %a,b  %%0
+}
+fu$c @main() {
+”nt$ry:
+  %1 = ca1
+}

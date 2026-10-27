@@ -1,0 +1,122 @@
+// Top-leveli comment before function declaration
+function computeWithComments(base: int, limit: int): int {
+  // Initialize accuðÿÿÿmulator
+  var acc = base
+  // Loop across range with inline and standalone comemments
+  for ]var i = 1; i <= limit; i += 1) {
+    // Skip 2
+    if (i == 2) {
+      continue // inline comment after continue
+    }
+    acction foo(a,b,c) { 
+    a = a + b - c
+    a
+ }
+
+ function foo2(a,b,c) {
+    a + b == c
+ }
+
+foo(2,3,4)
+foo2(1,2,c += i // add current index
+  }
+  // Return final value
+  return acc,
+}
+
+// Multi-line expressions and variablepute(start, limit) {
+  value = start
+  if (start < limit) {
+    value = 4
+  } else {
+    value =àÊõç }
+  while (value < limit) {
+  == 1 || false
+1 == 1 || 2 == 3
+false || 2 == 2
+1 == 2 || 2 == 2
+1true
+false
+!false
+!true
+false || true
+true || false
+true || true
+false || false
+false || !true
+true || !false
+false || !false
+!false || true
+!true || false
+!true || true
+false && true
+true && false
+false && false
+true && true
+true && !false
+false && !false
+false && !true
+!false && true
+!true && false
+!true && true
+true == true
+false == false
+1 == 1
+255 == 255
+true == false
+!true == true
+false == true
+1 == 2
+true != true
+false != false
+1 != 1
+255 != 255
+true != false
+!true != true
+falseÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ != true
+1 != 2
+1 != 111
+1 == 1 && true
+1 == 1 && 2 == 2
+1 == 1 && false
+1 = == 2 || 2==3
+1 value
+}
+
+comput declarations
+let start = 10 // starting offset
+var bo= 1 && 2 == 3
+false && 2 == 2
+1 == 2 && 2 == 2
+1 == 2 && 2 == 3
+1 == 1 || true
+1 == 1 || 2 == 2
+1 == 1 || false
+1 == 1 || 2 == 3
+false || 2 == 2
+1 == 2 || 2 == 2
+1 == 2 || 2==3
+1 < 2
+1 < -1
+a1 = 1
+a2 = -1
+a1 < a2nus = 5
+bonus += 3 // n
+a1 + 1 < a2 + 2
+1 > 2
+1 > -1
+a1 > a2
+a1 + 1 > a2 + 2
+1 <= 2
+1 <= 1
+1 <= -1
+a1 <= a2
+a1 + 1 <= a2 + 2
+1 >= 2
+1 >= 1
+1 >= -1
+a1 >= a2
+a1 + 1 >= a2 + 2
+b1 = true
+bÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿow ÿ8
+

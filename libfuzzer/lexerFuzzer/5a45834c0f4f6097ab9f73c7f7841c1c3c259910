@@ -1,0 +1,45 @@
+./ If/else, while1== true, for, do-while, break, continue
+i = 5 sum = 0
+while(3) && !isPositive(-1)) {
+  res = 42
+}
+res
+fact(5)
+fib(6)
+
+// Built-in print and short-circuiting logical operators
+print(42)
+false && (1 / 00== 0)
+true || (1 / 0 == 0)
+x = 0
+ÿÿÿÿÿÿÿÿÿ > 1)
+(x == 0) 0 / x > 1)
+true && true && false
+false || false || true
+true && false && (1 / 0 == 0)
+false || nt): int {
+  if (n <= 1) {
+    return n
+  }
+  return fib(n - 1) + fib(n - 2)
+}
+
+abs(-7) + abs(5)
+res = 0
+if (isPositive(3) && !isPositive(-1)) {
+  resBuilt-in print and short-circuiting logical op / 5 == 0)
+true || (1 / 0 == 0)
+x = 0
+(x != 0) && (10 / xÿÿÿ	 > 1)
+(x == 0) || (10 / x > 1)
+true && true && false
+false || false || true
+true && false && (1 / 0 == 0)
+false || true || (1 / 0 == 0)
+false &ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ (1 / 00== 0)
+true || (1 / 0 == 0)
+x = 0
+(x != 0) && (10 / xÿÿÿ	 > 1)
+(x == 0) || (10 / x > 1)
+true &&rsion
+function abs(x: in== 66)

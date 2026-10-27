@@ -1,0 +1,9 @@
+func @ad$(%a, %b) {
+entry:
+  %0 = add %a,b  %%0
+}
+fu$c @mat$ry:
+  %0 = ca
+entry:
+  %0 = = !ca%01
+}

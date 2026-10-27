@@ -1,0 +1,11 @@
+func in()
+entry~c %4
+  br end0
+else0:
+  %5 = const 5
+  %value = store %2
+  br end0
+end0:
+  %6 = const 3
+  %vaòuù = store_add %7
+  ret %value

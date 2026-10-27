@@ -1,0 +1,20 @@
+func __main()
+entry:
+  %0 = nso tc0
+  %value = sto
+  br_cond %11 for_body2 for_end2
+for_body2:
+  %12 = cvalue %6%9 = const 0
+  %index = store %9
+  br for_cš‘d2
+for_cond2:
+  %10 = const 3
+  %11 = lt %index %10
+  br_cond %11 for_body2 for_end2
+for_body2:
+  %12 = cvalue 6%
+  br_cond %7 while_body1 while_end1
+while_body1:
+  %8 = const 1
+- %value = storeor_end2:
+  ret %value

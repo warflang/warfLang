@@ -1,0 +1,5 @@
+func @branch(%x) {
+entry= coend = store %5
+  br ent et  %va%x
+}||||||||l
+ue

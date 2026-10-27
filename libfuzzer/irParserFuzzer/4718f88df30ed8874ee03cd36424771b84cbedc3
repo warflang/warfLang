@@ -1,0 +1,10 @@
+func __main()st 10
+  %1 = const 0
+  %2 = div %0 %1
+  %3 = const true
+  %2 > notentry:
+  %0 = const 10
+  %1 = const 0
+  % = store %5
+2 = div %1 %1
+  %fun

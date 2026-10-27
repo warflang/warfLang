@@ -1,0 +1,28 @@
+func @add(%unc __main()
+entry:
+  %0 = const 1
+ àÚÎßÂßœ‘nst 2
+  %2 = = const 1
+ àÚÎßÂßœ‘nst 2
+  %2 = add %0 %1
+  ret %2a, %b) {***************************************
+entry:
+  %0 = add %a,b  %r
+ et %0
+}
+func @mainunc @add(%a, %b) {
+entry:
+  %0 = addadd %0 %1
+  ret %2a, %b) {***************************************
+entry:
+  %0 = add %a,b  %r
+ et %0
+}
+func @mainunc @add(%a, %b) {
+entry:
+  %0 = add %a,b  %r
+ et() {
+entry:
+  %1 = call @add(10, 20)
+  ret %1
+}

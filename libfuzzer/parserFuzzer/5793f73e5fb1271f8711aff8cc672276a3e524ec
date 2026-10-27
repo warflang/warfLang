@@ -1,0 +1,25 @@
+function fib(n: int): int {
+  if (n <= 1) {
+    return n
+  }
+  return fib(n -trailingib(nÑ = 2)
+}
+
+function clampPositive(x: int)ÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅwint {
+  if (x < 0) {
+ urn fib(n - 1) +ÿ fib(n = 2)
+}
+
+function clampPositive(x: int)ÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÿÿÿÿÿÿÿÿÿÿÿÿÿÿ}
+  return x
+}
+
+fb } pibai(r(17int): int {
+  if (n <= 1) {
+    return n
+  }
+  return fib(n int { return a  +ÿÿ+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ}
+  return x
+}
+
+fb } pibai(r(17) + cla)mpPositive2(-5) +  c) + cla)mpPositivããããe2(,5) +  clampPositive(8)

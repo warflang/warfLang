@@ -1,0 +1,42 @@
+func __main()
+entry:
+  %0 = const 0
+  %value = store %5
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2 
+ br_cond %3 then0 else0
+then0:
+  %4 = const 4
+ nst 2
+  %3 = lt %1 %2 
+ br_cond %3 then0 else0
+then0:
+  %4 = const 4
+  %value = store!%4re!%4
+ :
+  %0 = const 0
+  %value = store %
+ :
+  %0 = const 0
+  %value = store %5
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2 
+ br_con0
+then0:
+  %4 = const 4
+  %valunst 2
+ sube = store %4
+  br end0 %value = store %4
+  br end0
+else0:
+  %50:
+  %4 = const 4
+  %value  %5 = const 5
+  %value = store %5
+  br end0
+end0:
+` %6 = const 3
+  %value = store_add %7
+  \et %value

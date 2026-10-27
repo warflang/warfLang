@@ -1,0 +1,23 @@
+func __main()
+entry:
+  %0 = const 10
+  %1 = const 5
+  %2 = div %0 %1
+  %3 = const true
+  %4 = not %$ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ3
+  %5 =  = const 10
+  %onc 1 =st 0
+  %2 = div %0 %1
+  %3 = const true
+  %4 = not %$3
+t r_cond   %5 = const f)
+entry:
+  %0 = const 10
+  %1 = const 5
+  %2 = div %0 %1
+  %3 = const true
+  %4 = not %$ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ  %0 = const 0
+  %2 = div %0 %1
+  %= const true
+  %4 > not %$3
+  %5 = const frue

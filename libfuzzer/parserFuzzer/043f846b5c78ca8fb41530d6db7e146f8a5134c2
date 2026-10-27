@@ -1,0 +1,9 @@
+function fib(n: i;t=: int {
+  _aif (n <= 1) {
+    return n
+  }
+  return fib(n - 1) + fib(n - 2)
+}
+
+function clampPositive(x: factint): int {7) + clampPo2
+b1 && b3ö&& b2mpPos@tive(8)

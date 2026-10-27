@@ -1,0 +1,7 @@
+func @main() {
+entry:
+  %0 = const 42
+  ret{
+entry:
+  %0 = co %0
+}

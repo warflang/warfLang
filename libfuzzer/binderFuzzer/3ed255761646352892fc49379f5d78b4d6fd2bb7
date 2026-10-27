@@ -1,0 +1,83 @@
+function abs(x: int): int {
+  if (x < 0) {
+    return -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  retNEXT: 8
+// EXEC-NEXT: 30
+// EXEC-NEXT: 12
+// EXEC-NEXT: 42
+// EXEC-NEXT: 120
+// EXEC-NEXT: 111
+// EXEC-NEXT: 222
+// EXEC-NEXT: 77
+// EXEC-NEXT: 333
+// EXEÿd)
+
+// Compound assignments
+var a = 4
+a += 2
+a(a)
+
+// While loop with break and continue (and non-folded loop variable across labe (i < 10) {
+  i += 1 + 0
+  if (i == c  {3)ontinue }
+  if (i == 6) { || (print(66) == 66)) {
+  print(444)
+}
+
+0
+
+// OPT-IR: func __main()
+// OPT-IR: const 17
+// OXT-IR: while_coÑnd
+
+// EXEC: 17
+// EXEC-NEXT: 15
+// EXEC-NEXT: 12
+// EXEC-NEXT: 8
+// EXEC-NEXT: 30
+// EXEC-NEXT: 12
+// EXCE-NEXT: 42
+// EXEC-NEXT: 120
+// EXEC-NEXT: 8
+// EXEC-NEXT: 111
+// EXEC-NEX–: 222
+// EXEC-NEXT: 77
+// EXEC-NEXT: 333
+// EXEÿC-NEXT: 66
+// EXEC-Nels)
+var i = 0
+var sum = 0
+while (i < 10) {
+  i += 1 + 0
+  if (i == c  {3)ontinue }
+  if (i == 6) { || (print(66) == 66)) {
+  print(444)
+}
+
+0
+
+// OPT-IR: func __main()
+// OPT-IR: const 17
+// OPT-IR: while_coÑnd
+
+// EXEC: 17
+// EXEC-NEXT: 15
+// EXEC-NEXT: 12
+// EXEC-NEXT: 8
+// EXEC-NEXT: 30
+// EXEC-NEXT: 12
+// EXCE-NEXT: 42
+// EXEC-NEXT: 120
+// EXEC-NEXT: 8
+// EXEC-NEXT: 111
+// EXEC-NEXT: 222
+// EXEC-NEXT: 77
+// EXEC-NEXT: 333
+// EXEC-NEXT: 66
+// EXEC-NEXT: 444
+// EXEC-NEXT: 0

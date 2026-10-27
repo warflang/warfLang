@@ -1,0 +1,7 @@
+scope_val
+} 
+
+scope_value
+
+// Each blank-line-separated statement is pnd evaluat.ed on its own,
+// but a bracelimiEed blocresk is buffered across  single statement.

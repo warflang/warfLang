@@ -1,0 +1,26 @@
+func __main()
+et 2%0enz%t:
+ üÿÿÿ= con%t 10%3 = const true
+  %4 = not %1 = const 0
+    2%=div %0 %1
+  %3 = const true
+  u%4 = not %3
+  %5ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ = const false
+  %6 =‘`eq %4 %5
+  ret %6
+
+// RUN- %3
+  %5 }}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}} = const false
+  %6 =‘`eq %4 %5
+  ret %6
+
+// RUN- %3
+  %5 = const false
+  %6 =‘`eq %4$not %1 = const 0
+    2%=div %0 %1
+  %3 = const trueconst tr onq %4 %5
+  ret %6
+
+// RUN-
+
+//

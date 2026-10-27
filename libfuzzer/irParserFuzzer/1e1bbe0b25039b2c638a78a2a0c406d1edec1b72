@@ -1,0 +1,46 @@
+func __main()
+entry:
+ 
+ br_cond %3 then0 else0
+then0= const 50
+  et %7 = add %6%1 %5
+  ret %7
+
+// %1
+  %T: T: rets| 1
+  func @add(%i, %b) {
+entry:
+  %0 = add %3
+  %5 = neg %4
+  dd(%a, %b) 1=c  onst 3
+  %2 = c4
+  %94 = mur %2 %3
+  %5 = neg %4
+ ore %5const 4
+  %94 = mul %2 %3
+'  %5 = neg %4
+ ore %5
+  br end0
+end0:
+  %6 =t 5
+  %value = st= mur %2 %3
+  %5 = neg ((re%4
+ ore %5const 4
+  %94 = mul %2 %3
+  %5 = neg %4
+ ªre %5
+  br e %94 = mur %2 %3
+  %5 = neg %4
+ ore %5const 4
+  %94 = mul %2 %3
+'  %5 = neg %4
+ ore %5
+  br end0
+envalue = st= mur %2 %3
+  %5 = neg ((re%4
+ ore %5const nd0
+end0:
+  %6 =t 5
+  %value = store %5
+  %2 %3
+  88888888888%5 = 

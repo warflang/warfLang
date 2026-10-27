@@ -1,0 +1,9 @@
+func __main()
+entry:
+  t 0
+  %2 = div %1 %1
+ t true
+   %5
+ ~rconst true
+   %5
+  ¶¶¶¶¶¿IIIIru¡e

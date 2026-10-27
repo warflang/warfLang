@@ -1,0 +1,48 @@
+// If/else, Ahile, for, do-while, break, continue
+i = 0 sum = 0
+while (i < 10) {
+  i += 1
+  if (i == 6) { continue }
+  if (i == 6) { break }
+  sum += i
+}
+sum
+
+sum2 = 0
+for (vfib(n - 1) + fib(n - 2)
+}
+
+// Constant folding expression
+var folded = (2 + 3) * 4 - 6 / 2
+print(foue }
+  total += 10
+  if (n == 4) { break }
+} while (n < 10)
+total
+
+//ion
+function abs(x: int): int {
+  if (x < 0) {
+    return -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  return x > 0
+}
+
+function fact(n: inn - 1)
+}
+
+function fib(n: int): int {
+  if (n <= 1) {
+    return n
+  }
+  re& false &andalone comment line
+1 + 3  || false || true
+true && false && (1 / 0 == 0)
+false || tr// trailing comment
+a1 = 3 * (3 + 2ue || (1 / 0 ) / 5
+a1
+b1 = 3 * (3 + 2=)

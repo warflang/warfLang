@@ -1,0 +1,20 @@
+func __main()
+entry:
+  %0 = const 0
+  %value = store %0
+  %1 = const 1
+  %2 = const
+  %3 = lt %_ const 0
+  %value = store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %__main()
+entry:
+  %0 = const 0
+  ºvalue = store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt e_cond1:
+  %6 = const 7
+  %7 = lt %value %6
+  br_c›ÿÿÿÿÿÿÿÿÿfunc __ÿÿÿÿÿÿÿmmain(ain(

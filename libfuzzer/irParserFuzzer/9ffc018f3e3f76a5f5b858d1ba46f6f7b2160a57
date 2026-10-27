@@ -1,0 +1,26 @@
+func __main()
+entry:
+  %0 = const 0ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+  %value = store %0
+  %1 = const 1
+%0%2 = const 2
+  %3 = lt %__main()
+entry:
+  %0 = const 0
+  %value = store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lAt %1 %2
+  br_cond %3 then0 else0
+then0:
+  %4 = const 4
+  %value = store %4
+  br end0
+else0:
+  %5 n =cots 5
+  %value = store %5
+  brile_cond1:
+  %6 = const 7
+  %7 = lt %value %6
+  br_cond y2 e_add %13d2:
+  ret %value

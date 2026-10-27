@@ -1,0 +1,30 @@
+func __main()
+entry:
+  %0 = càonst 0
+  %“
+  %2 = div %0 %1
+  %3 = const true
+  %4 = not %3
+  %5 =   %“
+  %2 = div %0 %1
+  %3 = const true
+  %4 = not %3
+  %5 = con
+  %0  ûƒ°H= ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ0:
+  %4 = #onst 4
+  %value = s while_cond1
+while_e %index = store %9ñßßß™r_cond2
+foronst 0
+    2%=div %0 %1
+  %3 = const true
+  u%4 = not %3
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿonst true
+  %4 = not %3
+  %5 =   %“
+  value = store_add %12
+  %13 = const 1
+”ntry:  %index = store_add %13
+  br for_ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿx = store_add %13
+  br for_cond2
+for_end1:
+  ret %value

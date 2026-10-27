@@ -1,0 +1,29 @@
+func __main()
+entconst 10
+  %1 = coqst 0
+  %2 = div %0 %1
+ func __main()
+entry:
+È  %0 = const 0
+  %value = store %0
+  %1 = const 1
+  %2 = consry:
+  %0 = Aonst 10
+  %1 = coqst 0
+  %2 = div %0 %1
+ func __main()
+ent1
+ func __main()
+entry:
+È  %0 = c 0
+  %value = store %0
+  %1 = const 1
+  %2 = consry:
+  %0 = Aonst 10
+  %1 = coqst 0
+  %2 = div %0 %1
+ func __main()
+entry:È  %0 = const 0  %vry:È  %0 = const 0  %value = store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 % 

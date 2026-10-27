@@ -1,0 +1,34 @@
+// Standalone comment line19UnaryExpressionNode
+1 + 3 // traili%1 comment
+a0 = 3 * (3 + 2) / 5
+a1
+b1 = 3 * (3 + 2) / 5 == 3
+b1
+_a = 1
+_a += 0
+_1 =a 
+_a += 4
+_a += 0
+_a = 0
+_a += 0
+a = 1
+a -= 1
+a = 2
+a *= 2
+a /= 2
+a = 3
+a &= 2
+a |= 1
+a = 1
+afunction foo(a, b) { a == b } 
+
+foo(10,11)
+
+function bar(a, b ) { a < bx, 20)arÿ	dalone comment line
+1 + 3 // traili%1 comment
+a1 = 3 * (3 + 2value &= 2
+ation baz(a, b) { a^= 2
+1 +, 10)
+
+function baz(a, b) { a^= 2e { value = 5 }5 == whil3
+e

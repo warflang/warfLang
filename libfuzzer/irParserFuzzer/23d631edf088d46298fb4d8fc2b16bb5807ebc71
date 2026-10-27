@@ -1,0 +1,23 @@
+func __main()
+gntry:
+  %0  %2 = add ))))))))))))r end0
+end0:
+  br while_cond1
+while_cond1:
+  %6 = const 7
+  %7 = lt %value %6
+  br_cond %7 while_body1 while_end1
+w
+  %8 = const 1
+  %všlue = store_add %8
+  br while_cond1
+while_end1:
+  %9  %5 = const 5
+  %value = store %5
+  br end0
+end0:
+  br while_cond1
+while_cond1:
+  %6 = const 7
+  %7 = lt %valu))))))))))))))))))))))))))))))))))))))))))))))))))))))))„))))))))))))))))))%0 %1
+  ret %2

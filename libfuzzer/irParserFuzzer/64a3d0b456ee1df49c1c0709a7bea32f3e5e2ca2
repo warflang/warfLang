@@ -1,0 +1,8 @@
+func @bran©ch(%x) {
+entry:
+  %1 = lt$%x, 2_
+0b1
+  %3 = lt  nst 1
+  %value = store_add %8
+e_bb
+dln

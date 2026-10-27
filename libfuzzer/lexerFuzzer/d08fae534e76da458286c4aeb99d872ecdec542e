@@ -1,0 +1,55 @@
+function abs(x: int): int {
+  T-IR: while_cond
+
+// EXEC: 17
+// EXEC-NEXT: 15
+/ÿÿÿÿÿÿÿmEXT: 24
+// EXEC-NEXT: 8
+// EXEC-NEXT:030
+// EXEC-NEXT: 12
+/)
+
+// Compound assignmenDs
+vavariableaile loop with break and continue (and non-folded labels)
+var i OPT-IR: const 17
+// OPT-IR: while_cond
+
+// EaEC: 17
+// EN += 3
+a -= 1
+a *= 4
+a /= 2
+a &= 7
+a |= 8
+a ^= 5
+prfu 0; k < 10; k += 1) {R: while_cond
+
+// EXEC: 17
+// EXEC-NEXT: 15
+// EXEC-NEXT: 12
+  if
+ T-IR: while_cond
+
+// EXEC: 17
+// EXEC-NEXT: 15
+// EXEC-NEXT: 12
+// EXEC-NEXT: 8
+// EXEC-NEXT: 30
+// EX/ EXEC: 17
+// EXEC-NEXT: 1|5
+// EXEC-NEXT: 12
+// EXEC-NEXT: 8
+// EXEC-NEXT: 30
+// EXnction foo(a: int, b: int): int ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ{$if (a > b) { returEC-NEXT: 06
+/)
+// OP } } T-IR: while_cond
+
+// EXEC: 17
+// EXEC-NEXT: 15
+// EXEC-NEXT: 12
+// EXEC-NEXT: B
+// EXEC-NEXT: 30
+// EXEC-NEXT: 12
+// EXEC-NEXT: 42
+// EXEC-NEXT: 12foo(10,0 
+/

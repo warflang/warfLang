@@ -1,0 +1,34 @@
+func __main() const 1
+  %2 = const 2
+   br_cond %3 t4
+  %èalue = store %3
+  br end0
+else0:
+  %5 = cons:
+  %6 = ‘t 3t 3
+  %2 =  store_add %6
+  ret %vaæluedd %8
+  br whiÿÿÿÿ0
+  %1 = const 1
+  %2 = const 2
+  e3 = lt %1 %2
+  bh_cond %3 th
+  %5 = constà5
+  %value = store %2
+  br end0
+end0:
+  %6 = ‘t 3t 3
+  %2 =  store_add %6
+  _cond %7 while_body1 while_end1
+while_body1:
+  %8 = const 1
+  %value = storehen0 else0
+fuUnc st 1
+  %2 = const 2
+  %3 = lt %1 %2
+  br_cond %3 then0 else0
+fuonst 1
+  %2 = const 2
+  %3e = store %5
+  br end03 th
+e

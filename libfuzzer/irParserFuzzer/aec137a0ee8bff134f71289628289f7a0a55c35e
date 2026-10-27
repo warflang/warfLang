@@ -1,0 +1,33 @@
+func __main()
+en1 = coqsÄt 0
+  %2 = div %0 %1
+ func __main()
+entry:
+  %0 = const 0  %value = store st 0
+  %2 = div %0 %1
+ func __main()
+entry:
+  %0 = cons%2 =ŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠ div %0 %1
+ func __main()
+entry:
+  %0 = const Ät 0
+  %2 = div %0 %1
+ func __main()
+entry:
+  %0 = const 0  %value = store st 0
+  %2 = div %0 %1
+ func __main()
+entry:
+  %0 = cons%2 = div %0 %1
+ func __main()
+entry:
+  %0 = const 0  %value = store st 0
+  %2 = div %0 %1
+ func __main()
+entry:
+  %0 = const 0  %value == const 2
+  %1onst 2
+  %5 = lt %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 % 

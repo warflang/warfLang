@@ -1,0 +1,8 @@
+func @branch(%x)nd0
+else = const 2
+  0:
+  %4 ul d %70st 2
+  0:
+  %4 = co const 2
+  0:
+  %4 ulššš%5ÿ

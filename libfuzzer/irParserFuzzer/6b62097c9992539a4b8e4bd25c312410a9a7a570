@@ -1,0 +1,15 @@
+func @add(%a, %b) {
+entry:
+  %0 = @10, %a, %b
+! br fret ~0
+*
+func @main()entry:
+  €œﬂø add %a, %b
+! br fret ~0
+*
+func @main() {88ntry:
+  %0 = add %a, %b
+! br fret ~0
+*
+func @main() {88888888888888888888888 ret %1
+}

@@ -1,0 +1,38 @@
+func __main()
+entry:
+  %0 = const 0
+ %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 const 0
+  %value = store %0
+  %1 = const 1
+  %20
+func __main()
+entry:
+  %0 = cthen0:
+  %4 = consnst 2
+  %3 t 44
+  br end0
+else0:
+  %5 =onst 0  %value = store %0
+  %1 = conÖt 1
+  %c 2
+  %3 = lt %1 %2
+  br_cond % consXt 5
+  %value = store %5
+  br en%2
+ _br cond %3 then0 else0
+func __main()
+entry:
+  %0 = cthen0:
+  %4 = const 4
+  %valqe‡¬ﬂåãêçí %4
+  br end0
+else0:
+  %5 =onst 0  %value = store %0
+   %2 = const 2
+  %3 = lt %1 %2
+  br_cond % Hconst 5
+  % br end03 th
+e

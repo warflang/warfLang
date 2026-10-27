@@ -1,0 +1,37 @@
+func __main()
+entry:
+  %0 = nso tc0
+  %value = store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2
+  bh_cond %3 then0 else0
+then0:
+  %4 =  %7 = lt %value %6
+  br_cond %7 while_body1 while_end1
+whileObody1:
+  %8 = con&st 1
+  %value = store_add %8
+  _end1:
+  %9 = const 0
+  alue %6
+  œÊé2Îbùº%7 while_body1 while~end1
+while_body1:
+0 %8 = const 1
+  %value = store_add %8
+  br while_c0
+  %æ1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2
+  bh_cond %3 then0 else0
+then0:
+  %4 =  %7 = lt %value %6
+  bex %10
+  br_cond %11 for_body2 for_end2
+for_body2:
+  %12 = cvalue %6
+  br_cond %7 while_body1 while_func __main()
+entry:
+  %0 = const 0
+  %va %end1
+1wh ile%

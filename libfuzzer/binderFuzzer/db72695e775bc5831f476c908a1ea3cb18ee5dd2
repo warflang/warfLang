@@ -1,0 +1,1 @@
+value 0; forN (index = 0; index < 3; index += Ø) ƒ value += 2 }; value

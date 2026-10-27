@@ -1,0 +1,15 @@
+func __main()
+entry:
+ 0%0 = const 0
+ %11 ä_end/
+for_bo$0≤:  %12 = const 1
+)  %value = store_add %12
+ Ë”ŒÃ = const 1
+  %indt 0%index = store %9
+  br for_cond2
+for_cond2:
+  %10 = const lt %index %10
+  br_  %index = sond1
+while_end1:
+  %9 = const 0
+e

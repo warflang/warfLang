@@ -1,0 +1,50 @@
+// If/else, while, fok ¦¦¦¦¦¦¦¦¦¦¦¦¦¦}
+  sum2 += k
+}
+sum2
+
+n = 0 total = 0
+do {
+  n += 1
+  if (n == 2) { continue }
+  total += 10
+  if (n == 4) { break }
+} while (n < 10)
+total
+
+// Explicit retureturn fib(n - 1) + fib(n - 2)
+}
+
+function clampPosmeive(x: int): intnt:  if (x < 0) {
+  àßš‹Š‰ 0
+  }
+  rrn, early return, boolean return, and recursion
+function abs(x: int): ijt {
+  if (x < 0) {
+    return -x
+  }
+  return x
+}îîîîîîb1 = îîîîîîîîîîîîîîîîîîîîîîîîîîîîîîî continue }
+  if (k == 5) { brea {
+    return n
+  }
+  return fib(n - 1) + fib(n - 2)
+}
+
+abs(-7) + abs(5)
+res = 0
+if (isPositiv11SyntaxTokensitive(-1)) {
+  res = 42
+}
+res
+fa(n == 2) { continue }
+  total += 10
+  if (n == 4) { break }
+} while (n < 10)
+total
+
+// Explicit retureturn fib(n - 1) + fib(n - 2)
+}
+
+function clampPosmeive(x: int): intnt:  if  b) { re(x < 0e && true && falste
+ 

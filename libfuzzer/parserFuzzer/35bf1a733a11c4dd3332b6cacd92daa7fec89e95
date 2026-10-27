@@ -1,0 +1,4 @@
+function foo(a: int, b: int): int { ifunction fib(n: int)tn {i:
+ A if (n <= 1) {
+    return n
+ -------------on foo(------------------------------------->---- fib----------------------------------------------------------------------vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvveeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeerurn a } else {+ÿ fib 

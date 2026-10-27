@@ -1,0 +1,48 @@
+n n * fact(n - 1)
+}
+
+function fib(n: int): int {
+  if (n <= 1) {
+    return n
+  }
+  return fib(n - tion fib(n: int): int {
+  if (n <= 1) {
+    return n
+  }
+  return fib(n - 1) + fib(n - 2)
+}
+
+// C// If/else, while, for, do-while, break, continue
+i = 0 sum = 0
+while (i1) + fib(n - 2)
+}
+
+// C// If/else, while, for, do-while, break, continue
+i = 0 sum = 0
+while (i < 10)  += 1
+  if (i == 4) { continu += i
+}rcuiti/ 0 == 0)
+falsonstant folding expression
+var folded = (2 + 3) -  6* 4 / 2
+print(folded)
+
+// Compound assignments
+var a = 4
+a += 2
+a -= 1
+a *= 4
+a /= 2
+a &= 7
+a |= 8
+a ^= 5 += 1 + 0
+  if (i == 3) { continue }
+  if (i == 6)
+a *= 4
+a /= 2
+a &= 7
+a |= 8
+a ^= 5
+print(a)
+
+// While loop with break and contium = 0
+for (var k = 0; k < 10(6;

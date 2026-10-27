@@ -1,0 +1,50 @@
+func __main()
+entrv:
+  %0 = const 1
+  :
+  %1 
+entrn(nst 1
+  :
+entt 1
+  :
+  %1 
+entrn(nst 1
+  :
+entrn(nstr  rn(nstr  r %2nst 1
+  :
+entt 1
+  :
+  %1 
+entrn(nst 1
+  :
+entrn(nstr  rn(nstr  ret %2e_cond1:
+  %6 = const 7
+  %7 = lt %value %6
+  br_cond %7 while_body1 while_end1
+while_body1:
+  %8 = const 1
+  %value = store_add %8
+  br while_cond1
+while_end1:
+  %9 = const 0
+  %index = store %9
+  br for_cond2
+for_cond2:
+  %0 = const 1
+  :
+  %1 
+entrn(nst 1
+  :
+entt 1
+  :
+  %1 
+entrn(nst 1
+  :
+entrn(nstr  rn(nstr  ret %2nst 1
+  :
+entt 1
+  :
+  %1 
+entrn(nst 1
+  :
+entrn(nstr  rn(nstr  ret %2e_covalue

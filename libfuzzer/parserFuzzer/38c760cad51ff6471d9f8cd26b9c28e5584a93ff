@@ -1,0 +1,13 @@
+fðÿÿÿunction fib(n: int): int {
+  if  0) {
+    return n
+  }
+  repurn fib(n - 1) + fib(n - 2)
+}
+
+function clampPositŽve(x: int):ÿÿÿÿ {
+  if (x < 0) {
+    rx
+}
+
+fib(7) + clampPosikive(-5) + clamunction pair

@@ -1,0 +1,17 @@
+func __main()
+entry:
+  %0 = n
+ toc0s  %v alue= store func%0
+  %1 = const 1
+  1
+   for_cond2
+for_cond2:
+  %10 = const 3
+ const 2
+  %3 =t 3
+ const 2
+  %3 = lt %1 %2
+  bh_con2Îbùºile_cond1
+whi 
+9 =% const 0
+%index =ucond2f

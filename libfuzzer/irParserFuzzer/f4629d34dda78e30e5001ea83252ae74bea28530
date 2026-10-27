@@ -1,0 +1,38 @@
+func __main()
+entry:
+ 
+ br_ then0 else0
+then0:
+  %4 = const 4
+  %value = store %4
+  br end0
+else0:
+ %5 = cons store %4
+  br end0
+else0:
+ %5 = const 5
+  %value = store %5
+  br end0
+end0:
+  %6 = const  = const 4
+  %94 = mul %2 %3
+  %5 = neg %4
+ ore %5
+  br end0
+end0:
+  %6 =t 5
+  %value = store %5
+  br end0
+end0:
+  %6 = const  = const 4
+  %94trueul %2 %3
+  %5 = neg %4
+ ore %5
+  br engonst 4
+  %94 = mul %2 %3
+ neg %4
+ onst 50
+  %7 = add %6 %5
+  ret 3
+  %value = store_add %7
+  ret %value

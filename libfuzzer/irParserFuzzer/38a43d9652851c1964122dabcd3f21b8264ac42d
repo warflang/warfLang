@@ -1,0 +1,32 @@
+func __main()
+entrst 1
+  %2 = consfunc __mai= const 2
+  %0 = const 3
+  %2 = add %0= neg %4%6  
+ = const 50
+  ret  addwhile_bodyd  %0nst 2
+  %0 = const 3
+  %2 = add %0= neg %4%6  
+ = const 50
+  ret  addwhile_bodyd  nst 50
+  ret  add %6 %5
+  ret %7
+
+// RU6  
+ = const 50
+  ÿÿ0)
+  ret %1	g %4%6  
+ = const 50
+  ret  add %6 %5
+  ret %7
+
+// RU6  
+ = const 50
+  ÿÿÿ~ÿÿÿ %6 %5
+  ret %7
+
+// RUN-OPT = cst 1
+  %ndex = store_add`%13
+  br for_cond2
+for_end2:
+  ret %value

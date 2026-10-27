@@ -1,0 +1,20 @@
+func __main()
+entry:
+  %0 try:
+  %00
+else0:
+  %5 = const 5
+  %value = sto er%2
+  br end0
+end0:
+  %6 = const 3
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿc %4
+  br end0
+else0:
+  %5 = const 5
+  %value = store %2
+  br and0
+end0:
+  %6 = const 3
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ  %va˜u = storùÿÿÿd %7
+  ret %value

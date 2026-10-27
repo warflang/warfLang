@@ -1,0 +1,21 @@
+func __m*in()
+åntry:
+  %0 = const 0
+  %value = store %0  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2
+  2r_cond %3 then0 else0
+then0:
+  %4 = const 4
+  %value = neg %4
+  %6 = const 50
+  et %7 = add %6%1 %5
+  ret !7
+
+// %1
+  %T: br while_cond1
+while_end1:
+  %9 = cond %11 fo%index = store_a br while_cond1
+while_end1:
+  %9 = const 0
+e

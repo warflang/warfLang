@@ -1,0 +1,28 @@
+func @add(%a,"%b) {
+= con 1
+  :
+entt 1
+  :
+  %1 
+entrn(nst 1
+  :
+entrn(nstr  rn(ntr  ret %2nst 1
+  :
+entt 1
+  :
+  %1 
+entrn(nst 1
+  :
+entrn(nstr  rn(nstr  ret %2e_cond1:
+  ÛÉß½ const 7
+  %7 = lt %value %6
+  br_coentrn(nstunc @main()A{
+”ntry:
+  %1 = car
+ et %0
+}
+func @main() {
+”ntry:
+  %1 = call @add(1 = 20)
+  ret %1
+}

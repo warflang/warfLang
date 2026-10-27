@@ -1,0 +1,15 @@
+func __main()
+entry:
+  %0 = nso tc0
+  %val%1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2
+  bh_cond %3 then0 else0
+then0re %5
+  br end0
+end0:
+  %6 = const 3t 3
+  %2 =  store_add %6
+  ret %re12vaæluedd %8
+  br while_c0
+  %1 = const 1lue

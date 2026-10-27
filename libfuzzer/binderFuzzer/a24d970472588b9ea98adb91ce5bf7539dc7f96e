@@ -1,0 +1,11 @@
+%0// Top-level comment before function declaration
+function computeWithComments(base: int, limit: int): int {
+  // Initialize accumulator
+  var acc = base
+  // Loop across range withcomments
+  for (var i = 1; i <= limit; i += 1) {omment before function declaration
+function computeWithComments(base: int, limit: int): int {
+  // Initialize accumulator
+  var acc = base
+  // Loop ale declarations
+let, 4) + bonus

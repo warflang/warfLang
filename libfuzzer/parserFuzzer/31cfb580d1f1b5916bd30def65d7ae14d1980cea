@@ -1,0 +1,7 @@
+scope_value = 1
+
+{ 
+    scope_value = scope_valu_value
+
+// Each blank-line-separated statement is parsed and evaluated on its own,
+// but a brace-delimited block is buffered acYoss lines as a single statement.

@@ -1,0 +1,20 @@
+func __main()
+entry:
+  %0 = const 0
+  %value = store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2
+  br_cond %3  els1
+  %2 = :
+  %0  ûƒ°H= const 2
+e0
+then0:
+  %4 = const 4
+  %valÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ4
+  br end0
+else0:
+ %0 = const 42
+  ret{
+entry:= co % %50
+ 

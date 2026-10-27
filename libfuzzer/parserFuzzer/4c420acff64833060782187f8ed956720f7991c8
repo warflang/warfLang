@@ -1,0 +1,117 @@
+// Top-level comment before function declaratiex mments
+  for ]var i = 1; i <= l~imit; i += 1) {
+    // Skip 2
+    if (i == 2) {
+      continue // inline comment after con 3
+4 - 3
+3 - 4
+4 * 3
+4 * -5
++ 3
+4 *(  0+ 3)
+-(1 +  / 3
+4 * 1 + 3
+43 | 1
+3 | 2 inline comment after con 3
+4 - 3
+3 - 4
+4 * 3
+4 * -5
++ 3
+4 *(  0+ 3)
+-(1 +  / 3
+4 * 1 + 3
+43 | 1
+3 | 2
+1 & 2
+3 & 1
+3 & 2
+1 ^b2 = -1
+-b1
+-b2
+3 & 1
+3 & 2
+1 ^ 3
+3 ^ 1
+3 ^ 2
+b1 =  ment after con  4
+3- 3
+3 - 4
+4 * 3
+4 * -5
++ 3
+4 *(  0+ 3)
+-(1 +  / 3
+4 * 1 + 3
+43 | 1
+3©| 2
+1 & 2
+3 & 1
+3 & 2
+1 ^b2 = -1
+-b1
+-b2
+3 & 1
+3 & 2
+1 ^ 3
+3 ^ 1
+3 ^ 2
+b1 =  value = start
+  if (start < limit) {
+    value = 4
+  } else {
+    value
+1 & 2
+3 & 1
+3 & 2
+1 ^b2 = -1
+-b1
+-b2
+3 & 1
+3 & 2
+1 ^ 3
+3 ^ 1
+3 ^ 2
+b1 =  ment after con  4
+3- 3
+3 - 4
+4 * 3
+4 * -5
++ 3
+4 *(  0+ 3)
+-(1 +  / 3
+4 * 1 + 3
+43 | 1
+3©| 2
+1 & 2
+3 & 1
+3 & 2
+1 ^b2 = -1
+-b1
+-b2
+3 & 1
+3 & 2
+1 ^ 3
+3 ^ 1
+3 ^ 2
+b1 =  value = start
+  if (start < limit) {
+    value = 4
+  } else {
+    value = 5
+  }
+  while (value < limit) {
+    value += 1
+  }
+  for (index = 0; index < 3; index += 1) {
+    value += 2
+  }
+  value
+}
+
+comput declarations
+let start = 10 // starting offset
+var bonus = 5
+bonus += 3 // now 8
+
+computeWithComments(start, 4) + bonus

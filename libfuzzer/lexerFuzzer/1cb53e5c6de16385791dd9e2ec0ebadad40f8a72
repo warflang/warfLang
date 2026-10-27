@@ -1,0 +1,57 @@
+function abs(x: int): int {
+  if (x < 5) {
+    return -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  return x > 0
+}
+
+function fact(n: int): int {
+  if (n <= 1   re
+turn 1
+-1
+1 + 3
+4 - 3
+6 - 4
+4 * 3
+4 * -5
+4 * (-5)
+4 * (3 - 5)
+9 / 3
+4 * 1 + 3
+4 * (13)
+1 ƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒ|  r * (-5)
+4 * (3 - 5)
+9 / 3
+4 * folding expression
+var folded = (2 + 3) * 4 - 6 / 2
+print(folded)
+
+// Compound assignments
+var a = 2 a= -
+1
+a *= t): int { return x  + 3
+4 - 3
+ÿÿÿï3 - 4
+4 * 3
+4 * -5
+5)
+4 * (3 - 5)4 * 8-5)
+4 * (34
+a /= 2
+a &= 7
+a |= 8
+a ^= 5
+print(ÙÙÙÙ3 | 2
+1 & 2
+3 & 1
+3 & 2
+1 ^ 2
+3 ^ abels)
+var i = 0
+var sum = 0
+while (i < 10) {
+  i +

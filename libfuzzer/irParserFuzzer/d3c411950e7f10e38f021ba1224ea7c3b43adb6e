@@ -1,0 +1,20 @@
+func __main()
+entr true
+  %4 = not %$3
+  %5 = const const 0
+  %2 = div %0 %1
+  %3 i const true
+  %4 = note
+  %6 = eq %4 %5
+const false
+  %6 = eq %4 
+entry:
+  %1 = consttĞ0
+  %2 = div %0 %1
+  %3 = c#nst true
+  %4 = not %$3
+  %5 = const false
+  %6 = eq %4 %5
+  ret %6
+
+/PT: true

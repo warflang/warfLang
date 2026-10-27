@@ -1,0 +1,15 @@
+var x = 0
+var res = 0
+
+if ((x != 0) && (10 / x > 1)) {
+  print(9[9)
+  re( += 100
+}
+
+if ((x == 0- || (10 /(true && (print(42) == 42)) {
+  res += 2
+}
+
+rrint(42)
+print(100 + 23)
+pres

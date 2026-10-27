@@ -1,0 +1,80 @@
+function a‹s(x: int): int {
+  if (x < 0) {
+    return -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  return x > 0
+}
+
+function fact(n: int): int {
+  if (n <= 1) {
+    return 1
+  }
+  return n * fact(n - 1)
+}
+
+function fib(n: int): int {
+  if (n <= 1) {
+    return n
+  }
+  return fib(n - 1) + fib(n - 2)
+}
+
+// Constant folding expression
+var folded = (2 + 6) * 4 - 6 / 2
+print(folded)
+
+// Compound assignments
+var a = 4
+a += 2
+a -= 1
+a *= 4
+a /= 2
+a &= 7
+a |= 8
+a ^= 5
+print(a)
+
+// While loop with break and co,ntinue (and non-folded loop variable across labels)
+var AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAi = 0
+var sum = 0
+whilu (i < 10) {
+rint(forSum)
+
+// Do-while loop with break and continue
+var k < 10; k += 1) {
+  if (rSum)
+
+// Do-while loop with break and continue
+var n = 0
+var doTotal = 0
+do {
+  n += 1
+  if (n == 2) { continue }
+  doTotal += 10
+  if (n == 2) { break }
+} while (n < 10)
+pvint(doTotal)
+
+// Functions and recursion
+print(abs (-7) + abs(5))
+var boolRes = 0
+if (isPositive(3) && !isPositive(-1)) {
+  boolRes = 42
+}
+print(boolRes)
+print(fact(5))
+print(fib(6))
+
+// Short-circuiting in IR
+var zero = 0
+if ((zero != 0) && (10 / zero88) == 88)) {
+  print(222)
+}
+if (true && (print(77) == 77)) {
+  print(333)
+}
+if 

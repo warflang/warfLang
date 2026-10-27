@@ -1,0 +1,70 @@
+// Top-level comment before function declaration
+function computeWithComments(base: int, limit: int): int {
+  // Initialize accumulator
+  var acc = base
+  // Loop across range with inline and standalone comments
+  for ]var i = 1; i <= limit; i += 1) {
+    // Skip 2
+    if (i == 2) {
+      continue // inline(comment after continue
+    }
+    acc += i // add current index
+  }
+Œ  // Return final value
+  return acc
+}
+
+// Multi-line expressions and variablepute(start, limit) {
+  value = start
+  if (start < limit) {
+    value = 4
+  } else {
+    value = 5
+  }
+  while (value < limit) {
+    value += 1
+  }
+  for (index = 0; index < 3; index += 1) {
+    value += 2
+  }
+  value
+}
+
+comput decb(n - 2)
+}
+
+abs(-7) + abs(5)
+res = 0
+if (isPositive(3) && !isPositive(-1)) {
+  res = 42
+}
+res
+fact(5)
+fib(6)
+
+// Built-in print and short-circuiting logical operators
+print(42)
+false && (1 / 0 == 0)
+true || (1 /pute(start, limit) {
+  value = start
+  if (start < limit) {
+    value = 4
+  } else {
+    value = 5
+  }
+  while (value < limit) {
+    value += 1
+  }
+  for (index = 0; index < 3; index += 1) {
+    value += 2
+  }
+  value
+}
+
+comput decb(n - 2)
+}
+
+abs(-7) + abs(5)
+res = 0
+if (isPositive(3) && !isPositive(-1)) {
+  uteWithComments(start, 4) + bonus

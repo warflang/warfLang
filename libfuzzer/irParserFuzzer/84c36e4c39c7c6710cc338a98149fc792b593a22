@@ -1,0 +1,16 @@
+func __main()
+entry:
+  %0 = const 0ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+  %value = store %0
+  %1 = const 1
+%0%2 = const 2
+  %3 = lt %__main()
+entry:
+  %0 } const0
+  %1 = cst 1
+  %2 = const 2
+  3 br_cond %3 then0 else0
+then_add %13
+  br for_cond2
+for_end2:
+  ret %value

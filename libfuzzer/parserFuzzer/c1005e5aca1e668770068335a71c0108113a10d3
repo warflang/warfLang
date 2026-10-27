@@ -1,0 +1,127 @@
+// Standalone comment: int {int): bool {
+  return x > 0
+}
+
+function fact(n: int): int {
+  if (n <= 1) {
+    return 1
+  }
+  return n * fact(n - 1)
+}
+
+function fib(n: int): int {
+  if (n <= 1) {
+    return n
+  }
+  return fib(n -1) + fib(n - 2)
+}
+
+// Constantÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ folding expression
+var folded = (2 + 3) * 4 - 6 / 2
+print(folded)
+
+// Compound assmeignments
+var a = 4
+a += 2
+a -= 1
+a *= 4
+a /= 2
+a &= 7
+a |= 8
+a ^= 5
+print(a)
+
+// While loop with break and continue (an1 + 3 // trailing cd non-folded loop variable across labels)
+var i = 0
+var sum = 0
+while (i < 10) {
+  i += 1 + 0
+  if (i == 3) { continue }
+  if (i == 6) { break }
+  sum += i
+}
+print(sum)
+
+/
+  if (n <= 1) {
+    return n
+  }
+24IdentifierEn - 1) + fib(n - 2)
+}
+
+// Constant folding expression
+var folded = (2 + 3) * 4 - 6 / 2
+print(folded)
+
+// Compoun`d assignments
+var a = 4
+a += 2
+a -= 1
+a *= 4
+a /= 2
+a &= 7
+a |= 8
+a  line
+1 ne comment line
+1 + 3 // trailing comment
+a1 = 3 * ,3 + 2) / 5
+a1
+b1 = 3 * (3 + 2) / 5 == 3
+b1
+_a = 1
+_a += 1
+_a = 1
+_a += 4
+ += 0
+_a = 0
+_a += 0
+a = 1
+a -= 1
+a = 2
+a *= 2
+a /= 2
+a = a3 
+&= 2
+a |= 1
+a =trailing comment
+a1 = 3 * ,3 + 2) / 5
+a1
+b: = 3 * (3 + 2) / 5 == 3
+b1
+_a = 1
+ia += 1
+_a = 1
+_a+ 3 // trailing comment
+a1 = 3 * ,3 + 2) / 5
+a1
+b1 = 3 * (3 + 2) / 5 == 3
+b1
+_a = 1
+_aþÿÿû1
+_a = 1
+_a += 4
+_Ÿ += 0
+_a = 0
+_a += Ðõa = 1
+a -= 1
+a = 2
+a *= 2
+a /= 2
+a = a3 
+&= 2
+a |= 1
+a =trailing comment
+a1 = 3 * ,3 + 2) / 5
+a1
+b1 = 3 * (3 + 2) / 5 == 3
+b_a
+11 = 
+_a += 1
+_a = 1
+_a += 4
+_a += 0
+_a = 0
+_a += 0
+ 1
+a ^= 2
+1 + 3 //

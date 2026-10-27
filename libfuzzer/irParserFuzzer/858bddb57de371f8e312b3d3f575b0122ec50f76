@@ -1,0 +1,9 @@
+func __main()
+entry:
+  %0 = cont :
+  %4 = const 2
+ ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ3 = const 1
+  %index = store_add %13
+  br[ for_condÖ
+for_end2:
+  ret alue

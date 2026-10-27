@@ -1,0 +1,23 @@
+func __main()
+e:tyrn
+  %0 = const 2
+  %1 = const 3
+  %2 st 50
+  %7 =func __main()
+entr
+  %2 = const 2
+  %3 = lt %1 %2
+  br_co€addnd %3 then0 else0
+then0:
+func __main()
+en  %4 = const in()
+e %6 %5
+  ret %7nttr
+  %2 = const 2
+  %3 = lt %1 %2
+  br_conds%3 then0 else0
+then0:
+  %4 = const in()
+entry:
+  %0 = con%0
+= co 

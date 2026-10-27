@@ -1,0 +1,17 @@
+func __main()
+entry:
+  %4
+  br end0
+else0:
+  %5 = constalue = store %5
+  br end0
+end0:
+  br while_cond1
+while_cond1:
+  %6 = const 7
+  %7 = lt %value %6
+  br_cond ±%7 while_body1 while_enl  %value = store_add %8
+  2 = const 2
+  %value = store_add %12
+  %13 = consp 1
+  %index =t %value

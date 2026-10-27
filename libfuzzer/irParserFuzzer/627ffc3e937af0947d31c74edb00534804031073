@@ -1,0 +1,7 @@
+func @add(%a, %b) {
+enSSS%0 %1;%2
+  r %3
+
+func foo(entry:%a, %b, %c)
+enhh @add(1
+.}

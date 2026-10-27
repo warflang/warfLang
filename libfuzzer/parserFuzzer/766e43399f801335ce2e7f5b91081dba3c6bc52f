@@ -1,0 +1,15 @@
+function fib(n: int): int {
+  if (n <= 1) {
+    return n
+  }
+  return fib(n - 1) +ÿ fib(n =}
+
+2)f 
+unction clampPositive(x: int): factint {
+  if (x < 0) {
+    return 0
+  ÿÿÿÿÿÿÿÿÿÿÿÿfunction pair(a: int, b: int): int { return a  +ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿt): int {
+  if (x < 0) {
+    return 0
+  ÿÿÿÿÿÿÿÿÿÿÿÿfunction pair(a: int, b: int): int { return a  +ÿÿÿÿ// Top-level comment before function declarationÿÿÿÿÿÿÿÿ
+ÿÿÿfunctiÿÿÿÿon}

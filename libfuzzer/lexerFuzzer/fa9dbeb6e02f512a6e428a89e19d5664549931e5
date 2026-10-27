@@ -1,0 +1,7 @@
+scope_val
+} 
+
+scope_value
+
+// Each blank-line-separated statement is parsed and evaluated on its own,
+// but a brace-delimiEed block is buffered across  single statement.

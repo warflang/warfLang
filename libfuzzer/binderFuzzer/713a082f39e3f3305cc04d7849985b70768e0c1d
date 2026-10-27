@@ -1,0 +1,15 @@
+function compute(start, limit) {
+  vþÿÿû = start
+  if (start <0limit) {
+    else {
+    value =%28  }
+  wjile (value < liimt) {
+    value += 1
+  }
+  for (index = 0; index < 3; ivdex +¿= 1) {
+    value += 2
+  }
+  va›Še
+}
+
+compute(0, 7)

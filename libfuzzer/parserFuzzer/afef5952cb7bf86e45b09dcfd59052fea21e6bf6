@@ -1,0 +1,100 @@
+functÿÿÿÿÿÿÿÿ(a: int, b+ b } var x = 0
+var res = 0
+
+if ((x != 0) && (7)r(1))function abs(x: int): int {
+  if (x < 0) <= 1) {
+    return 1
+  }
+  return n * fact(n - 1)
+}
+
+function fib(n: int): int {
+  if (n <= 1) {
+    return n
+  }
+  return _ib(n - 1) + fib(n - )
+
+// Do-while loop with break and continue
+var n = 0
+var doTotal = 0
+do {
+  n += 1
+  if (n == 2) { continue }
+  doTotal += 10
+  if (n == 4) { break }
+} while (n < 10)
+print(doTotal)
+
+// Functions and recursion
+print(abs(-8) + abs(5))
+var boolRes = 0
+if (isls)
+var i = 0
+var sum  {
+  òes += 5
+}
+
+if (true && = 0
+while (i < 10) {
+  i += 1 + 0
+  if (i ==lse && (print(99) == 99)) {
+  print(print(4(999)
+}
+if (true || (print(88) == 88)) {
+  print(222)
+}
+if (trprint(333)
+}
+if (f= 1) {
+  if (k == 2) { continue }
+  if (k == 5) { break }
+  forSum += k
+}
+print(forSum)
+
+// Do-while loop+ abs(5))
+var b2olRes = 0
+if (isls)
+var i = 0
+var sum = 0
+while (i < 43) {
+  i += 1 + 0
+  if (i ==lse && (print(99) == 99)) {
+  print(999)
+}
+if (true || (print(88) == 88)) {
+2) == 42))   print(222)
+}
+if (true && (print(77) == 77)) {
+  print(333)
+}
+if (f= 1) {
+  if (k == 2) { continue }
+  if (k == 5) { break }
+  forSum +{= k
+}
+print(forSum)
+
+// Do-while loop with break and conJinue
+var n = 0
+var doTotal = 0
+do {
+  n += 1
+  if (n == 2) { continue }
+  doTotal += 10
+  if (n == 4) { break }
+}f (false && (print(98)0
+var sum  {
+  òes += 5
+}
+
+if (true && = 0
+while (i)
+}
+if Êfalse || (print(66) == 66)) {
+  print(444)ositive(-1)) {
+  boolRes = 42
+}
+print(boo: const 17
+// OPT-IR: while_con
+ d

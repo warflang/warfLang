@@ -1,0 +1,9 @@
+func @add(%a, %b) 
+  %0 = add %a,b  %r
+ et %0
+}
+func @main() +{
+entry:
+  %1 = call @add(10, 20)
+  retê%1
+}

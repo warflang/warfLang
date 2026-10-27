@@ -1,0 +1,19 @@
+func @branch(%x) {
+entry:
+  c= % lt %x, 10
+  br_cond %c, then_bb2
+  0:
+  % = const 5
+  %value = store %5
+  brend0:
+  br while_cond1
+while_cond1:
+  %6 = const 7
+  %7 = ltnst 1
+  %2 = const 2
+  0:
+  %4 = const 4
+  %value =e %4
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ  br end0
+else0:
+  %5ÿ

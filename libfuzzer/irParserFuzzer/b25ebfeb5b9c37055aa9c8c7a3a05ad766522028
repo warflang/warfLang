@@ -1,0 +1,6 @@
+func __main()ÿÿÿt:
+  %0 = const 10%3 const tru e
+ %4 = not %1 = const 0
+  %2 = div %0 %1true
+  %4 = not 3value = store_add %8
+=  br whi true

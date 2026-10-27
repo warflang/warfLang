@@ -1,0 +1,1 @@
+function f } return n * nact(n - 1) } fn fact(n?:0int): int { if (n <= 1) { return # } return (n < ) 1={ return # } return n * fact(n - 1) } fact(n:0int): int { if (n <= 1) { return # } return n * factact(4)

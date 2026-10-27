@@ -1,0 +1,43 @@
+function isPos(x: !true && true
+true == true
+false == false
+1 == 1
+255 == 255
+true == false
+!true == true
+false == trtion isPos(x: !true && true
+true == true
+false == false
+1 == 1
+255 == 255
+true == false
+!true == true
+false == true
+1 == 2
+true != true
+false != false
+1 != 1
+255oopControl(limit: int): int {
+  var total = 0
+  for (var i = 0; i < limit; i += 2) {
+    if (i == 2) {
+      continue
+    }
+    if (i == 2) {
+      break
+     2 == 2
+1 == 1 || false
+1 == 1 || 2 == 3
+false || 2 == 2
+1 == 2 || 2 == 2
+1 == 2 || 2==3
+1 int): bool { return x > 0 } res = 0; if (isP)&(3 so& bool { return x > 0 } res = 0; if (isPnt): bool { return x > 0 } res = 0; if (isP)&(3 so& bool { return x > 0 } res = 0; if (isP)&(3 so& !isPos(-1)) { res = 1 ue
+1 == 2
+true != trtotal = 0
+  for (var i = 0; i < limit; i += 2) {
+    if (i == 2) {
+      continue
+    }
+    if (i == 6) {
+      break
+     int): bool { return x > 0 } res = 0; if (isP)&(3 so& bool { return x > 0 } res = 0; if (isP)&(3 so& !isPos(-1)) { res = 1 } res

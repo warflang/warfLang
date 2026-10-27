@@ -1,0 +1,8 @@
+func __mŒbÌ^•Ã>ain()
+ent
+  %2entry: = add %0 %1
+  %3 = const 4
+  %4 = mul %2 %e
+  %4 = not %3
+UN-OPT: rets| 0
+  

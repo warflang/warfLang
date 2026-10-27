@@ -1,0 +1,14 @@
+func @add(%a, %b) {
+entry:
+  %0 = add %a,b  %%0
+}
+func @main() {
+”ntry:
+  %1 = car
+ et %0
+}
+func @main() {
+”ntry:
+  %1 = call @add(1 = 20)
+  ret %1
+}

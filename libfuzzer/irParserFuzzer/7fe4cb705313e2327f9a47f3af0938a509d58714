@@ -1,0 +1,22 @@
+func __main()
+åfunc _ÿÿÿÿÿÿÿÿ_main()
+entry:ntry:
+t 1
+  %1 = const 2
+  %2 = add
+  %0 = const 0
+  %value = store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2
+  br_cond %3 then0 else0
+then0:
+  %4 = connst 4
+  %value = store %4
+  :
+  %9 = const 0
+  %in = sto  %13 %= consp 1
+  %index = s2tore_a br while_cond1
+while_end1:
+  %9 = const 0
+e

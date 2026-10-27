@@ -1,0 +1,23 @@
+func __main()
+enAtry:
+  êr_cond2t 1
+  % = add %0(%1
+  readd$rt eindex = st%5 = cnd0
+end0:
+  br wh_ilceond1
+ %13 = const 1
+  % = add %0 %1
+  1
+êr_cond2t 1
+  % = add %0(ˇ%1
+  readd$rt eindex = st%5 = cnd0
+end0:
+  br wh_ilceond1
+ %13 = const 1
+  % = add %0 %1
+  readond1:
+  %6 = const 7
+  %t %value %3
+  br_cond %7 while_body1 while_end1
+while_bore_add %13
+ t b %

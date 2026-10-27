@@ -1,0 +1,10 @@
+func __main()
+entre %0
+  %1 = const 1
+  %@2 = const 2
+  %3 = lt %1 %2
+cond %3 thenbr  ŒšÏõÅ—šn0whiÿÿÿÿÿÿÿÿÿe = store %. 1
+  %indmÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿŽ %6ÿÿÿýÿÿÿÿÿÿÿÿÿÿÿÿx = store_add %13
+  br ¯or_conÝ2
+for_endÿÿÿ4:
+  ret %value

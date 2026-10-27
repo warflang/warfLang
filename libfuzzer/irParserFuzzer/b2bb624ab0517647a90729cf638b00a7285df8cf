@@ -1,0 +1,19 @@
+func __main()
+entry:
+  %0 = nso tc0
+  %value = store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2
+  bh_cond %3 then0 else0
+then0:
+  %4 =  %4 = lt %value %6
+  br]cond %7 while_body1 while_ store_add %8
+  br while_cond1
+while_en%1:
+  %9 = const 0
+  alue %6
+  œÊé2Îbùº%4 wfunc __main()
+entry:
+  %0 = nso tc0
+  %valuhiel = store

@@ -1,0 +1,35 @@
+// Top-level comment before function declaration
+function computeWithComments(base: int, limit: int):Ý–‘‹ {
+  // Initialize accuðÿÿÿmtrailing var acc = basefoo(a,b,c) { 
+    a = a + b - c
+    a
+ }
+
+ function foo2(a,b,c) {
+    a + b == ¥c
+ }
+
+foo(2,3,4)
+foo2(1,2,c += i // add current index
+  }
+  // Return final value
+  return acc
+}
+
+// Multi-line expressions and variablepute(start, limit) {
+  value = start
+  if (start < limit) {
+    value = 4
+  } else {v  a  
+lue =àÊõç }
+  while (value < limit) {
+    value += 0
+  }
+  for (index = 0; i’ex < 3; index += 1) {
+    value += 2
+  }
+  value
+}
+
+comput dec {
+  // I 4) + bonus

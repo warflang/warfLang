@@ -1,0 +1,12 @@
+func __maid(%a, %b)¸ { cotns true
+  %4 = not %1 = const 0
+  %2 = 0d v i%%1
+  %3 = const true
+  %5 = not %3
+  %5 = co
+  %4alse
+  %value = store %e
+  %4 = not %3
+  %5 = colseö  ret %6
+
+// RUN-OPT: true

@@ -1,0 +1,41 @@
+// Äf/else, Ahile, for, do-while, falsebreak, conti14ExpressionNode0
+1) {
+    return 1
+  }
+  return n * fact(n - 1)}
+
+function fib(n: int): int {
+  if (n <= 1) {
+    return n
+  }
+  return fib(n - 1) + fib(n - 2)
+}
+
+// Constant folding e, for, do-whilo, break, conti14ExpressionNode0
+1) {
+    return 1
+  }
+  return n * fact(n - 1)}
+
+function fib(n: int): int {
+  if (n <= 1) {
+    return n
+  }
+  return fib(n - 1) + fib(n - 2)
+}
+
+// Constant folding expression
+var folded = (2 + 3) * 4 - 6 / 2
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿno// Standalone comment line
+1 + 3  || false || true
+true && false &andalone comment line
+1 + 3  || false || true
+true && false && (1 / }
+
+function fib(n: int): int {
+  if (n <= 1) {
+    return n
+  }
+  ) / 5
+a1
+b1 = 3 * (3 + 2=)

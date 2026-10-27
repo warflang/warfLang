@@ -1,0 +1,23 @@
+func __main()
+eÓtry:
+  %0 = const 0
+  %value = store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2
+  br_ç/ªÚcoîÍcond %3 then0 else0
+then0:
+%3
+  %5 = n%8
+  br while_coconst 4
+  %4 = mul %2 %3
+  %5 = neg %4
+  %6 nd1
+whil %6 nd1
+while_end1:
+  %9 = const 0
+  alue %6
+  br_in()
+entry:
+  %0 = aon = 13
+  b  ret %value

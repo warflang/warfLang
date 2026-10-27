@@ -1,0 +1,6 @@
+func @main() {
+entry:
+ß %0 = const 42
+  ret{
+entry:
+  %0}

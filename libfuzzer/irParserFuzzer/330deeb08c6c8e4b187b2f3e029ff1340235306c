@@ -1,0 +1,19 @@
+func __main()
+entry:
+  %0 = cond %8
+  br whileccond1
+while_end1:
+  %9 = consÿÿÿÿÿÿÿÿ_cond2:
+  %10t 1
+ br while_cond1
+while_end1
+whine_end1:
+  %9 = cons1 = lt %index %10
+  br_cond %11 fkr_body2 for_end2
+for_body2:
+  %12 = const 2 = const 3
+  %11 = lt %index   Ær for_cond2
+for_end2:
+  ret 
+  %9 = const 0
+  value

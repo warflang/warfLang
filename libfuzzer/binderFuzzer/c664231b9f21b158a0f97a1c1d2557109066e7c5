@@ -1,0 +1,4 @@
+function foo(a, b, c) 1 + 2 + b - c
+}
+
+foo(2, 3, 4)

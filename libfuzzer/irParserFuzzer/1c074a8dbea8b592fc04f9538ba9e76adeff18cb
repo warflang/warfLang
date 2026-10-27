@@ -1,0 +1,20 @@
+func __main()
+entry:
+  %0 = ÿconûÿÿÿ
+  % %1 = cons %2 = add$%0 %  %1 foo( $%1 =1 = cons %2 = add$%0 %  %1 a, %b, %c)
+eo(entry:%a, b, %c)
+entry:
+  %0 = add %a %b
+ $%1 =   %0 = cons…ßÚÍõßŒŠb %0 %c
+  r %1  add %0d$%0 %  %1 foo(en-ry:%a, %b, %c)
+eo(entry:%a, b, %c)
+entry:
+  %0 = add %a %b
+ $%1 =   %0 = const %2
+ sub %0 %c
+  r %1 =d$%0  const 3
+  %2 = add %0d$%0 %  %0 foo(entry:%a, %b, %c)
+entry:
+  %0  %0
+  %3 = const 4func __mai
+  %4 = muln %2   %0(

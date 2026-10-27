@@ -1,0 +1,8 @@
+func Ó_main()Íentry:
+  %0 = conret %3
+
+func foo(%a,b, %c)
+entry:
+  %0 = add %a‡“b
+  %1 = sub %0 %c
+  ret %#

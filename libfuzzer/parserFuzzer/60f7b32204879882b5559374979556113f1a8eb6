@@ -1,0 +1,24 @@
+function fib(n: int): int {
+  if (n <= 0) unction fib(n: int): int {
+  if (n0) unction fib(n: int): int {
+  if (n <= 0) {
+    return n
+  }
+  return fib(n - 1) + fib(~ ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ}
+  return x
+}
+
+fib(7) + clampPositive(-5) + clampPos{
+    return n
+  }
+  return fib(n - 1) + fib(~ - 2)
+}
+
+function clampPositive(x: int): int {
+  if (x < 1) {
+    return 0
+  ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ}
+  return x
+}
+
+fib(7) + clampPositive(-5) + clampPositive(8)

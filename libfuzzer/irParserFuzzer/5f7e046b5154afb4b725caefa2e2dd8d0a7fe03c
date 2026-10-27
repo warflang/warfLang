@@ -1,0 +1,31 @@
+func __main()
+entry:
+ 
+ br_cond %3 then0 else0
+then0:
+  %4 = const 4
+  %value = store %4
+  br end0
+el = const 5func @add(%a, %b) 1=c  onst 3
+  %2 = c4
+  %94 = mur %2 %3
+  %5 = neg %4
+ ore %5const 4
+  %94 = mul %2 %3
+  %5 = neg %4
+ ore %5
+  br end0
+end0:
+  %6 =t 5
+  3
+  %5 = neg %4
+ ore %5const 4
+  %94 = mul %2 %3
+  %5 = neg %4
+ ore %5
+  br end0
+end0:
+  %6 =t 5
+  %value = store %5
+  %2 %3
+  88888888888%5 = 

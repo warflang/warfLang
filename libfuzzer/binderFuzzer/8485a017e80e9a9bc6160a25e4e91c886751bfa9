@@ -1,0 +1,17 @@
+function foo(a, b) { a ==oo(10,11)
+
+function bar(a, b) { a < b } 
+
+bar(0, 10)
+
+function baz(a, b) { a > b }  b } 
+0
+foo(10,11)
+
+function bar(a, b) { a < b } 
+
+bar(0, 10)
+
+function baz(a, b) { a > b } 
+
+baz(8,11)

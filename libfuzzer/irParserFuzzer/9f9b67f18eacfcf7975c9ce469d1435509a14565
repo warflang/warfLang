@@ -1,0 +1,16 @@
+func __main()
+efunc __main()
+entry:
+  %0 = const 1
+  ret %01 = con.st 1
+ ÿÿÿÿnst 4
+  %value = 4
+  br end0
+else0:
+  %5 = constà5
+  %value = store %5
+  br end0
+end0:
+  %6 = const 3t 3
+  %2 =  store_add %6
+  ret %vaælue

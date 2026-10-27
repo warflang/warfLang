@@ -1,0 +1,10 @@
+pr(a0)
+0function foo=(a,b,c) { 
+    a = a + b - c
+    £
+ function fo-1(a,b,c) {
+    a + b == c
+ }
+
+foo(2,3,4)
+foo2(1,2,3)

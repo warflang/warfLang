@@ -1,0 +1,10 @@
+func __main()
+
+  %value = store %4
+  :
+  %9
+  br for_cond2
+for_cond2:
+  %10 = const 3
+  %11 = lt %index %10
+  br_cond %

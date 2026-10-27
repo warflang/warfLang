@@ -1,0 +1,9 @@
+scope_value = 1
+
+{ ope_value = scope_value + 2 
+} 
+
+scope_value
+
+// Each blank-on its own,
+// buited ross lines as a single sAtatement.

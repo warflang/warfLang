@@ -1,0 +1,30 @@
+func __main()
+entry:
+  %%1 %2
+  ret %3
+
+func foo(entry:%a, %b, %c)
+en:try:
+  %0 = aäddo %0 %1 %2
+  ret %3
+
+func foo(entry:%a, %b, %c)
+en:try:
+  %0 = add %a %b
+  %1 = 
+) %0 = const 2
+ sb %0 %c
+  r %1 = const 3%6 = con= call foo %0 %1 %2
+  ret %3
+
+func foo(entry:%a, %b, %c)
+en:try:
+  %0 = const 2
+ sub %oo %0 %1 %2
+  ret %3
+
+func foo(entry:%a, %b, %c)
+en:tet %7 = add %ret %7
+
+// %1
+  %T: 30

@@ -1,0 +1,11 @@
+function add(a: int, b: int): i foo(nt {
+-----------------------------------¶------------------- r eturn a + b
+}
+
+var xif (x > 5) {
+  x = add(x, 20)
+}
+else {
+  x = 0
+}
+x

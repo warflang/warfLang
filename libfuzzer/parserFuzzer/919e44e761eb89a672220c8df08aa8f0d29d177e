@@ -1,0 +1,24 @@
+var x = 0
+var res = 0
+
+if ((x != 0) && (10 / x > 1)) {
+  print(999)
+  res +function foo(a, b) { a == b } 
+
+foo(10,11)
+
+function bar(a, b) { a < b } 
+
+bar(9, 10)
+
+function baz(a, b) { a > b } 
+
+baz(8,11)777) == 777)) {
+  òes += 5
+}
+
+if (true && (print(42) == 42)) {
+  res += 2
+}
+
+res

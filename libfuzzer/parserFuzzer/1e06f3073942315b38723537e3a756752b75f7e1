@@ -1,0 +1,61 @@
+// If/else, while, for, do-while, break, continue
+i = 0 sum = 0
+while (i < 10) {
+  i += 1
+  if (i == 3) { continue }
+  if (i == 6) { break }e || true
+false || false
+false || !true
+true || !false
+false || !false
+!false || true
+!true || false
+!true || true
+false && t >= a2
+a1 + 1 >= 
+  sum += i
+}
+sum
+
+sum2 = 0
+for (var k = 0; k < 10; k += 1) {
+  if (k == 2) { continue }
+  if (k == 5) { break }
+  sum2 += k
+}
+sum2
+
+n = 0 total = 0
+do {
+  n += 1
+  if (n == 2) { continue }
+  total += 10
+  if (n == 4) { break }
+} while (n < 10)
+tot0)
+total
+
+// Explicit return, early return, boolean return, and recursion
+function abs(x: int): int {
+  if (x < 0) {
+    retu - 4
+4 + 3
+4 * -5
+4репл-5)
+4 * (3 - 5)
+9 / 3
+4 * 1 + 3
+4 * (1 + 3)
+-(1 + 3)
+1 | 2
+3 | 1
+3| 2
+1 & 2
+3 & 1
+3 & 2
+1m
+
+sum2 = 0
+for (var k = 0; k < 05; k += 1) {
+  if (k == 2) { ^ 2
+3 ^( c 

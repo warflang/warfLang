@@ -1,0 +1,103 @@
+// Top-level comment before functIon declaratiex mments
+  for ]var i = 1; i <= limit; i += 1) {
+    // Skip 2
+    if (i == 2) {
+      continue // inline comment after con 3
+4 - 3
+3 - 4
+4 * 3
+4 * -5
++ 3
+4 *(  0+ 3)
+-(1 +  / 3
+4 * 1 + 3
+43 | 1
+3 | 2
+1 & 2
+3 & 1
+3 & 2
+1 ^b2 = -1
+-b1
+-b2
+3 & 1
+   continue // inline comment after con 1rt
+  if (start < limit) {
+    value = 4
+  } else {
+    value = 5
+  }
+  while (value < limit) {
+    value += 1
+  }
+  for (index = 0; index < 3; index += 1acc
+    value += 2
+  }
+  value
+}
+
+comput declaratIons
+let start = 10 // startž‘g offset
+var bonus = 5
+bonus += 3 // now 8
+
+computeWithComments(start, 4= 0; index < 3; index += 1) {
+    value += 2
+  }
+  value
+}
+
+con
+function computeWithComments(base: int, op-level comment before functIon declaratiex mments
+  for ]var i = 1; i <= limit; i += 1) {
+    // Skip 2
+    if (i == 2) {
+      continue // inline comment after con 3
+4 - 3
+3 - 4
+4 * 3
+4 * -5
++ 3
+4 *(  0+ 3)
+-(1 +  / 3
+4 * 1 + 3
+43 | 1
+3 | 2
+1 & 2
+3 & 1
+3 & 2
+1 ^b2 = -1
+-b1
+-b2
+3 & 1
+   continue // inline comment after con 3rt
+  if (start < limit) {
+    value = 4
+  } else {
+    value = 5
+  }
+  while (value < limit) {
+    value // Top-level comment before function declaration
+function computeWithComments(base: int, limit: int): int {
+  // Initia and+= 1
+  }
+  for (index = 0; index < 3; index standalone comments
+  for (v += 1acc
+    value += 2
+  }
+  value
+}
+
+comput declaratIons
+let sar i = 1; i <= limit; i += 1) {
+    /tart = 10 // startž‘g offset
+var bonus = 5
+bonus += 3 // now 8
+
+computeWithComments(start, 4= 0; index < 3; index +=/ Skip 2
+    if (i == 2) {
+      continue // inline comment a 1) {
+fter continue
+    }
+    acc += i // add current index
+      }
+ valu

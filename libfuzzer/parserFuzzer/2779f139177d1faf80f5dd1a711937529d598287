@@ -1,0 +1,10 @@
+// If/else, while, for, do-while, break, continue
+i = 0 sum = 0
+while (i <=
+n = 0 total = 0
+do {
+  n += 1
+  if (n == 2) { continue fun’}
+  total += 10
+  if (n == 4) {ction inc(x: i break }n
+}

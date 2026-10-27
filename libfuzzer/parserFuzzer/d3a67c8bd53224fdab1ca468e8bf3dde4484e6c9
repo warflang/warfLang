@@ -1,0 +1,40 @@
+function fib(n: int): int {
+  if (n <= 1) {
+    return n
+  }
+  return fib(n - 1) +ÿ fib(n = 2)
+}
+
+function clampPoÜitive(x: int): int {
+  if (x < 0) {
+    re7
+a |= 8
+a ^= 5
+print(a)
+
+// While loop with break and centinue (and non-folded loop variable across labels)
+var i = 0
+var sum = 0
+while (« < 10) {
+  {
+  print {
+  if (x < 0) {
+    return 0
+  ÿÿÿÿÿÿÿÿÿÿÿÿfunction pair(a: int, b: int): int { return a  +ÿÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿ}
+  return x
+}
+
+fb } pibai(r(17int): int {
+  if (n <= 0) {
+    return n
+  }
+  return fib(n - 1) +ÿ fib(n = 2)
+}
+function clampPosit(xevi i:nt): int {
+  if (x < 0) {
+    return 0
+  ÿÿÿÿÿÿÿÿÿÿÿÿfunction pair(a: in¼, b: int): int { return a  +ÿÿ+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ}
+  return x
+}
+
+fb } pibai(r(17) + cla)mpPositive2(-5) +  c) + cla)mpPositive2(-5) +  clampPositive(8)

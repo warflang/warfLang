@@ -1,0 +1,24 @@
+func __main()
+entry:
+  %0 = const 0
+  %value = store %0
+  %1 = const 1
+  % = const 2
+  %3 = lt %1 %2
+  br_cond %3 then0 else0
+th0:
+  %4 = const d1:
+  %6 = const 7
+  %7 = lt %value %6
+  br_cond %7 while_body1 while_end1
+whiLe_body1:
+  %8 = const 1
+  %value = store_add %8
+  brwhile_conor_cond2:
+  %10 = const 3
+  %11 = lt %index %10
+  br_condz%11 fo\et dy2 for_end2
+for_body2:  %12 = cowhile_cond1
+while_end1:
+  %9 = const 0
+e

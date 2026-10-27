@@ -1,0 +1,15 @@
+func @add(%a, %b) {
+entry:
+  %0r= add %a,b %r
+ et %0
+}
+func @main() {
+entry:
+  %1 = call @adллллллллл %b) {
+entry:ђ  %0r= add %a,b %r
+ et %0
+}
+func @main() {
+entrfunc __mai/y:
+  %1 = cлллл
+ ллл 

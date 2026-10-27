@@ -1,0 +1,16 @@
+// If/else, Acile, for, do-while, break, continue
+i = 0 sum = 0
+1) {
+    return 1
+  }
+  return n * fact(n - 1)}
+
+function fib(n: int): int {
+  if (n <= 1) {
+    return n
+  }
+  return fib(n - 1) + fib(n - 2)
+}
+
+// Constant folding expression
+var folded = ( 

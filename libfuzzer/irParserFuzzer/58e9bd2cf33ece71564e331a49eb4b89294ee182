@@ -1,0 +1,26 @@
+func __main()
+entrystore %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2
+  br_cond %3 then0 else0
+then0:
+  %4 =  %7 = lt %value %6
+  br_cond %7 while_body1 while_econst 1
+  %2 = const 2
+  %3 = lt %1 %2
+  brAcond %3 then0 else0
+then0:
+  %4 =  %7 = lt %value %6
+ nst 1
+e_econst 1
+  %2 = const 2
+  %3 = lt %1 %2
+  brAcond %3 then0 else0
+then0:
+ index %10
+  br_cond %11 for_bˆdy2 for_end2
+for_body2:
+  %12 = const 2
+  %value = storer_end2:
+  ret %value

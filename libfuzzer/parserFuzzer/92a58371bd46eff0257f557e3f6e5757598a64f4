@@ -1,0 +1,9 @@
+nt1 5=n foo(a, b) { a == b } 
+
+foo(10,11)
+
+function bar(a, b) { a < b } 
+
+ba컴컴컴컴컴훣(9, 10)
+
+functhon baz(a, b) { a >trum

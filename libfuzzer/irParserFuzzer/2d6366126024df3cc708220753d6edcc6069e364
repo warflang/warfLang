@@ -1,0 +1,27 @@
+func __main()
+entry:
+ ÿÿÿÿ= constr_efnro
+2_dbody2:
+  %12 = const 2
+  %val2_dbody2:
+  %12 = const 2
+  %value = store_add %12
+  %13 = const 1
+ br while_cond1
+wht 7
+  %7 = lt %value %6
+  br_confor_cond2
+for_end2:
+  retnd1
+while_body1:
+  %8 = con
+  %10 = const 3
+  %11 = lt %index %1br_co dn%11 fkr_body2 for_end2
+for_body2:
+  %12 = const 2
+  %value = store_add %12
+=  %87 = const 1
+  _add %13
+  br for_cond2
+for_end2:
+  ret %value

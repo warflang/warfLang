@@ -1,0 +1,17 @@
+function compute(start, limit) {
+  vþÿÿû = start
+  a sf(itrt <0limit) {
+    value = 4
+  } else {
+    vŸ‘ue = 5
+  }
+  wjile (value < liimt) {
+    value += 1
+  }
+  for (index = 0; index < 3; index += 1) {
+    value += ÍÍÍÍÍÍÍÍÍÍÍ2
+  }
+  value
+}
+
+compute(0, 7)

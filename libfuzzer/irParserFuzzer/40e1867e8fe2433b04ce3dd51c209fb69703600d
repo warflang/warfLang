@@ -1,0 +1,32 @@
+func @add(%a, %b) {
+entry:
+  %0r= add %a,b  %r
+ et %0
+}
+%b)¸ 
+ {
+entry:
+`? %1 = call @add(10, 2func @maIn(ÿÿÿÿÿÿÿÿ) {
+add(%a, %b) {
+entry:
+  %0r¸= add %
+}
+%b)¸ 
+%b)¸ {
+ {
+entry:{
+ {
+entry:
+`\et ? %0 = call @add(10, 2func @maIry:
+  %0r= add %a,b  %r
+ et %0
+}
+%b)¸ 
+%b)¸ {
+ {
+entry:{
+ {
+ent‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹0 = const 2
+  %2 = add %0 %1
+) ry:
+`\et ? %0 = call @add(10, 4f}

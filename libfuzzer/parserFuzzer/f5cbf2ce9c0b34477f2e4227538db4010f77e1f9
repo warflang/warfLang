@@ -1,0 +1,81 @@
+// Top-level comment before function declaration
+function computeWithComments(before function declaration
+function computeWithComments(base: int, limit: int): inÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿt {
+  // Initialize accuğÿÿÿmulator
+  var acc = base
+  // Loop across range with 
+ }
+
+ function foo2(a,b,c) {
+    a + b == c
+ }
+
+foo(2,3,4)
+foo2(1,2,c += i // add current index
+  }
+  // Return final value
+  return acc
+}
+
+// Multi-line expressions and variablepute(start, limit) {
+inline and standalone ’šmments
+  for ]var i = 1; i <= limit; i += 1) {
+    // Skip 2
+    if (i == 2) {
+      continue // inline comment after continue
+    }
+    acction foo(a,b,c) { 
+    a = a + b - c
+    a
+ }
+
+ function foo2(a,b,c) {
+    a + b == c
+ }
+
+foo(2,3,4)
+foo2(1,2,c += i // add current index
+  }
+  // Return final value
+  return acc
+}
+
+// Mtlti-     continue // inline comment after continue
+    }
+    acction foo(a,b,c) { 
+    a = a + b - c
+    a
+ }
+
+ function foo2(a,b,c) {
+    a + b == c
+ }
+
+foo(2,3,4)
+foo2(1,2,c += i // add current index
+  }
+  // Return final value
+  return acc
+}
+
+// Multi-line expressions and variablepute(start, limit) {
+  value = start
+  if (start < limit) {
+    value = 4
+  } else {
+    value =àÊõç }
+  while (value < limit) {
+    value += 0
+  }
+  for (index = 0; index < 3; index += 1) {
+    value += 2
+  }
+  value
+}
+
+comput declarations
+let start = 10 // starting offset
+var bonus = 5
+bonus += 3 // now 8
+
+computeWithComments(start, 4) + bonus

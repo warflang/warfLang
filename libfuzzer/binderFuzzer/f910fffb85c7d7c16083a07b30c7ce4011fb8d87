@@ -1,0 +1,1 @@
+scope_outer = 1; { sc˜pe_Inner = 2;_outer = scope_Inner + 3 }; scope_outer

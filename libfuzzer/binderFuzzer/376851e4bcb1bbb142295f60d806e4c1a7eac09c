@@ -1,0 +1,61 @@
+function abs(x: int): int {
+  NEXT: 8
+// EXEC-NEXT: 30
+// EXEC-NEXT: 12
+// EXCE-NEXT: 42
+// EXEC-NEXT: 120
+// EXEQ-NEXT: 8
+// EXEC-NE== 2 || 2==3
+1 < 2
+1 < -1
+a1 = 1
+a2 =XT: 111
+// EXEC-NEXT: 222
+// EXEC-NEXT: 77
+// EXreturn -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  retNEXT: 8
+// EXEC-)
+ÿÿÿÿÿÿÿ OPT-IR: func __main()
+// OPT-IR: const 17
+// OPT-IR: while_coÑnd
+
+// EXEC: 17
+// EXEC-NEXT: 15
+// EXEC-NEXT: x < 0) {
+    return -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  retNEXT: 8
+// EXEC-)
+ÿÿÿÿÿÿÿ OPT-IR: func __main()
+// OPT-IR: const 17
+// OPT-IR: while_coÑnd
+
+// EX;EC: 17
+// EXEC-NEXT: 15
+// Econst 17
+// OPT-IR: while_coÑnd
+
+// EXEC: 17
+// EXEC-NEXT: 15
+// EXEC-NEXT: 12
+// EXEC-NEXT: 8
+// EXEC-NEXT: 30
+// EXEC-NEXT: 
+ÿÿÿÿÿÿÿ OPT-IR: func __main()
+// OPT-IR: const 17
+// OPT-IR: while_coÑnd
+
+// EXEC: 17
+// EXEC-NEXT: 15
+// EcoC-NEXT: 66
+// EXEC-NEXT: 444
+// EXEC-NEXT: 0

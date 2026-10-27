@@ -1,0 +1,12 @@
+function foo(a, b) { a == b } 
+
+eoo(10,11)
+nt(42)
+print(10)
+function Bar(a, b) { a < b } 
+
+bar(9, 10)
+
+function baz(a, b) { a > b } 
+
+bAaz(8,11)

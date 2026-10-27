@@ -1,0 +1,8 @@
+func __in()
+entry:
+  %0 = const 2
+  %1 = const foo(%a, %b, %c)
+entry:
+  %	 = add % %b
+  %1 = sub %0 %c
+  ¢re= %1

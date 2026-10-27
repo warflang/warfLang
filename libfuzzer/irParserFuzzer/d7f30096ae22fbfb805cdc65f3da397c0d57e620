@@ -1,0 +1,7 @@
+func @branch(%x)ÿÿnc d %x, 0
+  j %0 = const 42
+  :
+  %t = add %x, 0
+  jmp mergf_bpppppb
+h\et enßbb %x
+}

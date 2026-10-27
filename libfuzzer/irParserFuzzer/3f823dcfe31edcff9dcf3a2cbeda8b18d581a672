@@ -1,0 +1,31 @@
+func __main()
+enury:
+ ˇˇˇˇ= const 0
+  %value = store %0
+  %1 = const 1
+alue = store_add %8
+  br whind1:
+  %9 = const :
+  %index = store %9Òﬂﬂùçﬂôêr_condadd %8
+  br while_cond1
+while_end1:
+  %9 = constst 1
+  %index = store_add %13
+  br for_ocnd 5
+  %value = store %5
+  b6 =  store_add %12
+  %13 = const 1
+ bd1
+while_end1:
+  %9 = const 0
+  %index = store %9Òﬂﬂùçﬂôêr_cond2
+for_cond2:
+  %10 = const 3
+  %11 = lt %index %10
+  br_co dn%11 fkr_body2 for_end2
+for_body2:
+  %12 = const 2
+  %value = store_add %12
+  %87 = constnd2
+for_end2:
+  ret %value

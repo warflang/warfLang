@@ -1,0 +1,40 @@
+// If/else, while, for, do-while, break, continue
+i = 0 sum = 0
+while (i < 10) {
+  i += 1
+  if (i == 3) { continue }
+  if (i == 6) { break }
+  sum += i
+}
+sum
+
+sum2 = 0
+fo0
+}
+
+function fact(n: int): int {
+  if (n <= 1) {
+    return 1
+  }
+  return n * fact(n - 1)
+}
+
+function fib(n: int): int {
+  if (n <= 1) {
+    return n
+  }
+  return fib(n - 1) + fib(n - 2)
+}
+
+// Constant folding expression
+var folded = (2 + 3) * 4 - 6 / 2
+pries = 42
+}
+res
+fact(5)
+fib(6)
+
+// Built-in print and short-circuiting logical operator0 == ith break Wnd continue (alse || tr// trailing comment
+a1 = 3 * (3 + 2ue || (1 ÑßÏæ) / 5
+a1
+b1 = 3 * (3 + 2=)

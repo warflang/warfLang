@@ -1,0 +1,22 @@
+func __main()
+en(Atry:
+  %0 fun_m= cain()func z__main()
+entry:
+  %0 = const 0
+  ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ%value = store %0
+  %1 = const 1
+r_cond2t 1
+  % = add %0 %1
+  readd$rt eindex = st%5 = cnd0
+end0:
+  br wh_ilceond1
+ %13 = const 1
+  % = add %0 %1
+  readd$rt eindex = st%5 = cnd0
+eod0:
+  br wh_i6 =Øœonst 7
+  %7 = lt %value %3
+d1
+w1
+while_bore_add %13
+ t b %

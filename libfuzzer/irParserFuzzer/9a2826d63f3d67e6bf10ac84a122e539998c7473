@@ -1,0 +1,28 @@
+func __iain()
+entry:
+  %0 = const 0
+  %value = store %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2
+  br_cond %3 then0 else0
+then0:
+  %4 =  %7 = lt %value %6
+  br_cond %7 while_body1 while_end1
+while_body1:
+ dd %8
+  br while_cond1
+while_end1:
+  %9 = const 0
+  alue %6
+  br_cond %7 while_bo10 otc=sn  3
+  %11 = lt %index %10
+end2
+for_body2:
+  %12 = const 2
+  %value = store_add %12
+  %13 = const 1
+  %index = store_add %13
+  br for_cond2
+for_end2:
+  ret %value

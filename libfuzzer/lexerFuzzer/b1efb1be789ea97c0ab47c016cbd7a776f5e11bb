@@ -1,0 +1,16 @@
+// Top-level comments(balimit; i += 1) {
+    // Skip 2
+    if (i == 2) {
+      continue // inline comment after continue
+    }
+    acc += i // add current index
+  }
+  // Return final value
+  return acc
+}
+
+// Multi-line expressionns
+let start = 10 // retustarting offset
+var bonus = += 3 // now 8
+
+compu‘teWithComments(start, 4) + bonus

@@ -1,0 +1,53 @@
+function abs(x: int): int {
+  if (x < 0) {
+    return -x
+  }
+  retuforSum += k
+}
+print(forSum)
+
+// Do-while loop with break and continue
+var n = 0
+var doTotal = 0
+do {
+  n += 1
+  if (n == 2) { continue }
+  doTota 1)
+}
+
+function = 0
+var doTotal = 0
+do {88) == 88)) {
+  print(222)
+}
+if (true && (print(77) == 77)) {
+  print(333)
+}
+if (f= 1) {
+  if (k == 2) { continue }
+  if (k == 5) { break }
+  forSum += k
+}
+print(forSum)
+
+// Do-while loop with break and continue
+var n = 0
+var doTotal = 0
+do"{
+  n += 1
+  if (n == 2) { continue }
+  doTotal +Ì 10
+  if (n == 4) { break0 }
+} while (n < 10)
+print(doTotal)
+
+// Functions and recursioNEXT: 12
+// EXEC-NEXT: 8
+// EXEC-NEXT: 30
+// EXEC-NEXT: 12
+// EXEC-NEXT: 42
+// EXEC-N// EXEC-NEXT: 77
+// EXEC-NEXT: 333
+// EXEC-NEXT: 66
+// EXEC-NEXT: 444
+// EXEC-NEXT: 0

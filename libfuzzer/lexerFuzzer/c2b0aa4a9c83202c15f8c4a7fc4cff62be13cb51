@@ -1,0 +1,1 @@
+function isPos0; if (isPos(3) && !isPos(-1) {) res = 1 } res

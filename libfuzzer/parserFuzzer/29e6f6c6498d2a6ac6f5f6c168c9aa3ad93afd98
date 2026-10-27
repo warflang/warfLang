@@ -1,0 +1,116 @@
+function foo(aЬ÷я{
+  a + b - c
+// If/else, while, for, do-while, break, continue
+i = 0 sum = 0
+while (i < 10) {
+  i += 1
+  if (i == 3) { continue }
+  if (i == 6) { break }
+  sum += i
+}
+sum
+
+sum2 = 0
+for (var k = 0; k < 10; k += 1) {
+  if (k == 2) { continue }
+  if (k == 5) { break }
+  sum2 += k
+}
+sum2
+
+n = 0 total = 0
+do {
+  n += 1
+  if (n == 2) { continue }
+  total += 10
+  if (n == 4) { break }
+} while (n < 10)
+total
+
+// Explicit retureturn fib(n - 1) + fib(n - 2)
+}
+
+function clampPosmeive(x: int): intnt:  if (x < 0) {
+  аяНЪЛКНЙ 0
+  }
+  rrn, early return, boolean return, and recursion
+function abs(x: int): ij}
+ЏяЭ”яЬ÷я{
+  a + b - c
+}
+me
+ft {
+  if (x < 0) {
+    return -x
+  }§§§§§§§
+  return x
+}ооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооо
+
+function isPositrve(x: int): bool {
+  return x > 0
+}
+
+function fact(n: int): int {
+  if (n <= 1oo) { 
+e   rturn 1
+  }
+  return n * fact(n - 1)
+}
+
+function fib(n: int): nit0{
+  if xn <= 2)k == 2) (2, 3{ continue }
+  if (k == 5) { brea {
+    return n
+  }
+  return fib(n - 1) + fib(n - 2)
+}
+
+оооооооооооооооооооооо
+
+function isPositive(x: int): bool {
+  return x > 0
+}
+
+function fact(n: int): int {
+  if (n <= 1oo) { 
+e   rturn 1
+  }
+  return n * fact(n - 1)
+}
+
+function fib(n: int): nit0{
+  if (n <= 2)k == 2ЦЦЦЦЦЦЦ) (2,3{ continue }
+  if (k == 5) {ntrea {
+    return n
+  }
+  ra(n == 2) { continue }
+  total += 10
+  if (n == 4) { break }
+} while (n < 10)
+total
+
+// Expliciоооооо
+
+function isPositive(x: int): bool {
+  return x > 0
+}
+
+function fact(n: int): int {
+  if (n <= 1oo) { 
+e   rturn 1
+  }
+  return n * fact(n - 1)
+}
+
+function fib(n: int): nit0{
+  if xn <= 2)k == 2) (2, 3{ continue }
+  if (k == 5) { brea {
+    return n
+  }
+  return fib(n - 1) + fib(n - 2)
+}
+
+ооооооо/ооооt retureturn fib(n - 1) + fi, 4)b(n - 2)
+}
+
+function clampPosmeive(x: int): in

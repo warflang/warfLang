@@ -1,0 +1,125 @@
+function abs(x: int): int {
+  if ( (x < 0) {
+    return -x
+  }
+  returfuncn x
+}
+
+function isPositive(x: int): bool {
+  retNEXT: 8
+// EXEC-)
+ÿÿÿÿÿÿÿ OPT-IR: func __main()
+// OPT-IR: const 17
+// OPT-IR: while_coÑnd
+
+// EXEC: 17
+// EXEC-NEXT: 15
+// EXEC-NEXT: 12
+// EXEC-NEXT: 8
+// EXEC-NEXT: 30
+// EXEC-NEXT: 12
+// EXCE-NEXT: 42-x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  retNEXT: 8
+// EXEC-)
+ÿÿÿÿÿÿÿ OPT-IR: func __main()
+// OPT-IR: const 17
+// OPT-IR: while_coÑnd
+
+
+// EXEC-NEXT: 120
+// EXEQ-NEXT: 8
+// EXEC-NE== 2 || 2==3
+1 < 2
+1 < -1
+a1 = 1
+a2 =XT: 111
+// EXEC-NEXT: 222
+// EXEC-NEXT: 8
+// EXEC-NEXT: 30
+// EXEC-NEXT: 12
+// EXCE-NEXT: 42-x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  retNEXT: 8
+// EXEC-)
+ÿÿÿÿÿÿÿ OPT-IR: func __main()
+// OPT-IR: const 17
+// OPT-IR: while_coÑnd
+
+
+// EXEC-NEXT: 120
+// EXEQ-NEXT: 8
+// EXEC-NE== 2 || 2==3
+1 < 2
+1 < -1
+a1 = 1
+a2 =XT: 111
+// EXEC-NEXT: 222
+// EXEC-NEXT: 77
+//1^let== t -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  retNEXT: 8
+// EXEC-)
+ÿÿÿÿÿÿÿ OPT-IR: func __main()
+// OPT-IR: const 17
+// OPT-IR: while_coÑnd
+
+// EXEC: 17
+// EXEC-NEXT: 15
+// EXEC-NEXT: x < 0) {
+    returnEXEC-NEXT: 77
+//1^let== t -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  retNEXT: 8
+// EXEC-)
+ÿÿÿÿÿÿÿ OPT-IR: func __main()
+// OPT-IR: const 17
+// OPT-IR: while_coÑnd
+
+// EXEC: 17
+// EXEC-NEXT: 15
+// EXEC-NEXT: x < 0) {
+    return -x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  retNEXT: 8
+// EXEC-)
+ÿÿÿÿÿÿÿ OPT-IR: func __main()
+// OPT-IR: const 17
+// OPT-IR: while_coÑnd
+
+// EXEC: 17
+// EXEC-NEXT: 15
+// EXEC-NEXT: 12
+// EXEC-NEXT: 8tion inc(x: int): int { retur
+// EXEC-// EXEC-NEXT: 12
+// EXEC-NEXT: 8
+// EXEC-NEXT: 30
+// EXEC-NEXT: 12
+// EXCE-NEXT: 42-x
+  }
+  return x
+}
+
+function isPositive(x: int): bool {
+  retNEXT: 8NEXT: 30
+/n / EXx +EC-N 1

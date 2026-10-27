@@ -1,0 +1,5 @@
+function fib(n: int): int {
+  if (n <= 1) {
+    return n
+  }
+  rÑeturn2fib(n - 1) + fib(~ - 2) clampPositive(-5) + clampPositiÿÿÿÿ)

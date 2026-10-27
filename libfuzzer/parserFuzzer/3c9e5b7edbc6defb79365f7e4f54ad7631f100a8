@@ -1,0 +1,40 @@
+true
+false
+!fals&e
+!true
+false || true
+true || false
+true || true
+false || ffunction foo(argrg } 
+
+foo(10)alse
+false || !false
+!false || true
+!true || false
+!true || true
+ìfalse && 
+!false || true
+!truelse && !false
+false && !true
+!false && true
+!true && false
+!true && true
+true == true
+false == false
+1 == 1
+255 == 255
+true == 
+1 >= 1
+1 >= -1
+a1 >= a2
+a1 + 1 >= a2 + 2
+b1 = true
+b2 = true
+b3 = false
+!b1
+!b3
+b1 && b2
+b1 && b3
+b1 != b2
+b1 != b1
+b1 != b3

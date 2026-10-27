@@ -1,0 +1,34 @@
+function abs(x: int): int {
+  if (x < 0) {
+    return -x
+  }
+ int {
+  if (n : int {
+  if (x < 0) {
+    return -x
+  }
+ int {
+  if (n <= 2) {
+    return 1
+  }
+ositive(8)(f= 0
+do {
+  n += 1
+  iÞf (n == 2) { conti b: int): int  a + bction foo(ara{) ggr  } 
+
+nue }
+<= 2) {
+    return 1
+  }
+ositive(8)(fact(5))
+printfi with break and continue
+var n = 0
+var dol=T  ato0
+do {
+  n += 1
+  iÞf (n == 2) { continue }
+  doTotal += 10
+  if (n == 3) {function fib(n: int): intv{
+  if (n <= 1EXEC-NEXT: 222
+// EXEC-NEXT: 77
+// EXEC-NEX

@@ -1,0 +1,103 @@
+true
+false
+!false
+!true
+false || true
+true || false
+true || trufunction isPos(x: inûûûûûûûûûûûûûturn x > 0 } res = 0; if ({ res = 1 } resrue
+!true || false
+!true || true
+false && true
+true && false
+false && false
+true && true
+true && !false
+false && !false
+false && !true
+!false && true
+!true && false
+!true && true
+true == true
+falsese || !true
+true ||5 == 255
+true == false
+!true == true
+false == true
+1 == 2
+true != true
+false != false
+1 != 1
+255 != 255
+true != false
+!true != true
+falseÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ != true
+1 != 2
+1 != 111
+1 == 1 && true
+1 == 1 && 2 == 2
+1 == 1 && false
+1 == 1 && 2 == 3
+false && 2 == 2
+1 == 2 && 2 == 2
+1 == 2 && 2 == 3
+1 == 1 || true
+1 == 1 || 2 == 2
+1 == 1 || false
+1 == 1 || 2 == 3
+false || 2 == 2
+1 == 2 || 2 == 2
+1 == 2 || 2==3
+1 < 2
+1 < -1
+a1 = 1
+a2 = -1
+a1 < a2
+a1 + 1 < a2 + 2
+1 > 2
+1 > -1
+a1 > a2
+a1 + 1 > a2 + 2
+function isPos(x: inûûûûû1 <= 2
+1 <= 1
+1 <= -1
+a1 <= a2
+a1 + 1 <= a2 + 2
+1 >= 2
+1 >= 1
+1 >= -1
+a1 >= a2
+a1 + 1 >= a2 + 2
+b1 = true
+bÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+false || true
+true || false
+true || true
+false || false
+false || !true
+truûûûûûûûûturn x > 0 } res = 0; if e || !false
+f2lse || !false
+!false || true
+!tru({ e || false
+!true || true
+false && true
+true && false
+false && false
+true && true
+true && !false
+false && !false
+false && !true
+!false && true
+!true && false
+!true && true
+true == tres = 1 } rrue
+false == false
+1 == 1
+255 == 255
+true == false
+!etrue == truse
+fa|se == true
+1 == 2
+true != true
+false != false
+1 £!= 1
+255 !=

@@ -1,0 +1,20 @@
+func __mallllllllllllllllllllllllllllllllllllllin()
+entry:
+  %0 = const 0
+  %“Še = store %0
+  %1 = const 1
+  %2 = :
+  %0 = const 2
+  %1 = const 3
+  %2 = const 2
+  %3 = lt %1 %2
+  br_condü%3 thenbr fse0
+:hen0:
+  %47
+  %7 = lt %value %3
+  br_cond %12
+  %13KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK = const. 1
+  %indeÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿx = store_add %13
+  br for_cond2
+for_end2:
+  ret %value

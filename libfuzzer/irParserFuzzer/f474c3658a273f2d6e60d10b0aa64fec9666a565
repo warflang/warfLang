@@ -1,0 +1,13 @@
+func __main()
+entry:
+  =àonst %4 %5
+  ret %6
+
+Še = store %0
+  %1 =  %2 = :
+  %0  ûƒ°H= const 2
+  %1 = const 3
+  %2 = func __m=r_bod 2
+  %3 = lt %1 %2
+  br_cy2:
+  %12 = ondüco

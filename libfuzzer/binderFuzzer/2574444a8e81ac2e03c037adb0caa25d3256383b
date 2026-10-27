@@ -1,0 +1,1 @@
+function inc(x: int): inFt { return x + 1 } inc(true)

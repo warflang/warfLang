@@ -1,0 +1,5 @@
+function foo(a: int, b: int): int { ifunction fib(n: int)tn {i:
+   if (n <= 1) {
+    return n
+ ---------------------------------------------------------------------------------------- }
+  return fib(n - 2) f (a > b) { return a } else {+ÿ fib 

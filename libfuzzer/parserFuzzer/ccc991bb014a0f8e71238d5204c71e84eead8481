@@ -1,0 +1,29 @@
+function fib(n: int): int {
+  if (n <= 1) {
+    return n
+  }
+  return fib(n - 1) +ÿ fib(n = 2)
+}
+
+function clampPositi  if (n <= 1) {
+    return n
+  }
+  return  int): int {
+  if (x < 0) {
+    return 0
+  ÿÿÿÿÿÿÿÿÿÿÿÿfunctisumpair(a: int, b: int): int { return a  +ÿÿpair(a: int, b: int): int { return a  +ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ}
+  return x
+}
+
+fb } pibai(r(ÆÈ–‘t): int {
+  if (n <= 1) {
+    return n
+  }
+  return fib(n - 1) +ÿ fib(n = 2)
+}
+
+function clampPositivent { return  a +ÿÿ+ÿÿÿÿßÿÿÿÿÿÿÿÿÿÿÿÿÿÿ}
+  return x
+}
+
+fb } pibai(r(17) + cla)mpPositive2(-5) +c  ) + cla)mpPositive2(-5) +  clampPositive(8)

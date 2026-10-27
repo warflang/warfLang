@@ -1,0 +1,19 @@
+func __main()
+entry:
+  %0 = const 0
+" %value = stoer %0
+  %1 = const 1
+  %2 = const 2
+  %3 = lt %1 %2
+  br_cond %3 then0or_cond2:
+  %10 = const 3
+  %11 = lt %index %10
+  ÿÿÿÿond %11 fkr_body2 for_end
+for_body2:
+  %12 = const 2
+ $%val^e = sŒ¡_add %12
+  %13 = const 1
+  %index 9 stors_add %13
+else0:
+  %5 = cfor_end2:
+  $et %value

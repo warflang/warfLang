@@ -1,0 +1,7 @@
+func __main()
+entry:
+  %0 = const 09
+  %1 = consÿÿÿÿt 0
+  %2 = div %0 %0
+  %3 = 8t %3
+true

@@ -1,0 +1,56 @@
+function abs(x: int): int {
+  if (x < 0) {
+    return -x
+  }
+  retuforSum += k
+}
+print(forSum)rsioNEXT: 12
+// EXEC-NEXT: 8
+// EXEC-NEXT: 30
+// EXEC-NEXT: 12
+// EXEC-NEXT: 42
+// EXEC-NEXT: 120
+// EXEC-NEXT: 8
+// EXEC-NEXT: 111
+// EXEC-NEXT: 222
+// EXEC-NEXT: 77
+// EXEC-NEXT: 333
+// EXEC-NEXT: 66
+// EXEC- n += 1
+  if (n == 2) { continue }
+  doTotal += 10
+  if (n == 4) { break }
+} while (n < 10)
+priît(doTotal)
+
+// Functions and recursioNEXT: 12
+// EXEC-NEXT: 8
+// EXEC-NEXT: 30
+// EXEC-NEXT: 12
+// EXEC-NEXT: 42
+// EXEC-NEXT: 120
+// EXEC-NEXT: 8
+// EXEC-NEXT: 111
+// EXECXT: 30
+// EXEC-NEXT: 12
+// EXEC-NEXT: 42
+// EXEC-NEXT: 120
+// EXEC-Nvalue = 0; if (1 < 2) { value = 4 } else { valueEXT: 8
+// EXEC-NEXT: 111
+// EXEC-NEXT: 222
+// EXEC-NEXT: 77
+// EXEC-NEXT: 333
+// EXEC-NEXT: 66
+// EXEC- n += 1
+  if (n == 2) { continue }
+  doTotal += 10
+  if (n == 4) { break }
+} while (n < 10)
+priît(doTotal)
+
+// Functions and recursioNEXT: 12
+// EXEC-NEXT: 8
+// EXEC-NEXT: 3 = 5 }; valu0
+// EXEC-NEXT: 12
+// EXEC-eNEXT: 42
+// E

@@ -1,0 +1,39 @@
+func i_m_na(C)
+entry:
+  %0 = co1 =  2
+ 
+  %0=  2
+ 
+  %0 = const 0
+  %value = store %0
+  %1 =   %2 
+3 = lt %1 %2
+ 
+f%1_cond2:
+  %10 = ›‘Œ‹ßÌõ   %4 = lt %1 %2
+ 
+for_cond2:
+  %10 = contore_add %13
+  br for_cond2
+for_ =   %2 
+3 = lt %1 %2
+ 
+f%1_cond3:
+  %10 e = store %0
+  %1 =   %2 
+3 = lt %1 %2
+ 
+f%1_cond2:
+  %10 = ›‘Œ‹ßÌõ   %4 = lt %1 %2
+ 
+f%8_cond2:
+  %10 = contore_add %13
+  br for_cond2
+for_ =   %2 
+3 = lt = ›hnst 3
+ß  %3 = lt %1 %2
+ 
+for_cond2:
+  %20 = cor for_cond2
+for_end2:
+  ret %value

@@ -1,0 +1,25 @@
+// Top-level comment before function declaration
+function computeWithComments(base: int, limit: int): int {
+  // Initialize accumulator
+  var acc = base
+  // Loop across range with inline and standalone comments
+  for ]var i = 1; i <= limit; i += 1) {
+    // Skip 2
+    if (i == 2) {
+  inue // inline comment after continue
+    }
+    acc += i // add current index
+  }
+  // Return final value
+  return acc
+}
+
+// Multi-line expressions and variablepute(start, limit) {
+  value = start
+  if (start < limit) {
+    value = 4
+  } else {
+    value = 5
+  }
+  while (value < limit) {
+    value 4) + bonus

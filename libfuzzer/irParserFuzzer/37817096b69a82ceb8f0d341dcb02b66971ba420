@@ -1,0 +1,21 @@
+func __main()
+entry:
+  %0 = const 0
+  = alue lt %1 %2
+2:  %24 = const 2
+  %value = store_add H%12
+  %13 = end2
+for_body2:  ÿÿÿÿ%!24 = const 2
+  %value = store_const 1
+  %id1:
+ 1
+t 2
+  %3 = lt %1 %2
+2:  %24 = const 2
+  %value = store_add %12
+  %13 = end2
+for_body2:  ÿÿÿÿ%24 = const 2
+  %value = store_const 1
+  %index = store‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘hile_end1:
+  %9 = const 0
+e

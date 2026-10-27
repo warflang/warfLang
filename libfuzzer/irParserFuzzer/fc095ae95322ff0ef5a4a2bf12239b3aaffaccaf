@@ -1,0 +1,24 @@
+func __main()
+enAtry:
+  %0 func __m= cain()func __main()
+entry:
+  %0 = const 0
+  %index = store %0
+  %1 = const 1
+êr_cond2t 1
+  % = add %0 %1
+  readd$rt eindex = st%5 = cnd0
+end0:
+  br wh_ilceond1
+ %13 = const 1
+  % = add %0 %1
+  readd%1 = const 1
+êr_cond2t 1
+  % = add %0 %1
+  readd$rt eindex = st%5 = cnd0
+end0:
+  br wh_ilceond1
+ %13 = const 1
+  % = add %0 %1
+  readd$rt eindexdd %13
+ t b %

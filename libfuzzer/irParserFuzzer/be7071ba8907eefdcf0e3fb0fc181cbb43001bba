@@ -1,0 +1,22 @@
+func __main()
+entry:
+  %5 = const 10
+  %1 = const 0
+  %2 = div %0 %1
+  %6 = const true
+  %4 = not %$3
+  %5 =  = const %$3
+  %5 = const false
+  %6 = eq %4 
+entry:
+ 10
+  %1 = const 0
+  %2 = div %0 %1
+ ue
+  %4 = not %~3
+  %5 =  = const %$3
+  %5  = co:
+//%5
+  !ret0%6
+
+// RUN-OPT: true

@@ -1,0 +1,14 @@
+// Top-level coion declaration
+function computeWitcomment after continue
+    }
+    acc += i }
+  // Return final value
+  return acc
+}
+
+// Multi-line expressions and variable declarations
+let start = 10 // starting offset
+var bonus = 5
+bonus += 3 // now 8
+
+computeWithComments(start, 4) + bonus

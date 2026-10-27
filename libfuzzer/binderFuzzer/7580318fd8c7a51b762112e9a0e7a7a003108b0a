@@ -1,0 +1,4 @@
+scope_value = 0
+
+{ 
+    scope_value = scope_ but a brace-delimited block is buffered across lines as a nt.

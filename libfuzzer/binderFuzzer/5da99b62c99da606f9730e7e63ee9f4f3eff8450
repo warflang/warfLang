@@ -1,0 +1,4 @@
+value = e (value < 7) { value += 1 }
+value
+
+for (index = 0; index < 3; index += 1) { value += 4; a /lue

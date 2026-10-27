@@ -1,0 +1,20 @@
+func __main()
+entry:
+  %0 = cüÿ
+func foo(entry:%a, %b, %c)
+entry:
+  %0 = add %a %b
+  %1 = 
+  %0 = const 2
+ sub %0 %c
+  r %1 = const 
+ 3 %2 = add %0 %1
+  %3 = const 4
+  %4 = mul%3
+  %5 =  %egn
+4  %6 = const 50
+  et %7 = add %6%1 %5
+  ret %7
+
+// %1
+  %T: 30

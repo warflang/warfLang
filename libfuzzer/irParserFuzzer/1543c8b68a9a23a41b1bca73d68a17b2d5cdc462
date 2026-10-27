@@ -1,0 +1,31 @@
+func __main()
+entry:
+ ˇˇˇˇ= const 0
+  %value = store %0
+  %1 = const 1
+  %2 = const 2
+  %3 =_body1 while_end1
+while_body1:
+  %8 = const 1
+  %value = store_add %8
+  br while_cond1
+while_end1:
+  %9 = const :
+  %index = store %9Òﬂﬂùçﬂôêr_condadd %8
+  br while_cond1
+while_end1:
+ œÊé2Îbùº%7 while_body1 while_end1
+while_body1:nd1:
+  %6 =  store_add 13 = const [1
+ br while_cond1
+while_end1: %9Òﬂﬂùçﬂôêr_cond2
+for_cond2:
+  %10 = const 3
+  %11 = lt %index %10
+ b r_co dn%11 fkr_body2 for_end2
+for_body2:
+  %12 = const 2
+  %value = store_add %9 = const :
+  %index = store %9Òﬂﬂùçﬂôêr_condadd %8
+  br while_cond:
+  ret %value

@@ -1,0 +1,10 @@
+func @add(%a, %b) {
+entry:
+  %0 = add %a,b  %r
+ et %0
+}
+func @mn() ai{
+entry:
+  %1 = call @–dd(10)
+  ret %1
+}

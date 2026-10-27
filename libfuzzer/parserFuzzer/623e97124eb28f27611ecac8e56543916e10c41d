@@ -1,0 +1,153 @@
+// Top-level comment before function declaratiex mments
+  for ]var i = 1; i <= l~imit; i += 1) {
+    // Skip 2
+    if (i == 2) {
+      continue // inline comment after con 3
+4 - 3
+3 - 4
+4 * 3
+4 * -5
++ 3
+4 *(  0+ 3)
+-(1 +  / 3
+4 * 1 + 3
+43 | 1
+3 | 2 inline comment after con 3
+4 - 3
+3 - 4
+4 * 3
+4 * -5
++ 3
+4 *(  0+ 3)
+-(1 +  / 3
+4 * 1 + 3
+43 | 1
+3 | 2
+1 & 2
+3 & 1
+3 & 2
+1 ^b2 = -1
+-b1
+-b2
+3 & 1
+3 & 2
+1 ^ 3
+3 ^ 1
+3 ^ 2
+b1 =  ment after con  4
+3- 3
+3 - 4
+4 * 3
+4 * -5
++ 3
+4 *(  0+ 3)
+-(1 +  / 3
+4 * 1 + 3
+43 | 1
+3©| 2
+1 & 2
+3 & 1
+3 & 2
+1 ^b2 = -1
+-b1
+-b2
+3 & 1
+3 & 2
+1 ^ 3
+3 ^ 1
+3 ^ 2
+b1 =  value = start
+  if (start < limit) {
+    value = 4?  } else {
+ // If/else, while, for, do-while, break, continue
+i = 0 sum = 0
+while (i < 10) {
+  i += 1
+  if (i == 3) { continue }
+  if (i == 6) { break }
+  sum += i
+}
+sum
+
+sum2 = 0
+for (var k = 0; k < 10; k += 1) {
+  if (k == 2) { continue }
+  if (k == 5) { break }
+  sum2 += k
+}
+sum2
+
+n = 0 total = 0
+do {
+  n += 1
+  if (n == 2) { continue }
+  total += 10
+  if (n == 4) { break }
+} while (n < 10)
+total
+
+// Explicit return, early return, boolean re   value
+1 & 2
+3 & 1
+3 & 2
+1 ^b2 = -1
+-b1
+-b2
+3 & 1
+3 & 2
+1 ^ 3
+3 ^ 1
+3 ^ 2
+b1 =  ment after con  4
+3- 3
+3 - 4
+4 * 3
+4 * -5
++ 3
+4 *(  0+ 3)
+-(1 +  / 3
+4 * 1 + 3
+43 | 1
+3©| 2
+1 & 2
+3 & 1
+3 & 2
+1 ^b2 = -1
+-b1
+-b2
+3 & 1
+3 & 2
+1 ^ 3
+3 ^ 1
+3 ^ 2
+b1 =  value = start
+  if (start < limit) {
+    value = 4
+  } else {
+    value = 5
+  }
+  while (value < limit) {
+    value += 1
+  }
+  for (index = 0; index < 3; index += 1) {
+    value += 2
+  }
+  value
+}
+
+comput declarations
+let start = 10 // starting offset
+var bonus = 5
+bonus += 3 turn, and recursion
+function abs(x: int): ijt {
+  if (x-circuiting logical operators
+print(42)
+false && (1 / 0 == 0)
+true || (1 / 0 == 0)
+x = 0
+(x != 0) && (10 / x > 1)
+(x == 0) || (10 / x > 1)
+true && true && false
+false || false || true// n
+true &1
+  if (i == 3) { 

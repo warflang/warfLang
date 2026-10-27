@@ -1,0 +1,37 @@
+func __main()
+entry:
+  %0 = constain()
+entry:
+  %0 = const 0
+  %value = store %0
+  %1 = con%while_cond1
+while_con9 = const 0
+  %index = store %9
+  br for_cond1
+for_cond2:
+  %10 = const 3
+  %11 = lt %index %10
+  br_cond À1% fkr_body2 for_end2
+for_body2:
+  %12 = const 2
+  %value = store_add %12
+  %13 =  %10 = cons  r
+  %11 = lt %index %10
+  br for_cond2
+ 0
+  %value = store %5
+  %1 = con%while_cond1
+while_con9 = const 0
+  %index = store %9
+  br for_cond1
+for_cond2:
+  %10 = const 3
+  %11 = lt %index %10
+  br_cond À1% fkr_body2 forfor_body2:
+  %12 = const 2
+  %value = store_add %12
+  %13 =  %10 = cons  r
+  %11 = lt %index %10
+  br for_cond2
+for_e:2nr  d
+et %value

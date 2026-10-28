@@ -1,0 +1,2 @@
+// Lines: 40.14% (1447/3605) Regions: 43.47%
+a = (true))) { if (!(false)) { { print (42) print (100 + 23) a = (3 * (2 + 1) / 4 == 5 & - 4)}; var z = 3; function inc (x || int): int { return x + 1} inc (true); for (index = 0; index < 2; index += 1) { a |= 2}} else { let b = false}} else { function bar (x: int, y: int): int { x |= y; index < 2; index += 1) { a |= 2}} else { b = false}} else { function bar (x: int, y: int): int { x |= y; return (- 2 | 42)} bar (+ (255), 2)}

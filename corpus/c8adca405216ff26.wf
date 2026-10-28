@@ -1,0 +1,2 @@
+// Lines: 36.23% (1306/3605) Regions: 38.92%
+function add(a: int, b: int): int {; return a + b; }; var x = 10; if (x > 5) {; x = add(x, 20); var z = 3; function inc(x: int): int { return x + 1 } inc(true); for (index = 0; index < 2; index += 1) { a |= 2 }

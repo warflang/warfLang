@@ -1,20 +1,28 @@
 {
   "mode": "corpus",
   "total_runs": 423,
-  "corpus_size": 63,
-  "findings_count": 0,
+  "corpus_size": 99,
+  "findings_count": 1,
   "cumulative_coverage": {
-    "lines_covered": 3884,
+    "lines_covered": 3794,
     "lines_total": 21375,
-    "lines_percent": 18.17076023391813,
-    "regions_covered": 2262,
+    "lines_percent": 17.749707602339182,
+    "regions_covered": 2234,
     "regions_total": 7655,
-    "regions_percent": 29.54931417374265,
-    "branches_covered": 1394,
+    "regions_percent": 29.183540169823647,
+    "branches_covered": 1372,
     "branches_total": 2179,
-    "branches_percent": 63.97430013767783
+    "branches_percent": 62.96466268930702
   },
-  "best_single_program": "// If/else, while, for, do-while, break, continue\ni = 0 sum = 0\nwhile (i < 10) {\n  i += 1\n  if (i == 3) { continue }\n  if (i == 6) { break }\n  sum += i\n}\nsum\n\nsum2 = 0\nfor (var k = 0; k < 10; k += 1) {\n  if (k == 2) { continue }\n  if (k == 5) { break }\n  sum2 += k\n}\nsum2\n\nn = 0 total = 0\ndo {\n  n += 1\n  if (n == 2) { continue }\n  total += 10\n  if (n == 4) { break }\n} while (n < 10)\ntotal\n\n// Explicit return, early return, boolean return, and recursion\nfunction abs(x: int): int {\n  if (x < 0) {\n    return -x",
-  "best_single_coverage_percent": 34.674063800277395,
-  "findings": []
+  "best_single_program": "if (false) { a = foo (10) (255 >= ~(255)); index += 1) { b = value}} z += 1) { a = b}; if (var false == true)) { a -= a} else { value *= ~42}; function pair (a: boolean, b: int): { return a + b})} else { if ((0 != ~2)) { a -= 255} else { a *= 4}}) { function baz (x: int, y: int): int { x = x; return 10 0} baz ((a *= + 7), 4)} int; for (z = 0; { i = 0; index += 1 { b = value}}; index < 5; function foo (x: int, y: int): int { y /= (255 + x); function pair (a: int, b: int): { return a + b})} else { if ((0 != ~",
+  "best_single_coverage_percent": 32.95423023578363,
+  "findings": [
+    {
+      "kind": "differential",
+      "fingerprint": "5661fa1ef337c697",
+      "description": "Mismatch between `Warf --eval` ('3') and `WarfIR --run` ('253')",
+      "program": "a = 2; b = 3; value = 0; a |= -((b / 1)); function bar(x: int, y: int): int { let z = -42; return +(x) } bar(((-10 / b) ^ (b + value)), value); b &= (3 | a); i = 0; while (i < 3) { var b = (value - +3); i += 1 }; (b & 255)",
+      "details": "Emitted IR:\nfunc __main()\nentry:\n  %0 = const 2\n  %a = store %0\n  %1 = const 3\n  %b = store %1\n  %2 = const 0\n  %value = store %2\n  %3 = const 1\n  %4 = div %b %3\n  %5 = neg %4\n  %a = store_bor %5\n  %6 = const 10\n  %7 = neg %6\n  %8 = div %7 %b\n  %9 = add %b %value\n  %10 = xor %8 %9\n  %11 = call bar %10 %value\n  %12 = const 3\n  %13 = bor %12 %a\n  %b = store_band %13\n  %14 = const 0\n  %i = store %14\n  br while_cond0\nwhile_cond0:\n  %15 = const 3\n  %16 = lt %i %15\n  br_cond %16 while_body0 while_end0\nwhile_body0:\n  %17 = const 3\n  %18 = copy %17\n  %19 = sub %value %18\n  %b = store %19\n  %20 = const 1\n  %i = store_add %20\n  br while_cond0\nwhile_end0:\n  %21 = const 255\n  %22 = band %b %21\n  ret %22\n\nfunc bar(%x, %y)\nentry:\n  %0 = const 42\n  %1 = neg %0\n  %z = store %1\n  %2 = copy %x\n  ret %2\n"
+    }
+  ]
 }

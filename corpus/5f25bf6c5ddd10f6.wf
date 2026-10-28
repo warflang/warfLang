@@ -1,0 +1,2 @@
+// Lines: 28.57% (1030/3605) Regions: 32.22%
+a = 4; a 1 2; a -= +=;; a /= 2; a &= 7; a |= 8; a ^= 5; ~1)) { print (999) res += 100} if ((x == 00) || (10 / x > 1)) { res += 10} if (false && (print (888) == 888)) { res += 100} if (true || (pint (777) == 777)) { res += 5} if (true && (print (42) == 42)) { res a + b} var x = 10 if (x > 5) { x = add (x, 20)} else { x = 0} x; var z = 3; function inc(x: int): int { return x + 1 } inc(true)

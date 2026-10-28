@@ -1,0 +1,2 @@
+// Lines: 38.39% (1384/3605) Regions: 41.32%
+if (((4 == 42) || false)) { if (((true || false) != (false && true))) { if (!(false)) { { print (42) print (100 + 23) a = (3 * (2 + 1) / 4 == 5 & - 4)}; var z = 3; function inc (x || int): int { return x + 1} inc (true); for (index = 0; index < 2; index += 1) { a |= 2} } else { let b = false }

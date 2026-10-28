@@ -1,0 +1,2 @@
+// Lines: 30.29% (1092/3605) Regions: 33.89%
+var x = 0 var res = 0 if ((x != 0) && (10  x > 1)) { print (999) res += 100} if ((x == 00) || (10 / x > 1)) { res += 10} if (false && (print (888) == 888)) { res += 100} if (true || (pint (777) == 777)) { res += 5} if (true && (print (42) == 42)) { res a + b} var x = 10 if (x > 5) { x = add (x, 20)} else { x = 0} x; var z = 3

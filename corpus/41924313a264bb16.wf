@@ -1,0 +1,2 @@
+// Lines: 36.53% (1317/3605) Regions: 39.27%
+a = 1; b = 10; value = 0; for (z = 0; z < 3; z += 1) { b ^= value }; let y = b; function abs(x: int, y: int): int { if ((0 < 0)) { x ^= 42 } else { y = y }; return (y /= x) } abs(((b *= -10) / (7 & 4)), ~((0 ^ 42))); ((value &= 42) * -(2))

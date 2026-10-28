@@ -1,0 +1,2 @@
+// Lines: 23.02% (830/3605) Regions: 26.31%
+function compute(start, limit) {; value = start; if (start < limit) {; value = 4; (0 & ~(4)); for (index = 0; index < 1; index += 1) { b |= b }

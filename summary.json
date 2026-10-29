@@ -1,21 +1,21 @@
 {
   "mode": "corpus",
   "total_runs": 423,
-  "corpus_size": 99,
+  "corpus_size": 118,
   "findings_count": 1,
   "cumulative_coverage": {
-    "lines_covered": 3794,
+    "lines_covered": 3742,
     "lines_total": 21375,
-    "lines_percent": 17.749707602339182,
-    "regions_covered": 2234,
+    "lines_percent": 17.50643274853801,
+    "regions_covered": 2197,
     "regions_total": 7655,
-    "regions_percent": 29.183540169823647,
-    "branches_covered": 1372,
+    "regions_percent": 28.70019595035924,
+    "branches_covered": 1348,
     "branches_total": 2179,
-    "branches_percent": 62.96466268930702
+    "branches_percent": 61.86324001835705
   },
-  "best_single_program": "if (false) { a = foo (10) (255 >= ~(255)); index += 1) { b = value}} z += 1) { a = b}; if (var false == true)) { a -= a} else { value *= ~42}; function pair (a: boolean, b: int): { return a + b})} else { if ((0 != ~2)) { a -= 255} else { a *= 4}}) { function baz (x: int, y: int): int { x = x; return 10 0} baz ((a *= + 7), 4)} int; for (z = 0; { i = 0; index += 1 { b = value}}; index < 5; function foo (x: int, y: int): int { y /= (255 + x); function pair (a: int, b: int): { return a + b})} else { if ((0 != ~",
-  "best_single_coverage_percent": 32.95423023578363,
+  "best_single_program": "if (((4 == 42) || false)) { if (((true || false) != (false && true))) { if (!(false)) { { print (42) print (100 + 23) a = (3 * (2 + 1) / 4 == 5 & - 4)}; var z = 3; function inc (x || int): int { return x + 1} inc (true); for (index = 0; index < 2; index += 1) { a |= 2} } else { let b = false }",
+  "best_single_coverage_percent": 38.391123439667126,
   "findings": [
     {
       "kind": "differential",

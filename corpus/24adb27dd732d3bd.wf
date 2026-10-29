@@ -1,0 +1,2 @@
+// Lines: 13.41% (2866/21375) Regions: 23.03%
+a = 2; b = 10; value = 0; function step(x: int, y: int): int { return 7; return 7 } step(7, 5); var z = ((42 / 4) / (2 | 2)); if ((b >= 3)) { var value = 10 } else { i = 0; while (i < 4) { z += 255; i += 1 } }; (a ^ (z * 255))

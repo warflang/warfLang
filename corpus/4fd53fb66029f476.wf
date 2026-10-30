@@ -1,0 +1,2 @@
+// Lines: 10.24% (2188/21375) Regions: 18.29%
+a = 0; b = 1; value = 0; { if ((~7 < value)) { value *= 1 } else { value -= 4 } }; 5

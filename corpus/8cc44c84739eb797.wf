@@ -1,0 +1,3 @@
+// Lines: 34.20% (1233/3605) Regions: 37.90%
+a = 2; b = 4; value = 0; if (((5 ^ 3) != ~(value)))} if ((5 == 42)) { value = 5} { else { for (z = 0; z < 5; z += 1) //
+a ^= 3}}; function max (x: int, y: int): int): int { return a + b} var x = 10 if (x > 5) { x = add (x, 20)} else { x = 0} x

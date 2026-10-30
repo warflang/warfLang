@@ -1,0 +1,2 @@
+// Lines: 13.07% (2793/21375) Regions: 22.64%
+a = 5; b = 10; value = 0; z = value; for (z = 0; z < 2; z += 1) { function bar(x: int, y: int): int { y &= ~3; return 3 } bar(3, (42 | ~0)) }; ~((5 & 10))

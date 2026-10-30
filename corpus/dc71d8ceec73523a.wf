@@ -1,0 +1,2 @@
+// Lines: 24.69% (890/3605) Regions: 27.29%
+{ a = (clampPositive (x: int): int { if (x < 0) { return 0} return x} fib (7) + clampPositive (- 5) + clampPositive (8) |=; 1 ? 2

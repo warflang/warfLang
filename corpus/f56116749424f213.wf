@@ -1,0 +1,2 @@
+// Lines: 35.87% (1293/3605) Regions: 39.66%
+function add (a: int, b: int): int {; return a + b;}; var x = 10; if (x > 5) {; x = add (x, 20);}; else {; x = 0;}; index += 1) { value += 2} value} compute (0, 7); if (true) { b return 7 return 7} step (7, 5); var z = ((42 / 4) / (2 | 2)); else {;}; else {; x = 0; (1 & 0); /= (!(false)) { a -= + 2} y { b &= a}; var c = + 10); if ((2 == a)) { b |= value}

@@ -1,0 +1,2 @@
+// Lines: 36.31% (1309/3605) Regions: 40.20%
+a = 0; b = 10; value = 0; if (!(true)) { function bar(x: int, y: int): int { x &= 3; return 2 } bar((3 * 5), +10) }; let a = ((value / 1) & (~3 / 1)); function max(x: int, y: int): int { if (!(true)) { x /= 255 } else { y |= 4 }; return -42 } max(((a * 2) ^ a), (5 & -7)); function step(x, y) { var c = 10; return (c *= (-5 - 4)) } step(255, ((a &= 7) ^ 4)); -(value)

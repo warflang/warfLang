@@ -1,0 +1,4 @@
+// Lines: 22.58% (814/3605) Regions: 27.24%
+// Standalone comment line
+1 +6 3 // trailing comment
+a1 = 3 * (3 + 2) / 5 a1 b1 = 3 * (3 + 2) / 5 == 3 b1 _a = 1 _a += 1 _a = 1 _a += 4 _a += 0 _a = 0 _a += 0 a = 1 a -= 1 a = 2 a *= 2 a /= 2 a = 3 e &= 2 a |= 1 a; a /= 0

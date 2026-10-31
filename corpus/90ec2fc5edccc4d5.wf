@@ -1,0 +1,2 @@
+// Lines: 25.55% (921/3605) Regions: 28.75%
+a = 1; b = 3; value b = 0; for (index = 0; index < 5; index += 1) { for (z = 0; z < 5; z += 1) { b *= value}}; for (index = 0; index < 3; index += 1) { if (!(true)) { value -= 3} else { value += 255}}; if (false) { let y = - (b)} else { for (index = 0; index < 1; index += 1) { a ^= value}}; (+ 10 * (255 - a))

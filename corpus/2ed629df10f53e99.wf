@@ -1,0 +1,2 @@
+// Lines: 29.07% (1048/3605) Regions: 33.20%
+if (((4 == 42) || false)) { if (((true || false) != (false && true))) { if (!(false)) { { print (42) print (100 + 23) a = (3 * (2 + 1) / 4 == 5 & - 4)}; // but a brace-delimited block is buffered across lines as a single statement.

@@ -1,0 +1,2 @@
+// Lines: 28.49% (1027/3605) Regions: 31.69%
+a = 2; }; var x = 10; if (x > 5) {; x = add(x, 20); }; if (x > 5) {; x = add(x, 20); }; else {; x = 0; }; x; 1 == true

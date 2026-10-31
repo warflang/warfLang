@@ -1,0 +1,2 @@
+// Lines: 28.77% (1037/3605) Regions: 31.74%
+if ((0 != b)) { function add (a: int, b: int): int {; return a + b; }; var x = 10; if (x > 5) {; x = add (x, 20); }; else {; x = 0; }; value = 0; b = 4; value = 0; if (((5 ^ 3) != ~(value))) { if ((5 == 42)) { value = 5}} else { for (z = 0; z < 5; z += 1) { a ^= 3}}; function max (x: int, y: int): int 1 (42 * 10) ^ b), value); index = 0; x = add (x, 20); z < 5; z += 1) { a ^= 3}}; function max (x: int, y: int): int { y |= else; return (x / & 255)} max ((1 (42 * 10) ^ b), value); index = 0; b = 4; } else {;

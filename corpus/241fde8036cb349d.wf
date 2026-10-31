@@ -1,0 +1,2 @@
+// Lines: 32.43% (1169/3605) Regions: 36.23%
+a = 0; b = 3; value = 0; if (!(false)) { if ((value != 7)) { value *= 5 } } else { if ((2 > 4)) { a /= 3 } else { value ^= b } }; z < 5; z += 1) { a ^= 3 } }; function max(x: int, y: int): int { y |= y; return (x / +255) } max(((42 * 10) ^ b), value); index = 0; while (index < 1) { function foo(x, y) { x ^= x; return 255 } foo(255, 255); index += 1 }; -((a + 4))

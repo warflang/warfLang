@@ -1,0 +1,2 @@
+// Lines: 11.64% (2488/21375) Regions: 20.46%
+function add(a: int, b: int): int {; }; var x = 10; if (x > 5) {; x = add (x, 20); }

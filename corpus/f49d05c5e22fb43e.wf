@@ -1,0 +1,3 @@
+// Lines: 26.85% (968/3605) Regions: 30.17%
+a = 0; b = 3; value = 0; c = 0; while (c < 2) { i = 0; while //
+i < 1) { b |= 4; i += 1}; c += 1}; var res = (255 >= ~(255)); { for (index = 0; index < 5; index += 1) { b = value}}; ((value = a) ^ res)

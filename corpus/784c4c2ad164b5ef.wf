@@ -1,0 +1,2 @@
+// Lines: 14.95% (539/3605) Regions: 18.24%
+function add (a: int, b: int): int { return

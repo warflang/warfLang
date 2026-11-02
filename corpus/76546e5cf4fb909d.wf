@@ -1,0 +1,2 @@
+// Lines: 33.51% (1208/3605) Regions: 36.33%
+if (((true && true) || true)) { function add (a += int, b: int): int {; return a + b; }; var x = 10; if (x > 5) {; x = add (x, 20); return a + b; }; var x = 10; if (x > 5) {; x = add(x, 20); x = 0; }; x } else { if ((false != true)) { b = value } else { value += 3 } }

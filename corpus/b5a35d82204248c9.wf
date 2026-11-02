@@ -1,0 +1,2 @@
+// Lines: 9.86% (2108/21375) Regions: 17.56%
+a = 5; b = 4; value = 0; let _a = 5; c = 0; while (c < 4) { { value -= a }; c += 1 }; value

@@ -1,0 +1,2 @@
+// Lines: 18.78% (677/3605) Regions: 22.44%
+n = 2; b = 4;} else {; // but a brace-delimited block is buffered across lines as a single statement.

@@ -1,0 +1,2 @@
+// Lines: 35.42% (1277/3605) Regions: 39.80%
+a = 2; b = 10; value = 0; function clamp(x, y) { x = (10 * y); return ~0 } clamp(1, ((42 + b) / +(0))); a /= (b -= (b += 0)); function foo(x, y) { if ((true || false)) { x ^= 4 } else { y *= y }; return ~(42) } foo((value *= (a + -7)), (b |= (+255 * 1))); +(+(-255))

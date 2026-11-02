@@ -1,0 +1,2 @@
+// Lines: 34.37% (1239/3605) Regions: 36.97%
+if (((1 != 4) && true)) { a = 0; b = 3 value = 0, for (index = 0; index < 3; index += 1) { function baz (x: int, y: int): int { x = x; return a + b;}; var x = 10;} (count == 2) { continue} total += 10} while (count < 3) return total} computeLoopControl (10)

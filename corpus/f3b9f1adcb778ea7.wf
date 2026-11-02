@@ -1,0 +1,2 @@
+// Lines: 14.90% (3185/21375) Regions: 25.11%
+a = 1; b = 10; value = 0; var x = (value >= (~255 | 255)); for (index = 0; index < 3; index += 1) { b *= 10 }; if (!((~10 == 255))) { function foo(x: int, y: int): int { x |= y; return ~42 } foo(7, +(4)) } else { { x &= 10 } }; ((a ^ +1) - (-3 - 5))

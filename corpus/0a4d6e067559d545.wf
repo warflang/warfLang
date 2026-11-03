@@ -1,0 +1,2 @@
+// Lines: 28.49% (1027/3605) Regions: 31.39%
+; for (index = 0; index < 2; index += 1) { a |= 2}} else { let b =}} else { if (true) { value 5}} ele { for (z = 0; b < 5; z += 1) { a ^= 3}}; function}; for (index = 0; index <

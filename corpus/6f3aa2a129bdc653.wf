@@ -1,0 +1,2 @@
+// Lines: 9.68% (2069/21375) Regions: 17.49%
+value = 0; for (index = 0; index < 3; index += 1) { value += 2 }; value

@@ -1,0 +1,2 @@
+// Lines: 21.58% (778/3605) Regions: 25.13%
+function add (a: int, b: int): int { return a + b + 2 function foo (arg) { arg foo} &= (10); function inc (x: int): int { return x + 1} inc (true); 1 ? 2

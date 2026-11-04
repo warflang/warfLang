@@ -1,18 +1,18 @@
 {
   "mode": "corpus",
   "total_runs": 423,
-  "corpus_size": 223,
+  "corpus_size": 246,
   "findings_count": 1,
   "cumulative_coverage": {
-    "lines_covered": 3726,
+    "lines_covered": 3761,
     "lines_total": 21375,
-    "lines_percent": 17.431578947368422,
-    "regions_covered": 2195,
+    "lines_percent": 17.5953216374269,
+    "regions_covered": 2215,
     "regions_total": 7655,
-    "regions_percent": 28.6740692357936,
-    "branches_covered": 1364,
+    "regions_percent": 28.935336381450032,
+    "branches_covered": 1371,
     "branches_total": 2179,
-    "branches_percent": 62.597521798990364
+    "branches_percent": 62.91877007801744
   },
   "best_single_program": "if (((4 == 42) || false)) { if (((true || false) != (false && true))) { if (!(false)) { { print (42) print (100 + 23) a = (3 * (2 + 1) / 4 == 5 & - 4)}; var z = 3; function inc (x || int): int { return x + 1} inc (true); for (index = 0; index < 2; index += 1) { a |= 2} } else { let b = false }",
   "best_single_coverage_percent": 38.391123439667126,

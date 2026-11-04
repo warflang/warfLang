@@ -1,0 +1,2 @@
+// Lines: 25.35% (914/3605) Regions: 29.34%
+if (((7 | 10) < - (1)) 4 { a = 2; b =); value; value =; i += 1) {; // Skip 2; if (i == 2) {; continue // inline comment after continue; }; acc += i // add current index; }; // Return final value; return acc; }; // Multi-line expressions and variable declarations; let start = 10 // starting offset; var bonu

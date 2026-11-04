@@ -1,0 +1,2 @@
+// Lines: 37.39% (1348/3605) Regions: 41.08%
+a = 2; b = 1; value = 0; function max(x: int, y: int): int { for (z = 0; z < 5; z += 1) { x += x }; return ((4 + y) + ~3) } max(((b + b) - +(7)), (-0 + (a - 255))); for (index = 0; index < 1; index += 1) { if ((false == true)) { b |= a } }; function clamp(x: int, y: int): int { if ((false || true)) { x -= x } else { y *= x }; return (x -= (y ^= y)) } clamp(4, ((a /= ~4) * 4)); ~(~(5))

@@ -1,0 +1,2 @@
+// Lines: 11.02% (2355/21375) Regions: 19.54%
+a = 5; b = 3; value = 0; if (((true == true) == (false == false))) { b &= 42 } else { for (index = 0; index < 4; index += 1) { value -= 42 } }; if (true) { b += 1 }; { b /= (4 | 255) }; 4

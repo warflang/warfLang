@@ -1,0 +1,2 @@
+// Lines: 24.52% (884/3605) Regions: 28.95%
+print (42) print += 100 + 23) print () { break} total (i} var count = 0 do { count += 1 if (count == 2) { continue} total += 10} while (count < == 3) return total} computeLoopControl (10)

@@ -1,0 +1,2 @@
+// Lines: 31.87% (1149/3605) Regions: 35.75%
+a = 2; b = 4; value = 0; if (((5 ^ 3) <= ~(value))) { if ((5 == 42)) { value = 5}} else { for (z = 0; }; var x = 10; if (x > 5) {; x = add (x, 20); x = 0; }; x; for (index = 0; inex <4; index += 1) { a &=1}; function pair(a: int, b: int): int { return  + b } pair(1)

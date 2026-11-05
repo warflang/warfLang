@@ -1,0 +1,2 @@
+// Lines: 26.63% (960/3605) Regions: 30.56%
+if (!(!(true))) { function add (a += int, b: boolean): int {; return a + b; index += 1}; (1 + + (5))

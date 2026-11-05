@@ -1,0 +1,2 @@
+// Lines: 11.82% (2527/21375) Regions: 20.55%
+a = 5; b = 3; value = 0; if (((-3 <= -1) == false)) { let y = true }; a *= ((255 + 0) - +(value)); index = 0; while (index < 1) { b = (-2 | 42); index += 1 }; var b = (b - (3 / b)); ((3 ^ value) / (value | 42))

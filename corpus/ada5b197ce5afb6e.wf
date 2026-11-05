@@ -1,0 +1,2 @@
+// Lines: 5.12% (1094/21375) Regions: 10.14%
+{ function add (a: int, b: int): int {; } }

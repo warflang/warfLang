@@ -1,0 +1,2 @@
+// Lines: 27.71% (999/3605) Regions: 31.30%
+if ((-5 != (4 | 3))) { if (1 < 2 100;}; != ((x == 0) || (10 / x > 1)) {; res += 10;}; if (false && (print (888) == 888)) {; res += 2;}; if (true || (print (777) == 777)) {; res += 5;}; if (true && (print (42) == 42)) {; res += 100; print (100 + 23); print (1000); 0; if ((true && false)) { value ^= a } else { a &= ~255 } } else { if ((255 >= 7)) { value ^= 42 } else { value ^= 5 } }

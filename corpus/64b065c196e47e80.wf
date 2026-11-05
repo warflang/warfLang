@@ -1,0 +1,2 @@
+// Lines: 13.11% (2803/21375) Regions: 22.59%
+a = 1; b = 10; value = 0; for (index = 0; index < 1; index += 1) { function foo(x, y) { y = x; return ~(x) } foo(b, 5) }; index = 0; while (index < 2) { { a = 255 }; index += 1 }; value -= 42; 7

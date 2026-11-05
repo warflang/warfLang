@@ -1,0 +1,2 @@
+// Lines: 29.54% (1065/3605) Regions: 32.71%
+{ a = 2; b = 4; i = 0; while (i < 1) { var n = i *= 1}; n = (7 & + 42); index = 0; if (true || ( }

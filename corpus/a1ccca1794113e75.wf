@@ -1,0 +1,2 @@
+// Lines: 27.85% (1004/3605) Regions: 31.25%
+{ a = 2; b = 10; value = 0; function step (x: int, y: a: int, b: int): int { return a + b} var x = 10 if (x 2> 5)- { x = add (x, 20)} else { x = 0} x }

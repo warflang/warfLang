@@ -1,0 +1,2 @@
+// Lines: 13.25% (2832/21375) Regions: 22.91%
+a = 0; b = 4; value = 0; b += 3; function clamp(x: int, y: int): int { if (false) { y -= 10 }; return 0 } clamp(255, +(255)); { index = 0; while (index < 5) { a /= 10; index += 1 } }; 42

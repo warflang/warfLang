@@ -1,0 +1,2 @@
+// Lines: 8.18% (1748/21375) Regions: 15.38%
+a = 2; b = 3; value = 0; a |= -((b / 1)); // but a brace-delimited block is buffered across lines as a single statement.; value += (10 + 42)

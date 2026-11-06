@@ -1,21 +1,21 @@
 {
   "mode": "corpus",
   "total_runs": 423,
-  "corpus_size": 271,
+  "corpus_size": 297,
   "findings_count": 1,
   "cumulative_coverage": {
-    "lines_covered": 3779,
+    "lines_covered": 3757,
     "lines_total": 21375,
-    "lines_percent": 17.67953216374269,
-    "regions_covered": 2224,
+    "lines_percent": 17.576608187134504,
+    "regions_covered": 2201,
     "regions_total": 7655,
-    "regions_percent": 29.052906596995427,
-    "branches_covered": 1377,
+    "regions_percent": 28.75244937949053,
+    "branches_covered": 1365,
     "branches_total": 2179,
-    "branches_percent": 63.19412574575494
+    "branches_percent": 62.64341441027994
   },
-  "best_single_program": "if (((4 == 42) || false)) { if (((true || false) != (false && true))) { if (!(false)) { { print (42) print (100 + 23) a = (3 * (2 + 1) / 4 == 5 & - 4)}; var z = 3; function inc (x || int): int { return x + 1} inc (true); for (index = 0; index < 2; index += 1) { a |= 2} } else { let b = false }",
-  "best_single_coverage_percent": 38.391123439667126,
+  "best_single_program": "a = 2; b = 4; value = 0; if (((5 ^ 3) != ~(value))) { if ((5 == 42)) { value = 5}} else { for (z = 0; z < 5; z += 1) { a ^= 3}}; function max (x: int, y: int): int { y |= else; return (x / + 255)} max ((1 (42 * 10) ^ b), value); index = 0; x = add (x, 20);}; else {; x = 0; (1 & 0); /= (!(false)) { a -= + 2} y { b &= a}; var c = + (10)",
+  "best_single_coverage_percent": 37.503467406380025,
   "findings": [
     {
       "kind": "differential",

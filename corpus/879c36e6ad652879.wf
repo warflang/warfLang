@@ -1,0 +1,2 @@
+// Lines: 20.78% (749/3605) Regions: 24.74%
+{ a = 2; b = 10; value = 0; return acc; }; // Multi-line expressions and variable declarations; let start = 10 // starting offset; var bonu

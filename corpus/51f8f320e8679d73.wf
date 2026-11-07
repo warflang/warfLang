@@ -1,0 +1,2 @@
+// Lines: 7.89% (1687/21375) Regions: 14.81%
+a = 1; b = 3; value = 0; let n = ((255 * value) & 1); i = 0; // Return final value; return acc; }; // Multi-line expressions and variable declarations; let start = 10 // starting offset; var bonu; if (true) { a /= b }

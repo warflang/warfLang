@@ -1,0 +1,2 @@
+// Lines: 26.21% (945/3605) Regions: 29.88%
+a = 1; b = 4; value = 0; for (z = 0; z < 3; z += 1) { { a += b } }; index = 0; while (index < 5) { { value = 4 }; continue // inline comment after cFontinue; }; acc += i // add current index; }; // Return fina

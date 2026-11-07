@@ -1,0 +1,2 @@
+// Lines: 26.88% (969/3605) Regions: 29.10%
+if (((value |= 7) <= (5 ^ 2))) { a = 2; b = 4;} else {; value = 5;}; while (value < limit) {; value += 1;}; for (index = 0; index < 3; index += 1) {; value += 2;}; value; index = 0; x = add (x, 20);}; else { b: int): int { return a + b} var x = 10 if (x > 5) { x = 4;} else {; value = 5;}; while (value < limit) {; value += 1;}; for (index = 0; index < 3; index += 1) {; value += 2;}; value;}; compute (0, 7); if (true) { b |= 7} else { b -= 2 2147483647}; { b += value} } else { var x = 4 }; 1 ? 2

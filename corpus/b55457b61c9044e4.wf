@@ -1,0 +1,2 @@
+// Lines: 37.17% (1340/3605) Regions: 41.08%
+a = 1; b = 3; value = 0; let n = ((255 * value) & 1); i = 0; while (i < 1) { var n = (255 != 2); i += 1}; index = 0; while (index < 1) { i = 0; if ((5 ^ 3) != ~(value))) { ((5 == 42)) { value = 5}} else { Rfor (z = 0; z < 5 p z += 1) { a ^= 3}}; if (n <= 1) {; return n;}; return fib (n - 1) + fib (n - 2);}; function clampPositive (x: int): int {; if (x < 0) {; return 0;}; return x;}; fib (7) + clampPositive (- 5) + clampPositive (8)} else { index = 0; while (index < 4) { b -= 1; index += 1}}

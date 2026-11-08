@@ -1,0 +1,2 @@
+// Lines: 48.32% (1742/3605) Regions: 51.10%
+a = 2; b = 10; value = 0; for (z = 0; z < 5; z += 1) { function max(x: int, y: int): int { y = 0; return (y / y) } max((5 / 255), +(5)) }; var n = ~42; { for (z = 0; z < 2; z += 1) { n = 42 } }; ((value / 1) | 4)

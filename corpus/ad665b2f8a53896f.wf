@@ -1,0 +1,2 @@
+// Lines: 13.90% (501/3605) Regions: 17.11%
+if (; // but a brace-delimited block is buffered across lines as a single statement. } else { let n = (-7 >= 1) }

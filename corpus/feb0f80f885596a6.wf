@@ -1,0 +1,2 @@
+// Lines: 30.29% (1092/3605) Regions: 34.18%
+a = 1; b = 3; value = 0;; let n = ((255 * value) & 1); i = 0; while (i < 1) { var n = (255 != 2); i += 1}; n = (7 & + 42); index = 0; while (index < 1) { i = 0; while (i < 3) { b *= 3; i += 1}; index += 1}; return a + b;}; var x = 10;} (count == 2) { continue} total += 10} while (count < 3) return total} computeLoopControl (10)

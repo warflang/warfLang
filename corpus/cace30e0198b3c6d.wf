@@ -1,0 +1,2 @@
+// Lines: 28.71% (1035/3605) Regions: 31.69%
+a = 1; b = 3; value = 0; let n = ((255 * value) & 1); i = 0; while (i < 1) { var n = (255 != 2); if (i == 2) {; continue; }; if (i == 6) {; break; }; : += i; }; var count = 0; if (((5 ^ 3)

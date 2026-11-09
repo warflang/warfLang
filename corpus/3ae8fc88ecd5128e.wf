@@ -1,0 +1,2 @@
+// Lines: 22.36% (806/3605) Regions: 25.57%
+{ function computeLoopControl (limit: int): int {; var total = 0; for (var i = 0; i < limit; i += 1) 4; value =; i += 1) {; // Skip 2; if (i == 2) {; continue // inline comment after continue; }; acc += i // add current index; }; // Return final value; return acc; }; // Multi-line expressions and variable declarations; let start = 10 // startingoffset; var bonu

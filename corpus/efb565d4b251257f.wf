@@ -1,0 +1,2 @@
+// Lines: 30.57% (1102/3605) Regions: 34.03%
+a = 2; b = 4; value = 0; if (((5 ^ 3) <= ~(value))) { if ((5 == 42)) { value = 5}} else { for (z = 0; i = 0; while (i < 1) { var n = (255 != 2); i += 1}; n = (7 & + 42); index = 0; while (index < 1) { i = 0; while (i < 3) { b *= 3; i += 1}; index += 1}; (1 + + (5)); let x = (255 | 3)

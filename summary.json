@@ -1,18 +1,18 @@
 {
   "mode": "corpus",
   "total_runs": 423,
-  "corpus_size": 347,
+  "corpus_size": 374,
   "findings_count": 1,
   "cumulative_coverage": {
-    "lines_covered": 3743,
+    "lines_covered": 3836,
     "lines_total": 21375,
-    "lines_percent": 17.51111111111111,
-    "regions_covered": 2189,
+    "lines_percent": 17.946198830409358,
+    "regions_covered": 2233,
     "regions_total": 7655,
-    "regions_percent": 28.59568909209667,
-    "branches_covered": 1349,
+    "regions_percent": 29.170476812540823,
+    "branches_covered": 1380,
     "branches_total": 2179,
-    "branches_percent": 61.90913262964662
+    "branches_percent": 63.33180357962368
   },
   "best_single_program": "a = 2; b = 4; value = 0; if (((5 ^ 3) != ~(value))) { if ((5 == 42)) { value = 5}} else { for (z = 0; z < 5; z += 1) { a ^= 3}}; function max (x: int, y: int): int { y |= else; return (x / + 255)} max ((1 (42 * 10) ^ b), value); index = 0; x = add (x, 20);}; else {; x = 0; (1 & 0); /= (!(false)) { a -= + 2} y { b &= a}; var c = + (10)",
   "best_single_coverage_percent": 37.503467406380025,

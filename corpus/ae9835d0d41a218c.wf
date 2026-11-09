@@ -1,0 +1,2 @@
+// Lines: 10.67% (2281/21375) Regions: 18.86%
+a = 0; b = 1; value = 0; c = 0; while (c < 3) { if (!(true)) { value -= value }; c += 1 }; +(b)

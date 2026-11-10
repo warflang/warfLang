@@ -1,0 +1,2 @@
+// Lines: 14.71% (3145/21375) Regions: 24.98%
+a = 2; b = 4; value = 0; a = ((~3 * 4) ^ (2 ^ value)); b -= 1; function abs(x: int, y: int): int { for (z = 0; z < 2; z += 1) { y += 42 }; return -((x & 255)) } abs(5, value); index = 0; while (index < 3) { if ((false && false)) { b /= value } else { b /= 42 }; index += 1 }; (+(7) & (7 + 5))

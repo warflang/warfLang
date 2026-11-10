@@ -1,0 +1,2 @@
+// Lines: 38.06% (1372/3605) Regions: 41.56%
+a = 5; b = 3; value = 0; if (((true || true) != (2 >= 255))) { let a = 5 } else { if ((true != true)) { b ^= ~1 } }; index = 0; while (index < 4) { value &= (value ^= +5); index += 1 }; value += ((5 * 7) / (b | value)); function step(x: int, y: int): int { if (false) { y += 0 } else { y -= 10 }; return y } step(b, -((0 * 5))); a

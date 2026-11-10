@@ -1,0 +1,2 @@
+// Lines: 24.02% (866/3605) Regions: 27.38%
+1 ?; while (index < 1) { function foo (x, y) { x ^= x; return 255} foo (255, 255); a &= (0 | 10)}; a ^= 5

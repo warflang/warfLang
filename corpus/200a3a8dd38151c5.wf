@@ -1,0 +1,2 @@
+// Lines: 32.65% (1177/3605) Regions: 36.14%
+{ a = 5; b = 1; value = 0; for (index = 0; index < 4; += 1) { value = true}; function bar (x: int, y: int): int { return y x += y))} bar ((b |= b), 2); for (index = 0; value = 0; z = value; for (z = 0; z < 2; z += 1) { function bar (x: bool, y: int): int { y &= ~3; r:eturn 3} bar (3, (42 | ~0))}; ~((5 & 10))

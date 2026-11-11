@@ -1,0 +1,2 @@
+// Lines: 12.43% (2657/21375) Regions: 21.84%
+a = 0; b = 1; value = 0; if ((1 < (value * value))) { function max(x: int, y: int): int { x -= 2; return y } max(value, 10) } else { let res = (true == true) }; value

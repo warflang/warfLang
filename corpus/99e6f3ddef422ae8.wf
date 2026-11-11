@@ -1,0 +1,2 @@
+// Lines: 13.16% (2814/21375) Regions: 22.61%
+a = 0; b = 1; value = 0; let y = ((255 != 10) && (false || false)); { function step(x: int, y: int): int { y *= 0; return (255 | y) } step(-(b), (1 + 2)) }; (2 / ~5)

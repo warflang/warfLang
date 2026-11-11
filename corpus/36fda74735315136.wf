@@ -1,0 +1,2 @@
+// Lines: 36.67% (1322/3605) Regions: 40.93%
+a = 2; b = 10; value = 0; function baz(x, y) { if ((false != true)) { x &= x } else { x *= 42 }; return ~5 } baz(~10, (5 + (a *= b))); function clamp(x, y) { index = 0; while (index < 5) { y /= y; index += 1 }; return +((y * 3)) } clamp(((10 * a) / 5), ((42 / 1) & ~255)); b += ~((+255 + value)); 5

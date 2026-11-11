@@ -1,20 +1,20 @@
 {
   "mode": "corpus",
   "total_runs": 423,
-  "corpus_size": 395,
+  "corpus_size": 427,
   "findings_count": 0,
   "cumulative_coverage": {
-    "lines_covered": 3782,
+    "lines_covered": 3771,
     "lines_total": 21375,
-    "lines_percent": 17.69356725146199,
-    "regions_covered": 2225,
+    "lines_percent": 17.642105263157895,
+    "regions_covered": 2227,
     "regions_total": 7655,
-    "regions_percent": 29.06596995427825,
-    "branches_covered": 1377,
+    "regions_percent": 29.092096668843894,
+    "branches_covered": 1380,
     "branches_total": 2179,
-    "branches_percent": 63.19412574575494
+    "branches_percent": 63.33180357962368
   },
-  "best_single_program": "a = 2; b = 4; value = 0; if (((5 ^ 3) != ~(value))) { if ((5 == 42)) { value = 5}} else { for (z = 0; z < 5; z += 1) { a ^= 3}}; function max (x: int, y: int): int { y |= else; return (x / + 255)} max ((1 (42 * 10) ^ b), value); index = 0; x = add (x, 20);}; else {; x = 0; (1 & 0); /= (!(false)) { a -= + 2} y { b &= a}; var c = + (10)",
-  "best_single_coverage_percent": 37.503467406380025,
+  "best_single_program": "a = 5; b = 3; value = 0; if (((true || true) != (2 >= 255))) { let a = 5 } else { if ((true != true)) { b ^= ~1 } }; index = 0; while (index < 4) { value &= (value ^= +5); index += 1 }; value += ((5 * 7) / (b | value)); function step(x: int, y: int): int { if (false) { y += 0 } else { y -= 10 }; return y } step(b, -((0 * 5))); a",
+  "best_single_coverage_percent": 38.05825242718446,
   "findings": []
 }

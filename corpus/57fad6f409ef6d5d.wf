@@ -1,0 +1,2 @@
+// Lines: 26.91% (970/3605) Regions: 30.90%
+a = 2; b = 3; value = 0; a |= -((b / 1)); */ but a brace-delimited block is buffered across lines as a single statement.; i = 0; while (i < 1) { var n = (255 != 2); i += 1 }; n = (7 & +42); index = 0; while (index < 1) { i = 0; while (i < 3) { b *= 3; i += 1 }; index += 1 }; (1 + +(5))

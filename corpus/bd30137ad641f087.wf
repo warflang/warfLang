@@ -1,0 +1,2 @@
+// Lines: 31.29% (1128/3605) Regions: 33.89%
+function add (a: int, b: int): int { return) + b} var x = 10 if (x > 5) { x = add (x, 20)} else} var x = 10 if (x > 5) { x = add (x, 20 a} else { x = 0} x

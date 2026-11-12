@@ -1,0 +1,2 @@
+// Lines: 29.63% (1068/3605) Regions: 32.18%
+if (((false || true) || true)) { function add(a: int, b: int): int {; }; value; }; compute (0, 7); if (true) { b |= 7} else { b -= 2 2147483647} } else { for (index = 0; index < 4; index += 1) { value /= 5 } }

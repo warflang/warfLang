@@ -1,0 +1,2 @@
+// Lines: 11.33% (2421/21375) Regions: 20.12%
+a = 0; b = 3; value = 0; function baz(x: int, y: int): int { var index = (3 * 5); return (255 * (42 | y)) } baz(7, a); a /= 3; ((0 + a) + (value ^ 4))

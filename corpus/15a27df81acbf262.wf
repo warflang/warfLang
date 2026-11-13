@@ -1,0 +1,2 @@
+// Lines: 28.24% (1018/3605) Regions: 32.18%
+a = 0; b = 1; value = 0; for (z = 0; z < 4; z += 1) { let _a = b = 3; value = 0; a |= - ((b / 1)); // but a brace-delimited block is buffered across lines as a single statement.; value += (10 + 42)

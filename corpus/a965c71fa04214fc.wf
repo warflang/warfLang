@@ -1,0 +1,2 @@
+// Lines: 35.73% (1288/3605) Regions: 39.27%
+a = 2; b = 4; value = 0; if (((5 ^ 3) <= ~(value))) { if ((5 == 42)) { value = 5}} else { for (z = 0; z < 5; z += 1) { a ^= 3}}; function max (x: int, y: int): int { y |= y; while (i < 3) { b *= 3; i = 3; value = 0; let n = ((255 * value) & 1); i = 0; while (i < 1) { var n = (255 != 2); i += 1}; n = (7 & + 42); index = 0; while (index < 1) { i = 0; while (index < 1) { function foo (x, y) { x ^= x; return 255} foo (255, 255); index += 1}; - ((a | 4))

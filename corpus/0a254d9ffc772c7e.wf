@@ -1,0 +1,2 @@
+// Lines: 12.04% (2573/21375) Regions: 20.73%
+a = 5; b = 4; value = 0; if ((+(a) <= 7)) { for (index = 0; index < 3; index += 1) { value -= 7 } } else { var res = value }; b = ((+2 * 1) ^ (2 | +10)); var _a = -((7 - ~42)); _a

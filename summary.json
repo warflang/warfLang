@@ -1,18 +1,18 @@
 {
   "mode": "corpus",
   "total_runs": 423,
-  "corpus_size": 472,
+  "corpus_size": 495,
   "findings_count": 0,
   "cumulative_coverage": {
-    "lines_covered": 3750,
+    "lines_covered": 3746,
     "lines_total": 21375,
-    "lines_percent": 17.543859649122805,
+    "lines_percent": 17.52514619883041,
     "regions_covered": 2195,
     "regions_total": 7655,
     "regions_percent": 28.6740692357936,
-    "branches_covered": 1358,
+    "branches_covered": 1353,
     "branches_total": 2179,
-    "branches_percent": 62.322166131252864
+    "branches_percent": 62.09270307480496
   },
   "best_single_program": "a = 5; b = 3; value = 0; if (((true || true) != (2 >= 255))) { let a = 5 } else { if ((true != true)) { b ^= ~1 } }; index = 0; while (index < 4) { value &= (value ^= +5); index += 1 }; value += ((5 * 7) / (b | value)); function step(x: int, y: int): int { if (false) { y += 0 } else { y -= 10 }; return y } step(b, -((0 * 5))); a",
   "best_single_coverage_percent": 38.05825242718446,

@@ -1,0 +1,2 @@
+// Lines: 10.24% (2189/21375) Regions: 18.21%
+{ a = 5; b = 4; value = 0; index = 0; while (index < 5) { let a = value; index += 1 }; ((4 - value) * (0 | 4)) }

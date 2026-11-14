@@ -1,0 +1,2 @@
+// Lines: 33.54% (1209/3605) Regions: 38.00%
+a = 1; b = 10; value = 0; function compute(x: int, y: int): int { x /= ~1; return +((1 / ~0)) } compute(((7 | 0) ^ (b | b)), 10); i = 0; while (i < 3) { function foo(x: int, y: int): int { x &= 255; return (+42 * x) } foo((a * 1), (b |= a)); i += 1 }; +2

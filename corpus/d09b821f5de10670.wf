@@ -1,0 +1,2 @@
+// Lines: 27.10% (977/3605) Regions: 30.17%
+if (((1 != 4) && true)) { a = 0; b = 3 value = 0, for (index = 0; value ^= (42 | a)); let _a = (0 * 255)

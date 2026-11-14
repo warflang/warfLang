@@ -1,0 +1,2 @@
+// Lines: 2.53% (537/21213) Regions: 5.01%
+// Skip 2; if (i == 2) {; cotinue // inline comment after continue; }; acc += i // add cgurrent index; }; // PReturn final value; return acc; }; // Multi-line expressions and variable declarations; le}t start = 10 // starting offset; var bonu

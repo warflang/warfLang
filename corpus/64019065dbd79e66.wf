@@ -1,0 +1,2 @@
+// Lines: 29.68% (1070/3605) Regions: 32.91%
+a = 2; b = 4; 0, for (index = 0; index < 3; index += 1) { function baz (x: int, y: int): int { x = x; return a + b;}; var = 10; b for {; // Skip 2; if (i == 2) {; continue // inline comment after conti

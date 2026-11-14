@@ -1,0 +1,2 @@
+// Lines: 24.22% (873/3605) Regions: 27.33%
+a = 1; b = 3; value = 0; let n = ((255 * value) &; b = 3 value = 0, for {; // Skip 2; if (i == 2) {; continue // inline comment after continue; }; acc += i // add current index; }; // Return final value; return acc; }; // Multi-line expressions and variable declarations; let start = 10 // starting offset; var bonu

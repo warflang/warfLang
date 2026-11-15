@@ -1,0 +1,2 @@
+// Lines: 10.60% (2265/21375) Regions: 18.68%
+a = 1; b = 3; value = 0; if ((true && false)) { let z = (2 - -10) }; b -= (~(42) / ~(1)); value

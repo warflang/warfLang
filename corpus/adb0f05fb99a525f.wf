@@ -1,0 +1,2 @@
+// Lines: 13.85% (2960/21375) Regions: 23.81%
+a = 2; b = 4; value = 0; if (((5 ^ 42) != b)) { value |= +(value) }; let b = -2; a /= 10; function compute(x: int, y: int): int { if (true) { y = 42 } else { y = 42 }; return x } compute((5 ^ value), b); (a * (3 & 5)); let n = ~(42)

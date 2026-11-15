@@ -1,0 +1,2 @@
+// Lines: 40.11% (1446/3605) Regions: 42.98%
+a = 2; b = 4; value = 0; if (((5 ^ 42) != b)) { value |= + (value)}; let b = - 2; a /= 10; function compute (x: int, y: int): int { if (true) { y = 42} else { y = 42}; return x} compute ((5 ^ value), b); b = 3 value = 0, for (index = 0; index < 3; index += 1) { function baz (x: int, y: int): int { x = x; return a + b;} index var x = 10; b), value); index = 0; while (index < 1) { function foo (x, y) { x ^= x; return 255} foo (, 255); b), value); index = 0; index = 0; while (index < 1) { function foo (x, y) {

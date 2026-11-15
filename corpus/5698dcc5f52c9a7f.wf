@@ -1,0 +1,2 @@
+// Lines: 2.88% (104/3605) Regions: 3.81%
+-= a = 2; b = 4; value =; i += 1) {; // Skip 2; if (i == 2) {; continue // inline comment after continue; }; acc += i // add current index; }; while (index < 1) { a -= 4; index += 1}

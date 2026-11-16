@@ -1,0 +1,2 @@
+// Lines: 11.45% (2448/21375) Regions: 19.91%
+a = 1; b = 1; value = 0; let n = -42; i = 0; while (i < 4) { if ((a == ~42)) { a &= value } else { value *= 255 }; i += 1 }; b

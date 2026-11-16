@@ -1,0 +1,2 @@
+// Lines: 28.24% (1018/3605) Regions: 30.95%
+{ if (((1 != 4) && true)) a = 0; b = 3 value = 0, for b;}; var x = 10; = 1; var y = (b / + 2); c = 0; while (c < 5) { b |= a; c += 1}

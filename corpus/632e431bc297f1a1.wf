@@ -1,0 +1,2 @@
+// Lines: 35.92% (1295/3605) Regions: 38.73%
+{ a = 2; b = 4; value = 0; if (((5 ^ 3) != ~(value))) { if ((5 == 42)) { value = 5}} else value); index = 0; while (index < 1) { function foo (x, y) { x ^= x; return 255} foo (, 255); index += 1, value); index = 0; (index < 1) while { function foo (x, y) { x ^= x; return < 3) return total} computeLoopControl (2147483647)} else { function baz (x: int, y: int): int { y /= y; return (x * y)} baz (5, 42)}; for (index = 0; index < 5;) index += 1) { value -= ~0}

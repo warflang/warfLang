@@ -1,0 +1,2 @@
+// Lines: 9.45% (2019/21375) Regions: 16.77%
+a = 1; b = 10; value = 0; if (false) { a *= 3 } else { let _a = 10 }; -2

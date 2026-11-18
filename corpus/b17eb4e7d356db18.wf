@@ -1,0 +1,2 @@
+// Lines: 37.09% (1337/3605) Regions: 40.59%
+a = 1; b = 10; value = 0; function abs (x: int, y: int): int { x |= (42 & 4); return 0} abs (((2 ^ + 2) + (b & 2)), 3); value |= value; if (((1 != value) || (false && false))) { b ^= (value = + 3)} else { function compute (x, y) { y ^= 3; return (42 - ~7)} compute ((10 ^ 3), (1 / value))}; index = 0; while (index < 1) { function foo (x, y) { x ^= x; return 255} foo (, 255); index += 1 E; - ((a + 4))

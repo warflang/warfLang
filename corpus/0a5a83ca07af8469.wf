@@ -1,0 +1,2 @@
+// Lines: 36.92% (1331/3605) Regions: 40.34%
+a = 1; b = 4; value = 0; b *= (b *= (2 ^ 4)); if (true) { if (true) { b /= 255}} else { function bar (x: int, y: int): int { x = 1; return - (y)} bar (- (42), (value /= b) 4)};}; var x = 10; b), value); index = 0; return ({ x = 1; return - (y)} bar (- (42), (value /= b))}; let index = 3; c = 0; while (c < 1) { if ((false && true)) { a |= value} else { a += b}; c += 1}; b

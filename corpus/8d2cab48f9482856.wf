@@ -1,0 +1,2 @@
+// Lines: 37.59% (1355/3605) Regions: 41.12%
+a = 2; b = 7; value = 0; if (((5 ^ 42) != b)) { value |= + (value)}; let b = - 2; a /= 10; 1 / 0

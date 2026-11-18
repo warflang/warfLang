@@ -1,0 +1,2 @@
+// Lines: 26.63% (960/3605) Regions: 30.81%
+a = 5; b = 10; value = 0; if ((false || (10 == 2))) { { b |= 42 } }; b = (+10 * (value -= b)); value = !(false); b

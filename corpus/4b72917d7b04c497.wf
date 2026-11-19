@@ -1,0 +1,2 @@
+// Lines: 29.46% (1062/3605) Regions: 33.11%
+a = 1; b = 4; value = 0; if (((b -= 255) >= 255)) { for (z = 0; z < 3; z += 1) { b -= 7 } } else { a ^= b }; for (index = 0; index < 4; index += 1) { var c = (0 | +5) }; function abs(x, y) { if ((x < 3)) { y /= y } else { x -= 4 }; return -(+(7)) } abs(value, (7 | (4 | b))); ((+10 & 1) * 3)

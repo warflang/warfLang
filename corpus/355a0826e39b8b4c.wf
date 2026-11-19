@@ -1,0 +1,6 @@
+// Lines: 29.82% (1075/3605) Regions: 33.79%
+function foo(a, b, c) {
+  a + b - c
+}
+
+foo(2, 3, 4); if (true) { b += 0 }

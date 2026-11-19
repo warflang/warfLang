@@ -1,0 +1,2 @@
+// Lines: 30.40% (1096/3605) Regions: 33.89%
+a = 5; b = 4; value = 0; let z = (7 & (value += a)); for (index = 0; index < 3; index += 1) { let a = false }; for (index = 0; index < 2; index += 1) { index = 0; while (index < 3) { value |= -10; index += 1 } }; b = (false && (true != true)); +((value / value))

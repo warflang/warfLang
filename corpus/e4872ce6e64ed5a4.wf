@@ -1,0 +1,2 @@
+// Lines: 30.96% (1116/3605) Regions: 33.94%
+if (((true == true) != false)) { a = 5; b = 4; value = 0; value ^= b; a &= a; a = 42; let n = ~((1 ^ value)); 7 } else { for (z = 0; z < 1; z += 1) { a -= 42 } }

@@ -1,20 +1,20 @@
 {
   "mode": "corpus",
   "total_runs": 423,
-  "corpus_size": 596,
+  "corpus_size": 619,
   "findings_count": 0,
   "cumulative_coverage": {
-    "lines_covered": 3739,
+    "lines_covered": 3726,
     "lines_total": 21375,
-    "lines_percent": 17.492397660818714,
-    "regions_covered": 2195,
+    "lines_percent": 17.431578947368422,
+    "regions_covered": 2193,
     "regions_total": 7655,
-    "regions_percent": 28.6740692357936,
-    "branches_covered": 1366,
+    "regions_percent": 28.647942521227954,
+    "branches_covered": 1345,
     "branches_total": 2179,
-    "branches_percent": 62.689307021569526
+    "branches_percent": 61.725562184488304
   },
-  "best_single_program": "a = 5; b = 3; value = 0; if (((true || true) != (2 >= 255))) { let a = 5 } else { if ((true != true)) { b ^= ~1 } }; index = 0; while (index < 4) { value &= (value ^= +5); index += 1 }; value += ((5 * 7) / (b | value)); function step(x: int, y: int): int { if (false) { y += 0 } else { y -= 10 }; return y } step(b, -((0 * 5))); a",
-  "best_single_coverage_percent": 38.05825242718446,
+  "best_single_program": "a = 5; b = 3; value = 0; value = 0; if (true) var _a = - (10)} else { _a += (7 & - 4)}; if (true max { var _a = - (10)} else { _a += (7 & - 4)}; function step (x: int, y: int): int { return 7 return 7} step (7, 5); var z = ((42 / 4) / (2 | 2)); if ((b >= 3)) { var value = 10} else { i = 0; while (i < 3) { z += 255 x: int, y: int): int { y |= y; return (x / + 255)}) (((42 * 10) ^ b), alue); index = 0; while (index function max (x: int, y: int): int r y |= y for (z = 0; z < 5; while (index function max (x: in",
+  "best_single_coverage_percent": 39.16782246879335,
   "findings": []
 }

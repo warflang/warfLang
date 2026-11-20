@@ -1,0 +1,2 @@
+// Lines: 16.45% (593/3605) Regions: 19.27%
+if (true) { if (; // but a brace-delimited block is buffered across lines as a single statement. } else { let n = (-7 >= 1) } } else { if (true) { a /= value } else { b ^= 4 } }

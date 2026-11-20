@@ -1,0 +1,2 @@
+// Lines: 34.04% (1227/3605) Regions: 36.97%
+{ a = 5; b = 4; value = 0; let _a = b; function bar (x, y) { n = (0 <= 3); return ((n /= x) | ~7)} bar ((b /= (b ^= 2)), 0); index = 0; while;; 1 ? 2 }

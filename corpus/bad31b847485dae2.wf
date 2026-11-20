@@ -1,0 +1,2 @@
+// Lines: 34.67% (1250/3605) Regions: 38.63%
+if (false) { a = 2; b = 4; value = 0; if (((5 ^ 3) <= ~(value))) { if ((5 == 42)) { value = 5}} else { i (z = 0; z < 5; z += 1) { a | ^= 3}}; function max (x: int, y: int): int { y |= y; return (x / + 255) & max (((42 * 10) ^ b), value); index = 0; b = 4; value =; for += 1) {; // Skip 2; if (i == 2) {; continue // inline comment after continue; }; acc += i // add current index; }; // Return final value; return acc; }; // Multi-line expressions and variable declarations; let start = 10 // starting offset; va

@@ -1,0 +1,2 @@
+// Lines: 13.83% (2957/21375) Regions: 23.62%
+a = 1; b = 10; value = 0; i = 0; while (i < 4) { c = 0; while (c < 4) { value /= b; c += 1 }; i += 1 }; function foo(x: int, y: int): int { let _a = (~2 * 4); return -((-4 & 255)) } foo(-(4), (2 / 3)); function step(x: int, y: int): int { y -= (+5 & 5); return -((2 | 1)) } step(255, ((a ^ 10) + (b | a))); (value | (value + 1))

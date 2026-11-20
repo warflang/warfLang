@@ -1,18 +1,18 @@
 {
   "mode": "corpus",
   "total_runs": 423,
-  "corpus_size": 619,
+  "corpus_size": 642,
   "findings_count": 0,
   "cumulative_coverage": {
-    "lines_covered": 3726,
+    "lines_covered": 3736,
     "lines_total": 21375,
-    "lines_percent": 17.431578947368422,
-    "regions_covered": 2193,
+    "lines_percent": 17.478362573099414,
+    "regions_covered": 2186,
     "regions_total": 7655,
-    "regions_percent": 28.647942521227954,
-    "branches_covered": 1345,
+    "regions_percent": 28.556499020248204,
+    "branches_covered": 1346,
     "branches_total": 2179,
-    "branches_percent": 61.725562184488304
+    "branches_percent": 61.77145479577788
   },
   "best_single_program": "a = 5; b = 3; value = 0; value = 0; if (true) var _a = - (10)} else { _a += (7 & - 4)}; if (true max { var _a = - (10)} else { _a += (7 & - 4)}; function step (x: int, y: int): int { return 7 return 7} step (7, 5); var z = ((42 / 4) / (2 | 2)); if ((b >= 3)) { var value = 10} else { i = 0; while (i < 3) { z += 255 x: int, y: int): int { y |= y; return (x / + 255)}) (((42 * 10) ^ b), alue); index = 0; while (index function max (x: int, y: int): int r y |= y for (z = 0; z < 5; while (index function max (x: in",
   "best_single_coverage_percent": 39.16782246879335,

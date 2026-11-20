@@ -1,0 +1,2 @@
+// Lines: 26.46% (954/3605) Regions: 31.54%
+a = 1; b = 4; value = 0; value |= (2 * (10 / value)); b

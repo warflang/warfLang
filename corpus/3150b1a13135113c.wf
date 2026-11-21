@@ -1,0 +1,2 @@
+// Lines: 15.59% (562/3605) Regions: 18.92%
+;) function // but a brace-delimited block is buffered across lines as a single statement.; value += (10 + 42)

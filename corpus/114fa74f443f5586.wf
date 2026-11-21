@@ -1,0 +1,2 @@
+// Lines: 31.54% (1137/3605) Regions: 34.87%
+a = 1; b = 4; value = 0; if (((255 * ~4) < b)) { i = 0; while (i < 5) { value = +255; i += 1 } } else { if ((5 == 255)) { b *= 255 } }; let n = (value | 3); if (((a = a) != +(a))) { if (true) { a /= 42 } } else { let n = (false == true) }; for (index = 0; index < 4; index += 1) { value = b }; (value = (+1 | 3))

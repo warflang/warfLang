@@ -1,0 +1,2 @@
+// Lines: 29.63% (1068/3605) Regions: 32.91%
+function (x: int): bool { return x > 0} res = 0; if (isPos (3) && !isPos (- 1)) { res = 1} res

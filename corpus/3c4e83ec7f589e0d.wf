@@ -1,0 +1,2 @@
+// Lines: 28.90% (1042/3605) Regions: 31.78%
+if (((1 != 4) && true)) { a = 0; return a + b; }; var x = 10; b), value); index = 0; while (index < 1) { function foo (x, y) { x ^= x; retu

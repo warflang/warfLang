@@ -1,0 +1,2 @@
+// Lines: 12.79% (2734/21375) Regions: 22.23%
+a = 5; b = 10; value = 0; if (((2 - 10) <= (b + 0))) { function bar(x: int, y: int): int { y -= 255; return (+5 ^ x) } bar(10, +4) }; value

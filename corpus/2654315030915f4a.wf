@@ -1,0 +1,2 @@
+// Lines: 14.54% (3107/21375) Regions: 24.86%
+a = 5; b = 3; value = 0; for (z = 0; z < 5; z += 1) { if ((2 == b)) { a ^= - 1}}; function compute (x, y) { return (~10 / 42); return (42 * - (y))} compute (- ((+ 1 ^ 255)), b); for (z = 0; z < 1; z += 1) { if ((value < 7)) { value /= a} else { a &= a}}; 2; c = 0; while (c < 1) { a &= 5; c += 1}

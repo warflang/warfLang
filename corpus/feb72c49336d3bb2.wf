@@ -1,0 +1,2 @@
+// Lines: 23.44% (845/3605) Regions: 27.58%
+print (42) print (100 + 23) print ({ i = 0; while (i < 3) { b *= 3; i += 1}; index += 1}; (1 + + (5))

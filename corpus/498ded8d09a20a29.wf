@@ -1,0 +1,2 @@
+// Lines: 37.56% (1354/3605) Regions: 40.54%
+if (true) { a = 2; b = 3; value = 0; { function abs(x: int, y: int): int { y = 7; return 2 } abs((a ^ 0), 42) }; i = 0; while (i < 3) { { a = value }; i += 1 }; value = false; (b /= ~(b)) } else { for (z = 0; z < 1; z += 1) { b |= a } }

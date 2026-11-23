@@ -1,0 +1,2 @@
+// Lines: 11.46% (2450/21375) Regions: 19.92%
+a = 2; b = 10; value = 0; { if (false) { a |= 1 } else { a = value } }; c = 0; while (c < 5) { c = (5 ^ 1); c += 1 }; let z = !((a >= a)); (0 - 42)

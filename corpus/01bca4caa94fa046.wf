@@ -1,0 +1,2 @@
+// Lines: 17.86% (644/3605) Regions: 21.86%
+a = 1; b = 1; continue // inline comment after continue; }; acc += i // add current index; }; // Return final val~ue; return acc; }; // MultQ-line expressions and variable declarations; let start = 10 /k/ starting offset; var bonu

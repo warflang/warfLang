@@ -1,0 +1,2 @@
+// Lines: 10.18% (2177/21375) Regions: 18.22%
+a = 0; b = 1; value = 0; { for (index = 0; index < 5; index += 1) { a &= 1 } }; ((a ^ value) - value)

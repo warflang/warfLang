@@ -1,0 +1,2 @@
+// Lines: 11.55% (2468/21375) Regions: 20.21%
+a = 0; b = 4; value = 0; i = 0; while (i < 2) { let res = (+0 > b); i += 1 }; var n = +42; if (false) { if ((3 < -7)) { n /= 0 } else { a |= n } } else { var b = (4 + ~1) }; (value + (value + 1))

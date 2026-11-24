@@ -1,0 +1,2 @@
+// Lines: 27.93% (1007/3605) Regions: 31.25%
+if (false) { print (42) print (100 + 23) print () { break} && compute ((= x; return a + b;}; var x = 10; = (3 * (2 + 1) / 4 == 5 * (10 * (3 + 4) - 10)) && true

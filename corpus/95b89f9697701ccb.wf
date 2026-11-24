@@ -1,0 +1,2 @@
+// Lines: 31.29% (1128/3605) Regions: 34.03%
+{ if (true) { function add (a: int, b: int): int { return x > 0} res = 0; if (isPos (3) && !isPos (- 1)) { res = 1} res; missing_var += 1

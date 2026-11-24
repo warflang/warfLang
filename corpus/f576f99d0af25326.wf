@@ -1,0 +1,2 @@
+// Lines: 26.77% (965/3605) Regions: 29.58%
+if (((x |= 10) > -(4))) { function add (a: int, b: int): int { return a + b + 2 function foo (arg) { arg foo} &= (10); function inc (x: int): int { return x + 1} inc (true); 1 ? 2; function compute(x, y) { x ^= y; return y } compute((42 + a), (5 + 3)) } else { for (index = 0; index < 4; index += 1) { b -= 5 } }

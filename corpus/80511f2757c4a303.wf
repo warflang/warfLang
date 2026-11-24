@@ -1,0 +1,2 @@
+// Lines: 28.18% (1016/3605) Regions: 32.08%
+a = 5; b = 1; value = 0; b |= (255 ^ ~4); let a = -((5 + ~5)); var c = (b ^= 4); index = 0; while (index < 4) { index = (true == true); index += 1 }; -((a & 10))

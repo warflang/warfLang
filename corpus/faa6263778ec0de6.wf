@@ -1,0 +1,2 @@
+// Lines: 14.66% (3133/21375) Regions: 24.99%
+a = 5; b = 4; value = 0; for (index = 0; index < 2; index += 1) { function baz(x, y) { x *= 3; return -1 } baz((value * 1), (4 * ~5)) }; if (((b | 10) == (2 / 42))) { value -= -(2) } else { value &= +(b) }; ((4 & +3) * 42); i = 0; while (i < 3) { value &= 10; i += 1 }

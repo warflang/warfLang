@@ -1,0 +1,2 @@
+// Lines: 10.95% (2341/21375) Regions: 19.20%
+a = 5; b = 1; value = 0; for (index = 0; index < 2; index += 1) { let _a = 3 }; ((-1 + 10) * (value ^ 5))

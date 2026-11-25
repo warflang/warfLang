@@ -1,0 +1,2 @@
+// Lines: 13.63% (2913/21375) Regions: 23.40%
+a = 2; b = 10; value = 0; c = 0; while (c < 4) { value += (b - +4); c += 1 }; function baz(x, y) { let n = (false != false); return x } baz(~((0 / b)), ((1 | 1) | value)); (10 ^ (a * 4))

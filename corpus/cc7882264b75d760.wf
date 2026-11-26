@@ -1,0 +1,2 @@
+// Lines: 36.20% (1305/3605) Regions: 39.85%
+a = 0; b = 10; value = 0; c = 0; while (c < 1) { function max(x: int, y: int): int { x = 2; return x } max(value, ~(42)); c += 1 }; value = (3 < (a & -42)); function baz(x, y) { for (z = 0; z < 1; z += 1) { x -= ~10 }; return (x &= 7) } baz(b, b); ((value -= +4) * 7)

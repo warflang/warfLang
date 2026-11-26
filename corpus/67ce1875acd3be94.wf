@@ -1,0 +1,2 @@
+// Lines: 13.08% (2795/21375) Regions: 22.74%
+a = 2; b = 1; value = 0; if (((a <= 42) != !(false))) { function max(x, y) { x = x; return (y - y) } max(2, (a | -5)) }; index = 0; while (index < 2) { value = 2; index += 1 }; 0

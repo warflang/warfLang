@@ -1,0 +1,2 @@
+// Lines: 10.41% (2225/21375) Regions: 18.63%
+a = 2; b = 10; value = 0; b *= 10; value = ((10 / 7) + 0); c = 0; while (c < 5) { index = 0; while (index < 4) { b |= 5; index += 1 }; c += 1 }; +(+5)

@@ -1,0 +1,2 @@
+// Lines: 35.87% (1293/3605) Regions: 39.32%
+a = 1; b = 10; value = 0; a = ~(255); function abs(x, y) { for (index = 0; index < 2; index += 1) { x += y }; return y } abs(255, ~((a ^= -255))); for (index = 0; index < 2; index += 1) { index = 0; while (index < 4) { b = b; index += 1 } }; let x = 4; value

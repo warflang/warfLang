@@ -1,0 +1,2 @@
+// Lines: 27.63% (996/3605) Regions: 29.98%
+function add (a: int, b: int): int { return a + b} var x = 10 if (); for (index = 0; index < 5; index += 1) { a -= a}; if ((false != true)) { a ^= ~3}; if ((0 >= a)) { b *= 3} else { b *= a}

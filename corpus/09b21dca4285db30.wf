@@ -1,0 +1,2 @@
+// Lines: 12.60% (2694/21375) Regions: 22.00%
+a = 0; b = 3; value = 0; if (true) { function bar(x: int, y: int): int { x |= x; return +(x) } bar((+1 | 2), (255 ^ b)) } else { a ^= a }; 42

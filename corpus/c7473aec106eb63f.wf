@@ -1,0 +1,2 @@
+// Lines: 29.24% (1054/3605) Regions: 32.47%
+if (((1 != 4) && true)) { a = 0; b = 3 value = 0, for (index = 0; index < 3; index += 1) { function baz true

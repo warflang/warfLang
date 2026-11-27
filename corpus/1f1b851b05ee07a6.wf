@@ -1,0 +1,2 @@
+// Lines: 27.21% (981/3605) Regions: 31.49%
+a = 0; b = 3; v5alue = 0; c = 0; while (c < 2) { if ((0 == a)) { b -= 10} = 0; a |= - ((b / 1)); // but a brace-delimited block is uffered across lines as a single statemenot.; value += (10 + 42)
